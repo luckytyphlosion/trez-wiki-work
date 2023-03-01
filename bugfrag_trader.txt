@@ -1,0 +1,124 @@
+BugFrag Trader
+	M-Cannon	FGH			
+	Silence		CJN*		
+	Tornado		DLR			
+	WideSht3	STU			
+	MrkCan3		ERY			
+	Pulsar3		CRS			
+	SpShake3	STU			
+	Static		NSV			
+	MegEnBom	CKZ			
+	Quake3		FHN			
+	ResetBom	DIO			
+	BugBomb		ART*		
+	CannBall	CTZ*		
+	Geyser		GMS			
+	BlkBomb		LRZ			
+	WideBlde	ALV			
+	LongBlde	ELP			
+	VarSwrd		BCV			
+	Slasher		BIR			
+	MoonBld3	CLT			
+	Katana3		AJZ			
+	TankCan3	FMR			
+	RedFrut3	HOU			
+	Skully3		GNU			
+	DrilArm3	IPZ			
+	TimeBom3	FHS			
+	Voltz3		AHV			
+	Lance		CLR*		
+	BoyBomb3	BQY			
+	Guard3		CMS*		
+	Magnum		EOV			
+	MetaGel		FNT			
+	Snake		CMZ			
+	CircGun		ACF			
+	Mine		HPT			
+	VDoll		OTZ			
+	Astroid3	CPY			
+	Recov150	Q			
+	Recov200	I			
+	Recov300	Y			
+	GrabRvng	FNP			
+	SloGauge	HQW*		
+	FstGauge	HQW			
+	Geddon3		AOV			
+	RainyDay	BGL			
+	ElemRage	EKW			
+	AirSpin3	AGJ			
+	Barr200		W			
+	NrthWind	DQV*		
+	AntiFire	EKT*		
+	AntiWatr	DGQ*		
+	AntiElec	ANY*		
+	AntiWood	MSZ*		
+	AntiNavi	MTV			
+	AntiSwrd	DOR			
+	AntiRecv	BJP			
+	Navi+20		*			
+	FireHit3	EFG			
+	HotBody3	JMS			
+	AqWhirl3	DIR			
+	SideBub3	ENP			
+	ElcReel3	ELR			
+	CusVolt3	GMP			
+	CrsShld3	DOZ			
+	MudWave		DNW			
+	CactBal3	LMN			
+	WoodNos3	ISV			
+	LifeAur		D			
+	Muramasa	M			
+	Guardian	O			
+	Anubis		A			
+	Attck+30	*			
+	BugFix		H*			
+	DblPoint	*			
+	Snctuary	S			
+	FullCust	*			
+	Meteors		R			
+	NumbrBl		N			
+	Jealousy	J			
+	Poltrgst	P			
+	BlakWing	W			
+	JustcOne	J			
+	NeoVari		V			
+	Z Saver		Z			
+	SuprVulc	S			
+	Roll[SP]	R			
+	Roll[DS]	R			
+	GyroMan[SP]	G			[TP]
+	GyroMan[DS]	G			[TP]
+	NaplmMn[SP]	N			[TP]
+	NaplmMn[DS]	N			[TP]
+	SerchMn[SP]	S			[TP]
+	SerchMn[DS]	S			[TP]
+	MagntMn[SP]	M			[TP]
+	MagntMn[DS]	M			[TP]
+	Meddy[SP]	M			[TP]
+	Meddy[DS]	M			[TP]
+	ProtoMn[SP]	B			[TP]
+	ProtoMn[DS]	B			[TP]
+	NumbrMn[SP]	N			[TC]
+	NumbrMn[DS]	N			[TC]
+	Colonel[SP]	C			[TC]
+	Colonel[DS]	C			[TC]
+	ShadoMn[SP]	S			[TC]
+	ShadoMn[DS]	S			[TC]
+	TmhwkMn[SP]	T			[TC]
+	TmhwkMn[DS]	T			[TC]
+	KnigtMn[SP]	K			[TC]
+	KnigtMn[DS]	K			[TC]
+	ToadMan[SP]	T			[TC]
+	ToadMan[DS]	T			[TC]
+	ShadeMn[SP]	S			
+	ShadeMn[DS]	S			
+	BlizMan[SP]	B			
+	BlizMan[DS]	B			
+	CloudMn[SP]	C			
+	CloudMn[DS]	C			
+	CosmoMn[SP]	C			
+	CosmoMn[DS]	C			
+	LarkMan[SP]	S			
+	LarkMan[DS]	S			
+	GridMan[SP]	F			
+	GridMan[DS]	F			

@@ -11,6 +11,19 @@ NO_TRADER_CHIPS_HEADER = """\
 !ID||Name||! class="wikitable unsortable" | Locations
 """
 
+CHIP_LOCATION_TEMPLATE_PART_1 = """\
+{{{{ChipLocation
+|id={id}
+|name={name}
+"""
+
+DUMMY_LOCATION_TEXT = "TODO"
+
+HIGSBYS_TRADER_TEXT = ""
+HALL_TRADER_TEXT = ""
+OLD_MINE_TRADER_TEXT = ""
+BUGFRAG_TRADER_TEXT = ""
+
 def is_library_chip(chip):
     if chip is None:
         return False
@@ -61,9 +74,132 @@ def bn5_mega_sort_index(chip):
     else:
         return chip_index + 36
 
-def main():
+def get_basic_chip_id_name(chip):
+    return f"{chip['index']:03d}", chip["name"]["en"]
+
+version_to_game_version = {
+    "protoman": "{{GameVersion|TP}}",
+    "colonel": "{{GameVersion|TC}}",
+}
+
+def get_mega_chip_id_name(chip):
+    version = chip["version"]
+    chip_name = chip["name"]["en"]
+    if chip_name.endswith("DS"):
+        stacked_suffix = "{{DS}}"
+    elif chip_name.endswith("SP"):
+        stacked_suffix = "{{SP}}"
+    else:
+        stacked_suffix = None
+
+    if stacked_suffix is not None:
+        chip_name = chip_name[:-2] + stacked_suffix
+
+    chip_index = chip["index"]
+
+    if version is None:
+        chip_id = f"{chip_index:03d}"
+    else:
+        game_version = version_to_game_version[version]
+        chip_id = f"{game_version} {chip_index:03d}"
+
+    return chip_id, chip_name
+
+def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chip_traders=None):
     output = []
 
+    for chip in chips:
+        id, name = chip_id_name_func(chip)
+        cur_output = CHIP_LOCATION_TEMPLATE_PART_1.format(id=id, name=name)
+        output.append(cur_output)
+        for code in chip["codes"]:
+            if code == "*":
+                code = "asterisk"
+            output.append(f"|{code}={DUMMY_LOCATION_TEXT}\n")
+
+        if chip_traders is not None:
+            traders_for_chip = chip_traders.find_traders_for_chip(chip)
+            output.append(f"|traders={traders_for_chip}\n")
+
+        output.append("}}\n")
+
+    #output.append("\n")
+
+    return output
+
+NO_VERSION = 0
+PROTOMAN = 1
+COLONEL = 2
+
+class ChipTraderEntry:
+    __slots__ = ("name", "codes", "version")
+
+    def __init__(self, line):
+        if "[TP]" in line:
+            self.version = "protoman"
+        elif "[TC]" in line:
+            self.version = "colonel"
+        else:
+            self.version = None
+
+        line = line.replace("[TC]", "").replace("[TP]", "").replace("[", "").replace("]", "").strip()
+        self.name, self.codes = line.rsplit(maxsplit=1)
+
+class ChipTrader:
+    __slots__ = ("name", "chips")
+
+    def __init__(self, filename):
+        self.chips = {}
+
+        with open(filename, "r") as f:
+            line = next(f)
+            self.name = line.strip()
+
+            for line in f:
+                entry = ChipTraderEntry(line)
+                self.chips[entry.name] = entry
+
+    def get_trader_text_if_has_chip(self, chip):
+        chip_name = chip["name"]["en"]
+        entry = self.chips.get(chip_name)
+        if entry is not None:
+            trader_text = ""
+            if entry.version is not None:
+                trader_text += f"{version_to_game_version[entry.version]} "
+
+            trader_text += self.name
+            all_codes = set(chip["codes"])
+            entry_codes = set(entry.codes)
+            missing_codes = all_codes - entry_codes
+
+            if len(missing_codes) != 0:
+                trader_text += " (No " + ", ".join(("{{code|%s}}" % code) for code in missing_codes) + ")"
+
+            return trader_text
+        else:
+            return None
+
+class ChipTraders:
+    __slots__ = ("traders",)
+
+    def __init__(self, filenames):
+        self.traders = []
+        for filename in filenames:
+            self.traders.append(ChipTrader(filename))
+
+    def find_traders_for_chip(self, chip):
+        found_trader_texts = []
+        for trader in self.traders:
+            cur_trader_text = trader.get_trader_text_if_has_chip(chip)
+            if cur_trader_text is not None:
+                found_trader_texts.append(cur_trader_text)
+
+        if len(found_trader_texts) != 0:
+            return ", ".join(found_trader_texts)
+        else:
+            return None
+
+def main():
     with open("bn5_chips.json", "r") as f:
         bn5_chips = json.load(f)
 
@@ -71,6 +207,8 @@ def main():
 
     with open("bn5_library_chips.json", "w+") as f:
         json.dump(bn5_library_chips, f, indent=2)
+
+    chip_traders = ChipTraders(("higsbys_trader.txt", "hall_trader.txt", "mine_trader.txt", "bugfrag_trader.txt"))
 
     #bn5_remaining_sections = set(chip.get("section") for chip in bn5_library_chips)
     bn5_chips_by_section = {}
@@ -107,145 +245,46 @@ def main():
         bn5_chips_by_section[section].sort(key=sort_func)
 
     bn5_standard = bn5_chips_by_section["standard"]
-
-    output.append(CHIPS_HEADER)
-
-    for i, chip in enumerate(bn5_standard, 1):
-        if i != chip["index"]:
-            raise RuntimeError()
-
-        output.append("|-\n")
-        output.append(f"|{i:03d}||{chip['name']['en']}||\n")
-        for code in chip["codes"]:
-            output.append("{{coderow|" + code + "|}}\n")
-        output.append("||\n")
-
-    output.append("|}\n")
+    bn5_standard_output = ["==Standard Class Chips==\n"]
+    bn5_standard_output.extend(gen_basic_chiploc_table(bn5_standard, chip_traders=chip_traders))
 
     with open("bn5_standard_chips_out.txt", "w+") as f:
-        f.write("".join(output))
-
-    output = []
+        f.write("".join(bn5_standard_output))
 
     bn5_mega = bn5_chips_by_section["mega"]
-
-    prev_chip_index = 0
-
-    output.append(CHIPS_HEADER)
-
-    for i, chip in enumerate(bn5_mega, 1):
-        chip_index = chip["index"]
-        #if chip_index - prev_chip_index not in (0, 1):
-        #    raise RuntimeError()
-
-        output.append("|-\n")
-
-        version = chip["version"]
-        chip_name = chip["name"]["en"]
-        if chip_name.endswith("DS"):
-            stacked_suffix = "{{stack|D|S}}"
-        elif chip_name.endswith("SP"):
-            stacked_suffix = "{{stack|S|P}}"
-        else:
-            stacked_suffix = None
-
-        if stacked_suffix is not None:
-            chip_name = chip_name[:-2] + stacked_suffix
-
-        if version is None:
-            output.append(f"|{chip_index:03d}||{chip_name}||\n")
-        else:
-            version_letter = version[0].upper()
-            output.append(f"|{chip_index:03d} ({version_letter})||{chip_name}||\n")
-
-        for code in chip["codes"]:
-            output.append("{{coderow|" + code + "|}}\n")
-
-        output.append("||\n")
-        #prev_chip_index = chip_index
-
-    output.append("|}\n")
+    bn5_mega_output = ["==Mega Class Chips==\n"]
+    bn5_mega_output.extend(gen_basic_chiploc_table(bn5_mega, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
     with open("bn5_mega_chips_out.txt", "w+") as f:
-        f.write("".join(output))
+        f.write("".join(bn5_mega_output))
 
-    output = []
-    output.append(NO_TRADER_CHIPS_HEADER)
-
+    bn5_giga_dark_output = ["==Giga Class Chips==\n", "===Team ProtoMan===\n"]
     bn5_giga_protoman = bn5_chips_by_section["giga_protoman"]
-    for i, chip in enumerate(bn5_giga_protoman, 1):
-        if i != chip["index"]:
-            raise RuntimeError()
-
-        output.append("|-\n")
-        output.append(f"|{i:03d}||{chip['name']['en']}||\n")
-        for code in chip["codes"]:
-            output.append("{{coderow|" + code + "|}}\n")
-
-    output.append("|}\n")
-
-    output.append(NO_TRADER_CHIPS_HEADER)
+    bn5_giga_dark_output.extend(gen_basic_chiploc_table(bn5_giga_protoman))
 
     bn5_giga_colonel = bn5_chips_by_section["giga_colonel"]
-    for i, chip in enumerate(bn5_giga_colonel, 1):
-        if i != chip["index"]:
-            raise RuntimeError()
+    bn5_giga_dark_output.append("===Team Colonel===\n")
+    bn5_giga_dark_output.extend(gen_basic_chiploc_table(bn5_giga_colonel))
 
-        output.append("|-\n")
-        output.append(f"|{i:03d}||{chip['name']['en']}||\n")
-        for code in chip["codes"]:
-            output.append("{{coderow|" + code + "|}}\n")
-
-    output.append("|}\n")
-
-    output.append(NO_TRADER_CHIPS_HEADER)
-
+    bn5_giga_dark_output.append("\n")
     bn5_dark = bn5_chips_by_section["dark"]
-    for i, chip in enumerate(bn5_dark, 1):
-        if i != chip["index"]:
-            raise RuntimeError()
-
-        output.append("|-\n")
-        output.append(f"|{i:03d}||{chip['name']['en']}||\n")
-        for code in chip["codes"]:
-            output.append("{{coderow|" + code + "|}}\n")
+    bn5_giga_dark_output.append("==Dark Chips==\n")
+    bn5_giga_dark_output.extend(gen_basic_chiploc_table(bn5_dark))
 
     with open("bn5_giga_dark_out.txt", "w+") as f:
-        f.write("".join(output))
+        f.write("".join(bn5_giga_dark_output))
 
-    output = []
-    output.append(NO_TRADER_CHIPS_HEADER)
-
+    bn5_secret_output = ["==Secret Chips==\n"]
     bn5_secret_registered = bn5_chips_by_section["secret_registered"]
-
-    for i, chip in enumerate(bn5_secret_registered, 1):
-        output.append("|-\n")
-        output.append(f"|{chip['index']:03d}||{chip['name']['en']}||\n")
-        for code in chip["codes"]:
-            output.append("{{coderow|" + code + "|}}\n")
-
-    output.append("|}\n")
-
-    output.append(NO_TRADER_CHIPS_HEADER)
+    bn5_secret_output.extend(gen_basic_chiploc_table(bn5_secret_registered))
+    bn5_secret_output.append("\n")
 
     bn5_secret_unregistered = bn5_chips_by_section["secret_unregistered"]
-
-    for i, chip in enumerate(bn5_secret_unregistered, 1):
-        output.append("|-\n")
-        output.append(f"|{chip['index']:03d}||{chip['name']['en']}||\n")
-        for code in chip["codes"]:
-            output.append("{{coderow|" + code + "|}}\n")
-
-    output.append("|}\n")
+    bn5_secret_output.append("==Unregistered Chips==\n")
+    bn5_secret_output.extend(gen_basic_chiploc_table(bn5_secret_unregistered))
 
     with open("bn5_secret_out.txt", "w+") as f:
-        f.write("".join(output))
-
-    #for section in ("standard", "mega", "giga", "dark", "secret"):
-        
-    #for section, bn5_chips_for_section in bn5_chips_by_section.items():
-        
-
+        f.write("".join(bn5_secret_output))
 
 if __name__ == "__main__":
     main()

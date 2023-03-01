@@ -9,7 +9,7 @@ def main():
         output += cur_template
 
     output += "{{#if:{{{asterisk|}}}|{{coderow|*|{{{asterisk|}}}}}}}"
-    with open("gen_coderows_out.txt", "w+") as f:
+    with open("gen_coderows_out.dump", "w+") as f:
         f.write(output)
 
 if __name__ == "__main__":
