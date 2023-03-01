@@ -1,0 +1,7 @@
+RetroChip Trader
+	Trident		EIKOT		
+	Tornado		EJLMQ		
+	Mine		LNRSV*		
+	FrntSnsr	HMQRT		
+	DblSnsr		EJPWY		
+	BblWrap		IJQRW		
