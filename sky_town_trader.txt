@@ -1,0 +1,131 @@
+Sky Town
+	Cannon		ABC*		[J*Y]
+	HiCannon	LMN*		[J*Y]
+	AirShot		*			
+	Vulcan1		BDS*		[J*Y]
+	Vulcan2		DFL			
+	Spreadr1	LMN*		[J*Y]
+	Spreadr2	ABC*		[J*Y]
+	TankCan1	AGR			
+	TankCan2	LSV			
+	GunDelS1	CMT*		[J*Y]
+	GunDelS2	BER			
+	YoYo		LMN*		[J*Y]
+	FireBrn1	FGH*		[J*Y]
+	FireBrn2	STU			
+	TrnArrw1	AFK			
+	TrnArrw2	GMZ			
+	BblStar1	BET			
+	BblStar2	CLV			
+	Thunder		BRS*		[J*Y]
+	DolThdr1	AEQ			
+	DolThdr2	CLP			
+	ElcPuls1	JLS			
+	ElcPuls2	AEJ			
+	RskyHny1	BGS			
+	RskyHny2	CRV			
+	RlngLog1	IKP			
+	RlngLog2	EQZ			
+	MachGun1	ART*		[J*Y]
+	MachGun2	EGS			
+	AirHocky	LMN			
+	DrilArm		GMW			
+	Tornado		LRT			
+	MiniBomb	BLR*		[J*Y]
+	EnergBom	CKV*		[J*Y]
+	MegEnBom	GMO*		[J*Y]
+	BlkBomb		BFO			
+	AquaNdl1	CJP			
+	AquaNdl2	FKT			
+	CornSht1	JKL			
+	CornSht2	CDE			
+	GrasSeed	AFS*		[J*Y]
+	IceSeed		ALR*		[J*Y]
+	Sword		HLS*		[J*Y]
+	WideSwrd	HLS*		[J*Y]
+	LongSwrd	HLS*		[J*Y]
+	WideBlde	BRW			
+	LongBlde	BMV			
+	FireSwrd	FOZ			
+	AquaSwrd	AIY			
+	ElecSwrd	EKN			
+	BambSwrd	HSW			
+	WindRack	FJR*		[J*Y]
+	StepSwrd	BLP			
+	VarSwrd		KVW			
+	MoonBld		AMT			
+	CrakShot	AGT*		[J*N]
+	DublShot	CRU*		[J*Y]
+	TrplShot	JLV*		[J*Y]
+	WaveArm1	EFG			
+	WaveArm2	LMN			
+	AuraHed1	BCD			
+	LilBolr1	FKL			
+	LilBolr2	EMV			
+	AirRaid1	GKR			
+	AirRaid2	OTY			
+	FireHit1	DEF			
+	FireHit2	RST			
+	BurnSqr1	HPV			
+	Sensor1		JOW			
+	Boomer		JKT			
+	HiBoomer	BLV			
+	Lance		ARW*		[J*Y]
+	GolmHit1	IKY			
+	GolmHit2	DPU			
+	IronShl1	JKL			
+	IronShl2	CDE			
+	AirSpin1	FGR			
+	AirSpin2	ALT			
+	Wind		*			
+	Fan			*			
+	Rflectr1	ACP*		[J*Y]
+	Rflectr2	BGY*		[J*Y]
+	Snake		HML			
+	SumnBlk1	EIP			
+	Magnum		FLW			
+	CircGun		PTV			
+	RockCube	*			
+	TimeBom1	FGH			
+	Mine		AST			
+	Fanfare		PSZ*		[J*Y]
+	Discord		AGS*		[J*Y]
+	Recov10		ADL*		[J*Y]
+	Recov30		ELQ*		[J*Y]
+	Recov50		CMP*		[J*Y]
+	Recov80		HKV*		[J*Y]
+	Recov120	FPS			
+	Recov150	JMT			
+	PanlGrab	*			
+	AreaGrab	BFS*		[J*Y]
+	GrabBnsh	BMS			
+	PnlRetrn	*			
+	HolyPanl	ABS*		[J*Y]
+	ComingRd	*			
+	GoingRd		*			
+	SloGauge	ABG*		[J*Y]
+	FstGauge	EMR			
+	FullCust	*			
+	BusterUp	*			
+	Invisibl	*			
+	Barrier		AFR*		[J*Y]
+	Barr100		HOY			
+	BblWrap		IQZ			
+	MagCoil		*			
+	WhiCapsl	*			
+	Uninstll	GLR			
+	AntiNavi	FLT			
+	AntiDmg		GRV*		[J*Y]
+	AntiSwrd	ARZ*		[J*Y]
+	AntiRecv	AFV			
+	CopyDmg		*			
+	LifeSync	*			
+	Atk+10		*			
+	Navi+20		*			
+	ColorPt		*			
+	Atk+30		*			
+	DblPoint	*			
+	ElemTrap	GSU			
+	ColArmy		BGR			
+	TimeBom2	CDE			
+	BigBomb		OPV			

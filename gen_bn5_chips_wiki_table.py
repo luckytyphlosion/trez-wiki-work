@@ -155,8 +155,10 @@ def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chi
             output.append(f"|{code}={DUMMY_LOCATION_TEXT}\n")
 
         if chip_traders is not None:
-            traders_for_chip = chip_traders.find_traders_for_chip(chip)
+            traders_for_chip, version_text = chip_traders.find_traders_for_chip(chip)
             output.append(f"|traders={traders_for_chip}\n")
+            if version_text is not None:
+                output.append(f"|tradersversion={version_text}\n")
 
         output.append("}}\n")
 
@@ -202,7 +204,9 @@ class ChipTrader:
         if entry is not None:
             trader_text = ""
             if entry.version is not None:
-                trader_text += f"{version_to_game_version[entry.version]} "
+                version_text = f"{version_to_game_version[entry.version]}"
+            else:
+                version_text = None
 
             trader_text += self.name
             all_codes = set(chip["codes"])
@@ -212,9 +216,9 @@ class ChipTrader:
             if len(missing_codes) != 0:
                 trader_text += " (No " + ", ".join(("{{code|%s}}" % code) for code in missing_codes) + ")"
 
-            return trader_text
+            return trader_text, version_text
         else:
-            return None
+            return None, None
 
 class ChipTraders:
     __slots__ = ("traders",)
@@ -226,15 +230,18 @@ class ChipTraders:
 
     def find_traders_for_chip(self, chip):
         found_trader_texts = []
+        found_version_text = None
         for trader in self.traders:
-            cur_trader_text = trader.get_trader_text_if_has_chip(chip)
+            cur_trader_text, version_text = trader.get_trader_text_if_has_chip(chip)
             if cur_trader_text is not None:
                 found_trader_texts.append(cur_trader_text)
+                if version_text is not None:
+                    found_version_text = version_text
 
         if len(found_trader_texts) != 0:
-            return ", ".join(found_trader_texts)
+            return ", ".join(found_trader_texts), found_version_text
         else:
-            return None
+            return None, None
 
 def main():
     with open("bn5_chips_v2.json", "r") as f:
@@ -301,15 +308,13 @@ def main():
     output.append("===Team Colonel===\n")
     output.extend(gen_basic_chiploc_table(bn5_giga_colonel))
 
-    output.append("\n")
     bn5_dark = bn5_chips_by_section["dark"]
     output.append("==Dark Chips==\n")
     output.extend(gen_basic_chiploc_table(bn5_dark))
 
-    output.append("==Secret Chips==\n")
+    output.extend(["==Secret Chips==\n", "That version's exclusive Navis are registered as Secret in other version's library.\n"])
     bn5_secret_registered = bn5_chips_by_section["secret_registered"]
     output.extend(gen_basic_chiploc_table(bn5_secret_registered))
-    output.append("\n")
 
     bn5_secret_unregistered = bn5_chips_by_section["secret_unregistered"]
     output.append("==Unregistered Chips==\n")

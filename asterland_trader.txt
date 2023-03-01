@@ -1,0 +1,71 @@
+AsterLand
+	Cannon		ABC*		[J*N]
+	HiCannon	LMN*		[J*N]
+	AirShot		*			
+	Vulcan1		BDS*		[J*N]
+	Vulcan2		DFL			
+	Spreadr1	LMN*		[J*N]
+	Spreadr2	ABC*		[J*N]
+	TankCan1	AGR			
+	GunDelS1	CMT*		[J*N]
+	YoYo		LMN*		[J*N]
+	FireBrn1	FGH*		[J*N]
+	FireBrn2	STU			
+	TrnArrw1	AFK			
+	TrnArrw2	GMZ			
+	BblStar1	BET			
+	BblStar2	CLV			
+	Thunder		BRS*		[J*N]
+	RskyHny1	BGS			
+	RlngLog1	IKP			
+	MachGun1	ART*		[J*N]
+	MachGun2	EGS			
+	MiniBomb	BLR*		[J*N]
+	EnergBom	CKV*		[J*N]
+	FlshBom1	JLQ*		[J*N]
+	AquaNdl1	CJP			
+	AquaNdl2	FKT			
+	CornSht1	JKL			
+	GrasSeed	AFS*		[J*N]
+	IceSeed		ALR*		[J*N]
+	Sword		HLS*		[J*N]
+	WideSwrd	HLS*		[J*N]
+	LongSwrd	HLS*		[J*N]
+	CrakShot	AGT*		[J*N]
+	DublShot	CRU*		[J*N]
+	TrplShot	JLV*		[J*N]
+	WaveArm1	EFG			
+	WaveArm2	LMN			
+	LilBolr1	FKL			
+	FireHit1	DEF			
+	FireHit2	RST			
+	Boomer		JKT			
+	GolmHit1	IKY			
+	GolmHit2	DPU			
+	IronShl1	JKL			
+	IronShl2	CDE			
+	AirSpin1	FGR			
+	Wind		*			
+	Fan			*			
+	Rflectr1	ACP*		[J*N]
+	Rflectr2	BGY*		[J*N]
+	RockCube	*			
+	TimeBom1	FGH			
+	Fanfare		PSZ*		[J*N]
+	Recov10		ADL*		[J*N]
+	Recov30		ELQ*		[J*N]
+	Recov50		CMP*		[J*N]
+	Recov80		HKV*		[J*N]
+	PanlGrab	*			
+	AreaGrab	BFS*		[J*N]
+	PnlRetrn	*			
+	ComingRd	*			
+	GoingRd		*			
+	Invisibl	*			
+	Barrier		AFR*		[J*N]
+	MagCoil		*			
+	WhiCapsl	*			
+	CopyDmg		*			
+	LifeSync	*			
+	Atk+10		*			
+	ColorPt		*			

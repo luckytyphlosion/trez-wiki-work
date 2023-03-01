@@ -1,0 +1,114 @@
+ACDC Town
+	Cannon		ABC*		[J*N]
+	HiCannon	LMN*		[J*N]
+	M-Cannon	RST*		[J*N]
+	AirShot		*			
+	Vulcan1		BDS*		[J*N]
+	Vulcan2		DFL			
+	Spreadr1	LMN*		[J*N]
+	Spreadr2	ABC*		[J*N]
+	TankCan1	AGR			
+	TankCan2	LSV			
+	GunDelS1	CMT*		[J*N]
+	GunDelS2	BER			
+	FireBrn1	FGH*		[J*N]
+	FireBrn2	STU			
+	TrnArrw1	AFK			
+	TrnArrw2	GMZ			
+	BblStar1	BET			
+	BblStar2	CLV			
+	Thunder		BRS*		[J*N]
+	DolThdr1	AEQ			
+	DolThdr2	CLP			
+	ElcPuls1	JLS			
+	ElcPuls2	AEJ			
+	RskyHny1	BGS			
+	RskyHny2	CRV			
+	RlngLog1	IKP			
+	RlngLog2	EQZ			
+	MachGun1	ART*		[J*N]
+	MachGun2	EGS			
+	MiniBomb	BLR*		[J*N]
+	EnergBom	CKV*		[J*N]
+	MegEnBom	GMO*		[J*N]
+	FlshBom1	JLQ*		[J*N]
+	AquaNdl1	CJP			
+	AquaNdl2	FKT			
+	CornSht1	JKL			
+	CornSht2	CDE			
+	Sword		HLS*		[J*N]
+	WideSwrd	HLS*		[J*N]
+	LongSwrd	HLS*		[J*N]
+	FireSwrd	FOZ			
+	AquaSwrd	AIY			
+	CrakShot	AGT*		[J*N]
+	DublShot	CRU*		[J*N]
+	TrplShot	JLV*		[J*N]
+	WaveArm1	EFG			
+	WaveArm2	LMN			
+	AuraHed1	BCD			
+	AuraHed2	DEF			
+	LilBolr1	FKL			
+	LilBolr2	EMV			
+	SandWrm1	AGL			
+	AirRaid1	GKR			
+	AirRaid2	OTY			
+	FireHit1	DEF			
+	FireHit2	RST			
+	BurnSqr1	HPV			
+	BurnSqr2	DMT			
+	Sensor1		JOW			
+	Sensor2		NUY			
+	Boomer		JKT			
+	GolmHit1	IKY			
+	GolmHit2	DPU			
+	IronShl1	JKL			
+	IronShl2	CDE			
+	AirSpin1	FGR			
+	Wind		*			
+	Fan			*			
+	Rflectr1	ACP*		[J*N]
+	Rflectr2	BGY*		[J*N]
+	SumnBlk1	EIP			
+	SumnBlk2	HOV			
+	RockCube	*			
+	TimeBom1	FGH			
+	Fanfare		PSZ*		[J*N]
+	Discord		AGS*		[J*N]
+	Timpani		IOT*		[J*N]
+	Recov10		ADL*		[J*N]
+	Recov30		ELQ*		[J*N]
+	Recov50		CMP*		[J*N]
+	Recov80		HKV*		[J*N]
+	Recov120	FPS			
+	Recov150	JMT			
+	PanlGrab	*			
+	AreaGrab	BFS*		[J*N]
+	PnlRetrn	*			
+	ComingRd	*			
+	GoingRd		*			
+	BusterUp	*			
+	Invisibl	*			
+	Barrier		AFR*		[J*N]
+	MagCoil		*			
+	WhiCapsl	*			
+	CopyDmg		*			
+	LifeSync	*			
+	Atk+10		*			
+	ColorPt		*			
+	Roll		R			
+	HeatMan		H			[G]
+	ElecMan		E			[G]
+	SlashMan	S			[G]
+	EraseMan	K			[G]
+	ChrgeMan	C			[G]
+	SpoutMan	A			[F]
+	TmhkMan		T			[F]
+	TenguMan	T			[F]
+	GrndMan		G			[F]
+	DustMan		D			[F]
+	BlastMan	B			
+	DiveMan		D			
+	CrcusMan	C			
+	JudgeMan	J			
+	ElmntMan	E			

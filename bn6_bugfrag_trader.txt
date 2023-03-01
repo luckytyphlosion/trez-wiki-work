@@ -1,0 +1,76 @@
+BugFrag Trader
+	SuprVulc	V			
+	GunDelS3	NQW			
+	WoodDrgn	GTV			
+	Static		GSV			
+	PoisSeed	HNP*			[J*N]
+	NeoVari		N			
+	Muramasa	M			
+	AssnSwrd	NRY			
+	SandWrm3	HJS			
+	M-Boomer	IMW			
+	AirSpin3	NOT			
+	NumbrBl		N			
+	Meteors		R			
+	JustcOne	J			
+	Guardian	O			
+	Anubis		P			
+	Recov300	JOY			
+	Snctuary	Z			
+	LifeAur		U			
+	BlzrdBal	HNT			
+	TimeBom3	LMN			
+	Roll		R			
+	Roll2		R			
+	Roll3		R			
+	ProtoMan	B			
+	ProtoMnEX	B			
+	ProtoMnSP	B			
+	HeatMan		H				[G]
+	HeatManEX	H				[G]
+	HeatManSP	H				[G]
+	ElecMan		E				[G]
+	ElecManEX	E				[G]
+	ElecManSP	E				[G]
+	SlashMan	S				[G]
+	SlashMnEX	S				[G]
+	SlashMnSP	S				[G]
+	EraseMan	K				[G]
+	EraseMnEX	K				[G]
+	EraseMnSP	K				[G]
+	ChrgeMan	C				[G]
+	ChrgeMnEX	C				[G]
+	ChrgeMnSP	C				[G]
+	SpoutMan	A				[F]
+	SpoutMnEX	A				[F]
+	SpoutMnSP	A				[F]
+	TmhkMan		T				[F]
+	TmhkManEX	T				[F]
+	TmhkManSP	T				[F]
+	TenguMan	T				[F]
+	TenguMnEX	T				[F]
+	TenguMnSP	T				[F]
+	GrndMan		G				[F]
+	GrndManEX	G				[F]
+	GrndManSP	G				[F]
+	DustMan		D				[F]
+	DustManEX	D				[F]
+	DustManSP	D				[F]
+	BlastMan	B			
+	BlastMnEX	B			
+	BlastMnSP	B			
+	DiveMan		D			
+	DiveManEX	D			
+	DiveManSP	D			
+	CrcusMan	C			
+	CrcusMnEX	C			
+	CrcusMnSP	C			
+	JudgeMan	J			
+	JudgeMnEX	J			
+	JudgeMnSP	J			
+	ElmntMan	E			
+	ElmntMnEX	E			
+	ElmntMnSP	E			
+	Colonel		C			
+	ColonelEX	C			
+	ColonelSP	C			

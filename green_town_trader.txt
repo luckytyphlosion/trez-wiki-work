@@ -1,0 +1,174 @@
+Green Town
+	HiCannon	LMN*		[J*Y]
+	M-Cannon	RST*		[J*Y]
+	Vulcan2		DFL			
+	Vulcan3		AGR			
+	Spreadr2	ABC*		[J*Y]
+	Spreadr3	QRS*		[J*Y]
+	TankCan2	LSV			
+	TankCan3	BMP			
+	GunDelS2	BER			
+	YoYo		LMN*		[J*Y]
+	FireBrn2	STU			
+	FireBrn3	CDE			
+	WideSht		PQR			
+	TrnArrw2	GMZ			
+	TrnArrw3	MSY			
+	BblStar2	CLV			
+	BblStar3	GRS			
+	DolThdr2	CLP			
+	DolThdr3	BRV			
+	ElcPuls2	AEJ			
+	ElcPuls3	AJS			
+	RskyHny2	CRV			
+	RskyHny3	ADM			
+	RlngLog2	EQZ			
+	RlngLog3	FNW			
+	MachGun2	EGS			
+	MachGun3	BFM			
+	HeatDrgn	GRT			
+	ElecDrgn	ALV			
+	AquaDrgn	HPS			
+	AirHocky	LMN			
+	DrilArm		GMW			
+	Tornado		LRT			
+	MegEnBom	GMO*		[J*Y]
+	FlshBom1	JLQ*		[J*Y]
+	FlshBom2	GKR			
+	FlshBom3	HPS			
+	BlkBomb		BFO			
+	AquaNdl2	FKT			
+	AquaNdl3	ALU			
+	CornSht2	CDE			
+	CornSht3	PQR			
+	BugBomb		GSV			
+	WideBlde	BRW			
+	LongBlde	BMV			
+	FireSwrd	FOZ			
+	AquaSwrd	AIY			
+	ElecSwrd	EKN			
+	BambSwrd	HSW			
+	WindRack	FJR*		[J*Y]
+	StepSwrd	BLP			
+	VarSwrd		KVW			
+	MoonBld		AMT			
+	MchnSwrd	HLQ			
+	ElemSwrd	JMU			
+	WaveArm2	LMN			
+	WaveArm3	RST			
+	AuraHed2	DEF			
+	AuraHed3	FGH			
+	LilBolr2	EMV			
+	LilBolr3	GSZ			
+	SandWrm1	AGL			
+	SandWrm2	BRY			
+	AirRaid2	OTY			
+	AirRaid3	NUZ			
+	FireHit2	RST			
+	FireHit3	ABC			
+	BurnSqr2	DMT			
+	BurnSqr3	EOZ			
+	Sensor2		NUY			
+	Sensor3		IKQ			
+	HiBoomer	BLV			
+	Lance		ARW*		[J*Y]
+	GolmHit2	DPU			
+	GolmHit3	HMV			
+	IronShl2	CDE			
+	IronShl3	LMN			
+	AirSpin1	FGR			
+	AirSpin2	ALT			
+	Wind		*			
+	Fan			*			
+	Rflectr2	BGY*		[J*Y]
+	Rflectr3	EFO*		[J*Y]
+	Snake		HML			
+	SumnBlk2	HOV			
+	SumnBlk3	WYZ			
+	Magnum		FLW			
+	CircGun		PTV			
+	RockCube	*			
+	TimeBom1	FGH			
+	Mine		AST			
+	Fanfare		PSZ*		[J*Y]
+	Discord		AGS*		[J*Y]
+	Timpani		IOT*		[J*Y]
+	Silence		BRW*		[J*Y]
+	VDoll		FNS*		[J*Y]
+	Recov10		ADL*		[J*Y]
+	Recov30		ELQ*		[J*Y]
+	Recov50		CMP*		[J*Y]
+	Recov80		HKV*		[J*Y]
+	Recov120	FPS			
+	Recov150	JMT			
+	Recov200	IQZ			
+	PanlGrab	*			
+	AreaGrab	BFS*		[J*Y]
+	GrabBnsh	BMS			
+	GrabRvng	IQZ			
+	PnlRetrn	*			
+	Geddon		ALR			
+	HolyPanl	ABS*		[J*Y]
+	ComingRd	*			
+	GoingRd		*			
+	SloGauge	ABG*		[J*Y]
+	FstGauge	EMR			
+	BusterUp	*			
+	BugFix		KPZ			
+	Invisibl	*			
+	Barrier		AFR*		[J*Y]
+	Barr100		HOY			
+	Barr200		KUW			
+	BblWrap		IQZ			
+	MagCoil		*			
+	WhiCapsl	*			
+	Uninstll	GLR			
+	AntiNavi	FLT			
+	AntiDmg		GRV*		[J*Y]
+	AntiSwrd	ARZ*		[J*Y]
+	AntiRecv	AFV			
+	CopyDmg		*			
+	LifeSync	*			
+	Atk+10		*			
+	Navi+20		*			
+	ColorPt		*			
+	ElemTrap	GSU			
+	ColArmy		BGR			
+	TimeBom2	CDE			
+	BigBomb		OPV			
+	Roll		R			
+	Roll2		R			
+	ProtoMan	B			
+	ProtoMnEX	B			
+	HeatMan		H			[G]
+	HeatManEX	H			[G]
+	ElecMan		E			[G]
+	ElecManEX	E			[G]
+	SlashMan	S			[G]
+	SlashMnEX	S			[G]
+	EraseMan	K			[G]
+	EraseMnEX	K			[G]
+	ChrgeMan	C			[G]
+	ChrgeMnEX	C			[G]
+	SpoutMan	A			[F]
+	SpoutMnEX	A			[F]
+	TmhkMan		T			[F]
+	TmhkManEX	T			[F]
+	TenguMan	T			[F]
+	TenguMnEX	T			[F]
+	GrndMan		G			[F]
+	GrndManEX	G			[F]
+	DustMan		D			[F]
+	DustManEX	D			[F]
+	BlastMan	B			
+	BlastMnEX	B			
+	DiveMan		D			
+	DiveManEX	D			
+	CrcusMan	C			
+	CrcusMnEX	C			
+	JudgeMan	J			
+	JudgeMnEX	J			
+	ElmntMan	E			
+	ElmntMnEX	E			
+	Colonel		C			
+	ColonelEX	C			
