@@ -1,6 +1,12 @@
 import json
 import functools
 
+PAGE_HEADER = """\
+{{nw|TODO: Add info and improve template.}}
+
+Locations of BattleChips in [[Mega Man Battle Network 5]]. Due to the removed areas, some chips are distributed differently between the Japanese and international versions.
+"""
+
 CHIPS_HEADER = """\
 {| class="wikitable sortable"
 !ID||Name||! class="wikitable unsortable" | Locations || Traders
@@ -24,6 +30,37 @@ HALL_TRADER_TEXT = ""
 OLD_MINE_TRADER_TEXT = ""
 BUGFRAG_TRADER_TEXT = ""
 
+def convert_v2_format_to_v1(bn5_chips_v2):
+    bn5_chips = []
+
+    for v2_chip_full in bn5_chips_v2["results"].values():
+        v2_chip = v2_chip_full["printouts"]
+        chip = {
+            "name": {
+                "en": v2_chip["name"][0]
+            },
+            "codes": "".join(v2_chip["codes"]),
+            "index": v2_chip["index"][0],
+            "section": v2_chip["section"][0].lower()
+        }
+
+        v2_version_list = v2_chip["version"]
+        if len(v2_version_list) != 0:
+            v2_version = v2_version_list[0]
+            if v2_version == "Team ProtoMan":
+                version = "protoman"
+            elif v2_version == "Team Colonel":
+                version = "colonel"
+            else:
+                version = None
+        else:
+            version = None
+
+        chip["version"] = version
+        bn5_chips.append(chip)
+
+    return bn5_chips
+
 def is_library_chip(chip):
     if chip is None:
         return False
@@ -31,7 +68,7 @@ def is_library_chip(chip):
     if not isinstance(chip.get("index"), int):
         return False
 
-    if chip.get("section") in ("pa", "special", "capsule", None):
+    if chip.get("section") not in ("standard", "mega", "giga", "dark", "secret"):
         return False
 
     return True
@@ -200,9 +237,10 @@ class ChipTraders:
             return None
 
 def main():
-    with open("bn5_chips.json", "r") as f:
-        bn5_chips = json.load(f)
+    with open("bn5_chips_v2.json", "r") as f:
+        bn5_chips_v2 = json.load(f)
 
+    bn5_chips = convert_v2_format_to_v1(bn5_chips_v2)
     bn5_library_chips = list(filter(is_library_chip, bn5_chips))
 
     with open("bn5_library_chips.json", "w+") as f:
@@ -244,47 +282,43 @@ def main():
 
         bn5_chips_by_section[section].sort(key=sort_func)
 
-    bn5_standard = bn5_chips_by_section["standard"]
-    bn5_standard_output = ["==Standard Class Chips==\n"]
-    bn5_standard_output.extend(gen_basic_chiploc_table(bn5_standard, chip_traders=chip_traders))
+    output = []
+    output.append(PAGE_HEADER)
 
-    with open("bn5_standard_chips_out.txt", "w+") as f:
-        f.write("".join(bn5_standard_output))
+    bn5_standard = bn5_chips_by_section["standard"]
+    output.append("==Standard Class Chips==\n")
+    output.extend(gen_basic_chiploc_table(bn5_standard, chip_traders=chip_traders))
 
     bn5_mega = bn5_chips_by_section["mega"]
-    bn5_mega_output = ["==Mega Class Chips==\n"]
-    bn5_mega_output.extend(gen_basic_chiploc_table(bn5_mega, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
+    output.append("==Mega Class Chips==\n")
+    output.extend(gen_basic_chiploc_table(bn5_mega, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
-    with open("bn5_mega_chips_out.txt", "w+") as f:
-        f.write("".join(bn5_mega_output))
-
-    bn5_giga_dark_output = ["==Giga Class Chips==\n", "===Team ProtoMan===\n"]
+    output.extend(["==Giga Class Chips==\n", "===Team ProtoMan===\n"])
     bn5_giga_protoman = bn5_chips_by_section["giga_protoman"]
-    bn5_giga_dark_output.extend(gen_basic_chiploc_table(bn5_giga_protoman))
+    output.extend(gen_basic_chiploc_table(bn5_giga_protoman))
 
     bn5_giga_colonel = bn5_chips_by_section["giga_colonel"]
-    bn5_giga_dark_output.append("===Team Colonel===\n")
-    bn5_giga_dark_output.extend(gen_basic_chiploc_table(bn5_giga_colonel))
+    output.append("===Team Colonel===\n")
+    output.extend(gen_basic_chiploc_table(bn5_giga_colonel))
 
-    bn5_giga_dark_output.append("\n")
+    output.append("\n")
     bn5_dark = bn5_chips_by_section["dark"]
-    bn5_giga_dark_output.append("==Dark Chips==\n")
-    bn5_giga_dark_output.extend(gen_basic_chiploc_table(bn5_dark))
+    output.append("==Dark Chips==\n")
+    output.extend(gen_basic_chiploc_table(bn5_dark))
 
-    with open("bn5_giga_dark_out.txt", "w+") as f:
-        f.write("".join(bn5_giga_dark_output))
-
-    bn5_secret_output = ["==Secret Chips==\n"]
+    output.append("==Secret Chips==\n")
     bn5_secret_registered = bn5_chips_by_section["secret_registered"]
-    bn5_secret_output.extend(gen_basic_chiploc_table(bn5_secret_registered))
-    bn5_secret_output.append("\n")
+    output.extend(gen_basic_chiploc_table(bn5_secret_registered))
+    output.append("\n")
 
     bn5_secret_unregistered = bn5_chips_by_section["secret_unregistered"]
-    bn5_secret_output.append("==Unregistered Chips==\n")
-    bn5_secret_output.extend(gen_basic_chiploc_table(bn5_secret_unregistered))
+    output.append("==Unregistered Chips==\n")
+    output.extend(gen_basic_chiploc_table(bn5_secret_unregistered))
+    output.append("\n")
+    output.append("[[Category:Mega Man Battle Network Series]] [[Category:Mega Man Battle Network 5]]\n")
 
-    with open("bn5_secret_out.txt", "w+") as f:
-        f.write("".join(bn5_secret_output))
+    with open("bn5_chips_out.dump", "w+") as f:
+        f.write("".join(output))
 
 if __name__ == "__main__":
     main()
