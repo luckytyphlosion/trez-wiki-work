@@ -160,7 +160,8 @@ def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_b
             location_text_parts.append(DUMMY_LOCATION_TEXT)
 
             if game_drop_table is not None:
-                enemy_chip_location = game_drop_table.find_chip(name, original_code)
+                original_name = name.replace("{{DS}}", "[DS]").replace("{{SP}}", "[SP]")
+                enemy_chip_location = game_drop_table.find_chip(original_name, original_code)
                 if enemy_chip_location is not None:
                     location_text_parts.append(enemy_chip_location)
 

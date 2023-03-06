@@ -1,0 +1,2758 @@
+Area 80 00: Main Comp 1
+
+Green	 EC0	Locations:	0	 32/ 32	  100%	(-281, 281,   0)
+				Level 1:	0	 32/256	 12.5%	Cannon   *
+							1	 32/256	 12.5%	WideSwrd Z
+							2	 32/256	 12.5%	Vulcan1  D
+							3	 32/256	 12.5%	Recov30  L
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Cannon   *
+							1	 32/256	 12.5%	WideSwrd Z
+							2	 32/256	 12.5%	Vulcan1  D
+							3	 32/256	 12.5%	Recov30  L
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Cannon   *
+							1	 32/256	 12.5%	WideSwrd Z
+							2	 32/256	 12.5%	Vulcan1  D
+							3	 32/256	 12.5%	Recov30  L
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 EC1	Locations:	0	 32/ 32	  100%	(-157,-163,   0)
+				Level 1:	0	 32/256	 12.5%	Cannon   *
+							1	 32/256	 12.5%	WideSwrd Z
+							2	 32/256	 12.5%	Vulcan1  D
+							3	 32/256	 12.5%	Recov30  L
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Cannon   *
+							1	 32/256	 12.5%	WideSwrd Z
+							2	 32/256	 12.5%	Vulcan1  D
+							3	 32/256	 12.5%	Recov30  L
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Cannon   *
+							1	 32/256	 12.5%	WideSwrd Z
+							2	 32/256	 12.5%	Vulcan1  D
+							3	 32/256	 12.5%	Recov30  L
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+Blue	 EC2	Locations:	0	  0/  0	  100%	(-347, 284,   0)
+				Level 1+:	0	  0/  0	  100%	Thunder  P
+Blue	 EC3	Locations:	0	  0/  0	  100%	(   4, -68,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 80 01: Main Comp 2
+
+Green	 EC8	Locations:	0	 32/ 32	  100%	(   4,-338,   0)
+				Level 1:	0	 32/256	 12.5%	EnergBom E
+							1	 32/256	 12.5%	Recov30  C
+							2	 32/256	 12.5%	Barrier  B
+							3	 32/256	 12.5%	LongSwrd C
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	EnergBom E
+							1	 32/256	 12.5%	Recov30  C
+							2	 32/256	 12.5%	Barrier  B
+							3	 32/256	 12.5%	LongSwrd C
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	EnergBom E
+							1	 32/256	 12.5%	Recov30  C
+							2	 32/256	 12.5%	Barrier  B
+							3	 32/256	 12.5%	LongSwrd C
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+Blue	 EC9	Locations:	0	  0/  0	  100%	( 423, -54,   0)
+				Level 1+:	0	  1/  1	  100%	FullEnrg
+Blue	 ECA	Locations:	0	  0/  0	  100%	(-187,  44,   0)
+				Level 1+:	0	  0/  0	  100%	Spreader E
+Green	 ECB	Locations:	0	 32/ 32	  100%	(  40, 233,   0)
+				Level 1:	0	 32/256	 12.5%	EnergBom E
+							1	 32/256	 12.5%	Recov30  C
+							2	 32/256	 12.5%	Barrier  B
+							3	 32/256	 12.5%	LongSwrd C
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	EnergBom E
+							1	 32/256	 12.5%	Recov30  C
+							2	 32/256	 12.5%	Barrier  B
+							3	 32/256	 12.5%	LongSwrd C
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	EnergBom E
+							1	 32/256	 12.5%	Recov30  C
+							2	 32/256	 12.5%	Barrier  B
+							3	 32/256	 12.5%	LongSwrd C
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 81 00: Drill Comp 1
+
+Green	 EE0	Locations:	0	 32/ 32	  100%	( -26, -70,   0)
+				Level 1:	0	 32/256	 12.5%	WideSwrd S
+							1	 32/256	 12.5%	Pulsar1  T
+							2	 32/256	 12.5%	Cannon   B
+							3	 32/256	 12.5%	LifeSync B
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	840z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	WideSwrd S
+							1	 32/256	 12.5%	Pulsar1  T
+							2	 32/256	 12.5%	Cannon   B
+							3	 32/256	 12.5%	LifeSync B
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	840z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	WideSwrd S
+							1	 32/256	 12.5%	Pulsar1  T
+							2	 32/256	 12.5%	Cannon   B
+							3	 32/256	 12.5%	LifeSync B
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	840z
+							7	 32/256	 12.5%	BugFrag x1
+Blue	 EE1	Locations:	0	  0/  0	  100%	(-283, 283,   0)
+				Level 1+:	0	  0/  0	  100%	Invisibl *
+Blue	 EE2	Locations:	0	  0/  0	  100%	( 197, 347,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Green	 EE3	Locations:	0	 32/ 32	  100%	( 198,-389,   0)
+				Level 1:	0	 32/256	 12.5%	WideSwrd S
+							1	 32/256	 12.5%	Pulsar1  T
+							2	 32/256	 12.5%	Cannon   B
+							3	 32/256	 12.5%	LifeSync B
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	840z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	WideSwrd S
+							1	 32/256	 12.5%	Pulsar1  T
+							2	 32/256	 12.5%	Cannon   B
+							3	 32/256	 12.5%	LifeSync B
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	840z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	WideSwrd S
+							1	 32/256	 12.5%	Pulsar1  T
+							2	 32/256	 12.5%	Cannon   B
+							3	 32/256	 12.5%	LifeSync B
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	840z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 81 01: Drill Comp 2
+
+Blue	 EE8	Locations:	0	  0/  0	  100%	(-287, -78,   0)
+				Level 1+:	0	  0/  0	  100%	Charge+1 (yellow)
+Green	 EE9	Locations:	0	 32/ 32	  100%	( -66,-333,   0)
+				Level 1:	0	 32/256	 12.5%	AirShot  *
+							1	 32/256	 12.5%	Sword    L
+							2	 32/256	 12.5%	Recov50  H
+							3	 32/256	 12.5%	Quake1   K
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	AirShot  *
+							1	 32/256	 12.5%	Sword    L
+							2	 32/256	 12.5%	Recov50  H
+							3	 32/256	 12.5%	Quake1   K
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	AirShot  *
+							1	 32/256	 12.5%	Sword    L
+							2	 32/256	 12.5%	Recov50  H
+							3	 32/256	 12.5%	Quake1   K
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 EEA	Locations:	0	 32/ 32	  100%	( 285, 114,   0)
+				Level 1:	0	 32/256	 12.5%	AirShot  *
+							1	 32/256	 12.5%	Sword    L
+							2	 32/256	 12.5%	Recov50  H
+							3	 32/256	 12.5%	Quake1   K
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	AirShot  *
+							1	 32/256	 12.5%	Sword    L
+							2	 32/256	 12.5%	Recov50  H
+							3	 32/256	 12.5%	Quake1   K
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	AirShot  *
+							1	 32/256	 12.5%	Sword    L
+							2	 32/256	 12.5%	Recov50  H
+							3	 32/256	 12.5%	Quake1   K
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+Blue	 EEB	Locations:	0	  0/  0	  100%	(-158, 273,   0)
+				Level 1+:	0	  0/  0	  100%	RockCube *
+----------------------------------------------------------------
+Area 81 02: Drill Comp 3
+
+Green	 EF0	Locations:	0	 32/ 32	  100%	(-114,-269,   0)
+				Level 1:	0	 32/256	 12.5%	HiCannon F
+							1	 32/256	 12.5%	FireHit1 O
+							2	 32/256	 12.5%	Guard1   *
+							3	 32/256	 12.5%	CopyDmg  *
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	HiCannon F
+							1	 32/256	 12.5%	FireHit1 O
+							2	 32/256	 12.5%	Guard1   *
+							3	 32/256	 12.5%	CopyDmg  *
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	HiCannon F
+							1	 32/256	 12.5%	FireHit1 O
+							2	 32/256	 12.5%	Guard1   *
+							3	 32/256	 12.5%	CopyDmg  *
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+Blue	 EF1	Locations:	0	  0/  0	  100%	( 139,-268,   0)
+				Level 1+:	0	  0/  0	  100%	HP+100 (white)
+Blue	 EF2	Locations:	0	  0/  0	  100%	(-435, 114,   0)
+				Level 1+:	0	  0/  0	  100%	FullEnrg
+Green	 EF3	Locations:	0	 32/ 32	  100%	( -83, 498,   0)
+				Level 1:	0	 32/256	 12.5%	HiCannon F
+							1	 32/256	 12.5%	FireHit1 O
+							2	 32/256	 12.5%	Guard1   *
+							3	 32/256	 12.5%	CopyDmg  *
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	HiCannon F
+							1	 32/256	 12.5%	FireHit1 O
+							2	 32/256	 12.5%	Guard1   *
+							3	 32/256	 12.5%	CopyDmg  *
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	HiCannon F
+							1	 32/256	 12.5%	FireHit1 O
+							2	 32/256	 12.5%	Guard1   *
+							3	 32/256	 12.5%	CopyDmg  *
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	680z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 81 03: Drill Comp 4
+
+Green	 EF8	Locations:	0	 32/ 32	  100%	( 420,-260,   0)
+				Level 1:	0	 32/256	 12.5%	DrilArm1 J
+							1	 32/256	 12.5%	Cannon   A
+							2	 32/256	 12.5%	Vulcan1  C
+							3	 32/256	 12.5%	Spreader *
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	DrilArm1 J
+							1	 32/256	 12.5%	Cannon   A
+							2	 32/256	 12.5%	Vulcan1  C
+							3	 32/256	 12.5%	Spreader *
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	DrilArm1 J
+							1	 32/256	 12.5%	Cannon   A
+							2	 32/256	 12.5%	Vulcan1  C
+							3	 32/256	 12.5%	Spreader *
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+Blue	 EF9	Locations:	0	  0/  0	  100%	( -57,-486,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Green	 EFA	Locations:	0	 32/ 32	  100%	( -90,-135,   0)
+				Level 1:	0	 32/256	 12.5%	DrilArm1 J
+							1	 32/256	 12.5%	Cannon   A
+							2	 32/256	 12.5%	Vulcan1  C
+							3	 32/256	 12.5%	Spreader *
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	DrilArm1 J
+							1	 32/256	 12.5%	Cannon   A
+							2	 32/256	 12.5%	Vulcan1  C
+							3	 32/256	 12.5%	Spreader *
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	DrilArm1 J
+							1	 32/256	 12.5%	Cannon   A
+							2	 32/256	 12.5%	Vulcan1  C
+							3	 32/256	 12.5%	Spreader *
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+Blue	 EFB	Locations:	0	  0/  0	  100%	( 235, -38,   0)
+				Level 1+:	0	  0/  0	  100%	LongSwrd S
+----------------------------------------------------------------
+Area 82 01: Ship Comp 2 (JP) / Ship Comp 1 (EN)
+
+Blue	 F08	Locations:	0	 32/ 32	  100%	(  26,-216,   0)
+				Level 1+:	0	 32/ 32	  100%	ShipKey
+Blue	 F09	Locations:	0	 32/ 32	  100%	( 156, 104,   0)
+				Level 1+:	0	 32/ 32	  100%	ShipKey
+Blue	 F0A	Locations:	0	  0/  0	  100%	(-324, 200,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Blue	 F0B	Locations:	0	  0/  0	  100%	( 220, 226,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Green	 F0C	Locations:	0	 32/ 32	  100%	(-170,   6,   0)
+				Level 1:	0	 32/256	 12.5%	GunDelS1 U
+							1	 32/256	 12.5%	HolyPanl A
+							2	 32/256	 12.5%	WideSht1 L
+							3	 32/256	 12.5%	Sword    C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	GunDelS1 U
+							1	 32/256	 12.5%	HolyPanl A
+							2	 32/256	 12.5%	WideSht1 L
+							3	 32/256	 12.5%	Sword    C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	GunDelS1 U
+							1	 32/256	 12.5%	HolyPanl A
+							2	 32/256	 12.5%	WideSht1 L
+							3	 32/256	 12.5%	Sword    C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F0D	Locations:	0	 32/ 32	  100%	(-132, 164,   0)
+				Level 1:	0	 32/256	 12.5%	GunDelS1 U
+							1	 32/256	 12.5%	HolyPanl A
+							2	 32/256	 12.5%	WideSht1 L
+							3	 32/256	 12.5%	Sword    C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	GunDelS1 U
+							1	 32/256	 12.5%	HolyPanl A
+							2	 32/256	 12.5%	WideSht1 L
+							3	 32/256	 12.5%	Sword    C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	GunDelS1 U
+							1	 32/256	 12.5%	HolyPanl A
+							2	 32/256	 12.5%	WideSht1 L
+							3	 32/256	 12.5%	Sword    C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 82 02: Ship Comp 3 (JP) / Ship Comp 2 (EN)
+
+Blue	 F10	Locations:	0	 32/ 32	  100%	(-308, 276,   0)
+				Level 1+:	0	 32/ 32	  100%	ShipKeyA
+Blue	 F11	Locations:	0	 32/ 32	  100%	( 236, 304,   0)
+				Level 1+:	0	 32/ 32	  100%	ShipKeyB
+Blue	 F12	Locations:	0	 32/ 32	  100%	( 508,  84,  64)
+				Level 1+:	0	 32/ 32	  100%	ShipKeyC
+Blue	 F13	Locations:	0	  0/  0	  100%	( 140, -12,   0)
+				Level 1+:	0	  0/  0	  100%	GrasSeed A
+Blue	 F14	Locations:	0	  0/  0	  100%	( -78,-396,   0)
+				Level 1+:	0	  0/  0	  100%	SubMemry
+Green	 F15	Locations:	0	 32/ 32	  100%	(-372,  54,   0)
+				Level 1:	0	 32/256	 12.5%	CustSwrd L
+							1	 32/256	 12.5%	CusVolt1 Y
+							2	 32/256	 12.5%	RockCube *
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	CustSwrd L
+							1	 32/256	 12.5%	CusVolt1 Y
+							2	 32/256	 12.5%	RockCube *
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	CustSwrd L
+							1	 32/256	 12.5%	CusVolt1 Y
+							2	 32/256	 12.5%	RockCube *
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F16	Locations:	0	 32/ 32	  100%	( -20, 374,   0)
+				Level 1:	0	 32/256	 12.5%	CustSwrd L
+							1	 32/256	 12.5%	CusVolt1 Y
+							2	 32/256	 12.5%	RockCube *
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	CustSwrd L
+							1	 32/256	 12.5%	CusVolt1 Y
+							2	 32/256	 12.5%	RockCube *
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	CustSwrd L
+							1	 32/256	 12.5%	CusVolt1 Y
+							2	 32/256	 12.5%	RockCube *
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 82 03: Ship Comp 4 (JP) / Ship Comp 3 (EN)
+
+Blue	 F18	Locations:	0	 32/ 32	  100%	( 236,  52,   0)
+				Level 1+:	0	 32/ 32	  100%	ShipKey
+Blue	 F19	Locations:	0	  0/  0	  100%	(  76, 310,   0)
+				Level 1+:	0	  0/  0	  100%	ExpMemry
+Blue	 F1A	Locations:	0	  0/  0	  100%	( 494, -48,   0)
+				Level 1+:	0	  0/  0	  100%	Attck+1 (white)
+Green	 F1B	Locations:	0	 32/ 32	  100%	(-470,  84,   0)
+				Level 1:	0	 32/256	 12.5%	AirHoc   S
+							1	 32/256	 12.5%	AirSpin1 O
+							2	 32/256	 12.5%	Recov80  *
+							3	 32/256	 12.5%	AreaGrab L
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	AirHoc   S
+							1	 32/256	 12.5%	AirSpin1 O
+							2	 32/256	 12.5%	Recov80  *
+							3	 32/256	 12.5%	AreaGrab L
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	AirHoc   S
+							1	 32/256	 12.5%	AirSpin1 O
+							2	 32/256	 12.5%	Recov80  *
+							3	 32/256	 12.5%	AreaGrab L
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F1C	Locations:	0	 32/ 32	  100%	( 138,-300,   0)
+				Level 1:	0	 32/256	 12.5%	AirHoc   S
+							1	 32/256	 12.5%	AirSpin1 O
+							2	 32/256	 12.5%	Recov80  *
+							3	 32/256	 12.5%	AreaGrab L
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	AirHoc   S
+							1	 32/256	 12.5%	AirSpin1 O
+							2	 32/256	 12.5%	Recov80  *
+							3	 32/256	 12.5%	AreaGrab L
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	AirHoc   S
+							1	 32/256	 12.5%	AirSpin1 O
+							2	 32/256	 12.5%	Recov80  *
+							3	 32/256	 12.5%	AreaGrab L
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 83 00: Gargoyle Comp 1
+
+Blue	 F20	Locations:	0	  0/  0	  100%	( 220, 244,   0)
+				Level 1+:	0	  0/  0	  100%	Speed+1 (pink)
+Blue	 F21	Locations:	0	  0/  0	  100%	( -38,-364,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Green	 F22	Locations:	0	 32/ 32	  100%	( 219, 311,   0)
+				Level 1:	0	 32/256	 12.5%	Vulcan3  N
+							1	 32/256	 12.5%	CustSwrd L
+							2	 32/256	 12.5%	Recov80  B
+							3	 32/256	 12.5%	CactBal1 J
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Vulcan3  N
+							1	 32/256	 12.5%	CustSwrd L
+							2	 32/256	 12.5%	Recov80  B
+							3	 32/256	 12.5%	CactBal1 J
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Vulcan3  N
+							1	 32/256	 12.5%	CustSwrd L
+							2	 32/256	 12.5%	Recov80  B
+							3	 32/256	 12.5%	CactBal1 J
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F23	Locations:	0	 32/ 32	  100%	(-227, 180,   0)
+				Level 1:	0	 32/256	 12.5%	Vulcan3  N
+							1	 32/256	 12.5%	CustSwrd L
+							2	 32/256	 12.5%	Recov80  B
+							3	 32/256	 12.5%	CactBal1 J
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Vulcan3  N
+							1	 32/256	 12.5%	CustSwrd L
+							2	 32/256	 12.5%	Recov80  B
+							3	 32/256	 12.5%	CactBal1 J
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Vulcan3  N
+							1	 32/256	 12.5%	CustSwrd L
+							2	 32/256	 12.5%	Recov80  B
+							3	 32/256	 12.5%	CactBal1 J
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 83 02: Gargoyle Comp 3 (JP) / Gargoyle Comp 2 (EN)
+
+Blue	 F30	Locations:	0	  0/  0	  100%	(-148, 434,   0)
+				Level 1+:	0	  0/  0	  100%	HP+100 (pink)
+Blue	 F31	Locations:	0	  0/  0	  100%	( 230,-174,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Green	 F32	Locations:	0	 32/ 32	  100%	(-339, -14,   0)
+				Level 1:	0	 32/256	 12.5%	GrasSeed W
+							1	 32/256	 12.5%	CircGun  F
+							2	 32/256	 12.5%	M-Cannon H
+							3	 32/256	 12.5%	Recov50  O
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	GrasSeed W
+							1	 32/256	 12.5%	CircGun  F
+							2	 32/256	 12.5%	M-Cannon H
+							3	 32/256	 12.5%	Recov50  O
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	GrasSeed W
+							1	 32/256	 12.5%	CircGun  F
+							2	 32/256	 12.5%	M-Cannon H
+							3	 32/256	 12.5%	Recov50  O
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F33	Locations:	0	 32/ 32	  100%	( 334, 119,   0)
+				Level 1:	0	 32/256	 12.5%	GrasSeed W
+							1	 32/256	 12.5%	CircGun  F
+							2	 32/256	 12.5%	M-Cannon H
+							3	 32/256	 12.5%	Recov50  O
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	GrasSeed W
+							1	 32/256	 12.5%	CircGun  F
+							2	 32/256	 12.5%	M-Cannon H
+							3	 32/256	 12.5%	Recov50  O
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	GrasSeed W
+							1	 32/256	 12.5%	CircGun  F
+							2	 32/256	 12.5%	M-Cannon H
+							3	 32/256	 12.5%	Recov50  O
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 83 03: Gargoyle Comp 4 (JP) / Gargoyle Comp 3 (EN)
+
+Blue	 F38	Locations:	0	  0/  0	  100%	(-577,  59,   0)
+				Level 1+:	0	  0/  0	  100%	Slasher  R
+Blue	 F39	Locations:	0	  0/  0	  100%	(-153,-384,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Green	 F3A	Locations:	0	 32/ 32	  100%	(-154, 193,   0)
+				Level 1:	0	 32/256	 12.5%	GunDelS2 U
+							1	 32/256	 12.5%	CannBall T
+							2	 32/256	 12.5%	Astroid1 A
+							3	 32/256	 12.5%	Blinder  A
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	960z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	GunDelS2 U
+							1	 32/256	 12.5%	CannBall T
+							2	 32/256	 12.5%	Astroid1 A
+							3	 32/256	 12.5%	Blinder  A
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	960z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	GunDelS2 U
+							1	 32/256	 12.5%	CannBall T
+							2	 32/256	 12.5%	Astroid1 A
+							3	 32/256	 12.5%	Blinder  A
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	960z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F3B	Locations:	0	 32/ 32	  100%	( 486,-133,   0)
+				Level 1:	0	 32/256	 12.5%	GunDelS2 U
+							1	 32/256	 12.5%	CannBall T
+							2	 32/256	 12.5%	Astroid1 A
+							3	 32/256	 12.5%	Blinder  A
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	960z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	GunDelS2 U
+							1	 32/256	 12.5%	CannBall T
+							2	 32/256	 12.5%	Astroid1 A
+							3	 32/256	 12.5%	Blinder  A
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	960z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	GunDelS2 U
+							1	 32/256	 12.5%	CannBall T
+							2	 32/256	 12.5%	Astroid1 A
+							3	 32/256	 12.5%	Blinder  A
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	960z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 84 00: Factory Comp 1
+
+Blue	 F40	Locations:	0	  0/  0	  100%	( 181,  43,   0)
+				Level 1+:	0	  0/  0	  100%	M-Cannon F
+Blue	 F41	Locations:	0	  0/  0	  100%	(-522,  72,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Green	 F42	Locations:	0	 32/ 32	  100%	(-170,-183,   0)
+				Level 1:	0	 32/256	 12.5%	SeaSeed  J
+							1	 32/256	 12.5%	WindRack F
+							2	 32/256	 12.5%	Recov150 Q
+							3	 32/256	 12.5%	HolyPanl U
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	620z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	SeaSeed  J
+							1	 32/256	 12.5%	WindRack F
+							2	 32/256	 12.5%	Recov150 Q
+							3	 32/256	 12.5%	HolyPanl U
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	620z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	SeaSeed  J
+							1	 32/256	 12.5%	WindRack F
+							2	 32/256	 12.5%	Recov150 Q
+							3	 32/256	 12.5%	HolyPanl U
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	620z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F43	Locations:	0	 32/ 32	  100%	( 210,-405,   0)
+				Level 1:	0	 32/256	 12.5%	SeaSeed  J
+							1	 32/256	 12.5%	WindRack F
+							2	 32/256	 12.5%	Recov150 Q
+							3	 32/256	 12.5%	HolyPanl U
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	620z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	SeaSeed  J
+							1	 32/256	 12.5%	WindRack F
+							2	 32/256	 12.5%	Recov150 Q
+							3	 32/256	 12.5%	HolyPanl U
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	620z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	SeaSeed  J
+							1	 32/256	 12.5%	WindRack F
+							2	 32/256	 12.5%	Recov150 Q
+							3	 32/256	 12.5%	HolyPanl U
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	620z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 84 01: Factory Comp 2
+
+Blue	 F48	Locations:	0	  0/  0	  100%	(-205,  74,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Blue	 F49	Locations:	0	  0/  0	  100%	(-618,  73,  64)
+				Level 1+:	0	  0/  0	  100%	OilBody (red)
+Green	 F4A	Locations:	0	 32/ 32	  100%	(  22, 458,  64)
+				Level 1:	0	 32/256	 12.5%	Vulcan3  L
+							1	 32/256	 12.5%	WideBlde L
+							2	 32/256	 12.5%	GrabBnsh D
+							3	 32/256	 12.5%	Barr100  P
+							4	 32/256	 12.5%	540z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Vulcan3  L
+							1	 32/256	 12.5%	WideBlde L
+							2	 32/256	 12.5%	GrabBnsh D
+							3	 32/256	 12.5%	Barr100  P
+							4	 32/256	 12.5%	540z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Vulcan3  L
+							1	 32/256	 12.5%	WideBlde L
+							2	 32/256	 12.5%	GrabBnsh D
+							3	 32/256	 12.5%	Barr100  P
+							4	 32/256	 12.5%	540z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F4B	Locations:	0	 32/ 32	  100%	(  -9,-373,   0)
+				Level 1:	0	 32/256	 12.5%	Vulcan3  L
+							1	 32/256	 12.5%	WideBlde L
+							2	 32/256	 12.5%	GrabBnsh D
+							3	 32/256	 12.5%	Barr100  P
+							4	 32/256	 12.5%	540z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Vulcan3  L
+							1	 32/256	 12.5%	WideBlde L
+							2	 32/256	 12.5%	GrabBnsh D
+							3	 32/256	 12.5%	Barr100  P
+							4	 32/256	 12.5%	540z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Vulcan3  L
+							1	 32/256	 12.5%	WideBlde L
+							2	 32/256	 12.5%	GrabBnsh D
+							3	 32/256	 12.5%	Barr100  P
+							4	 32/256	 12.5%	540z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 84 02: Factory Comp 3
+
+Blue	 F50	Locations:	0	  0/  0	  100%	(-233, -22,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Blue	 F51	Locations:	0	  0/  0	  100%	( 214, 301,   0)
+				Level 1+:	0	  0/  0	  100%	RedWave  A
+Green	 F52	Locations:	0	 32/ 32	  100%	(-142,-341,   0)
+				Level 1:	0	 32/256	 12.5%	Skully1  K
+							1	 32/256	 12.5%	CircGun  A
+							2	 32/256	 12.5%	Geddon1  P
+							3	 32/256	 12.5%	GunDelS2 Y
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	780z
+							6	 32/256	 12.5%	950z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Skully1  K
+							1	 32/256	 12.5%	CircGun  A
+							2	 32/256	 12.5%	Geddon1  P
+							3	 32/256	 12.5%	GunDelS2 Y
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	780z
+							6	 32/256	 12.5%	950z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Skully1  K
+							1	 32/256	 12.5%	CircGun  A
+							2	 32/256	 12.5%	Geddon1  P
+							3	 32/256	 12.5%	GunDelS2 Y
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	780z
+							6	 32/256	 12.5%	950z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F53	Locations:	0	 32/ 32	  100%	( 248,-181,   0)
+				Level 1:	0	 32/256	 12.5%	Skully1  K
+							1	 32/256	 12.5%	CircGun  A
+							2	 32/256	 12.5%	Geddon1  P
+							3	 32/256	 12.5%	GunDelS2 Y
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	780z
+							6	 32/256	 12.5%	950z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	Skully1  K
+							1	 32/256	 12.5%	CircGun  A
+							2	 32/256	 12.5%	Geddon1  P
+							3	 32/256	 12.5%	GunDelS2 Y
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	780z
+							6	 32/256	 12.5%	950z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	Skully1  K
+							1	 32/256	 12.5%	CircGun  A
+							2	 32/256	 12.5%	Geddon1  P
+							3	 32/256	 12.5%	GunDelS2 Y
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	780z
+							6	 32/256	 12.5%	950z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 84 03: Factory Comp 4
+
+Blue	 F58	Locations:	0	  0/  0	  100%	(  77,-393,   0)
+				Level 1+:	0	  0/  0	  100%	Recov200 I
+Blue	 F59	Locations:	0	  0/  0	  100%	( 233, 371,   0)
+				Level 1+:	0	  0/  0	  100%	SubMemry
+Green	 F5A	Locations:	0	 32/ 32	  100%	(-466, 214,   0)
+				Level 1:	0	 32/256	 12.5%	MegEnBom Z
+							1	 32/256	 12.5%	HotBody1 A
+							2	 32/256	 12.5%	WoodNos1 F
+							3	 32/256	 12.5%	NrthWind D
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	MegEnBom Z
+							1	 32/256	 12.5%	HotBody1 A
+							2	 32/256	 12.5%	WoodNos1 F
+							3	 32/256	 12.5%	NrthWind D
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	MegEnBom Z
+							1	 32/256	 12.5%	HotBody1 A
+							2	 32/256	 12.5%	WoodNos1 F
+							3	 32/256	 12.5%	NrthWind D
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+Green	 F5B	Locations:	0	 32/ 32	  100%	( -22, 307,   0)
+				Level 1:	0	 32/256	 12.5%	MegEnBom Z
+							1	 32/256	 12.5%	HotBody1 A
+							2	 32/256	 12.5%	WoodNos1 F
+							3	 32/256	 12.5%	NrthWind D
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 2:	0	 32/256	 12.5%	MegEnBom Z
+							1	 32/256	 12.5%	HotBody1 A
+							2	 32/256	 12.5%	WoodNos1 F
+							3	 32/256	 12.5%	NrthWind D
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+				Level 3:	0	 32/256	 12.5%	MegEnBom Z
+							1	 32/256	 12.5%	HotBody1 A
+							2	 32/256	 12.5%	WoodNos1 F
+							3	 32/256	 12.5%	NrthWind D
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+----------------------------------------------------------------
+Area 86 00: ACDC Area 3
+
+Green	 F60	Locations:	0	 32/ 64	   50%	( -20,-381,   0)
+							1	 32/ 64	   50%	( 174,-253,   0)
+				Level 1:	0	 32/256	 12.5%	Cannon   C	(Trap)
+							1	 32/256	 12.5%	Vulcan1  E	(Trap)
+							2	 32/256	 12.5%	EnergBom W
+							3	 32/256	 12.5%	Recov50  B
+							4	 32/256	 12.5%	250z
+							5	 32/256	 12.5%	300z
+							6	 32/256	 12.5%	500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	AirSpin2 H	(Trap)
+							1	 32/256	 12.5%	Lance    L	(Trap)
+							2	 32/256	 12.5%	Discord  B
+							3	 32/256	 12.5%	Recov150 Q
+							4	 32/256	 12.5%	350z
+							5	 32/256	 12.5%	400z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	MoonBld2 G	(Trap)
+							1	 32/256	 12.5%	AntiFire T	(Trap)
+							2	 32/256	 12.5%	Barr100  P
+							3	 32/256	 12.5%	BusterUp *
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F61	Locations:	0	 32/ 64	   50%	( 205, -29,   0)
+							1	 32/ 64	   50%	( 397, -29,   0)
+				Level 1:	0	 32/256	 12.5%	Cannon   C
+							1	 32/256	 12.5%	Vulcan1  E
+							2	 32/256	 12.5%	EnergBom W	(Trap)
+							3	 32/256	 12.5%	Recov50  B	(Trap)
+							4	 32/256	 12.5%	250z
+							5	 32/256	 12.5%	300z
+							6	 32/256	 12.5%	500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	AirSpin2 H
+							1	 32/256	 12.5%	Lance    L
+							2	 32/256	 12.5%	Discord  B	(Trap)
+							3	 32/256	 12.5%	Recov150 Q	(Trap)
+							4	 32/256	 12.5%	350z
+							5	 32/256	 12.5%	400z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	MoonBld2 G
+							1	 32/256	 12.5%	AntiFire T
+							2	 32/256	 12.5%	Barr100  P	(Trap)
+							3	 32/256	 12.5%	BusterUp *	(Trap)
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 01: Oran Area 3
+
+Green	 F64	Locations:	0	 32/ 64	   50%	(-165,-141,   0)
+							1	 32/ 64	   50%	(-131, 371,   0)
+				Level 1:	0	 32/256	 12.5%	Vulcan2  B	(Trap)
+							1	 32/256	 12.5%	Recov80  K	(Trap)
+							2	 32/256	 12.5%	CusVolt1 A
+							3	 32/256	 12.5%	AirSpin1 E
+							4	 32/256	 12.5%	320z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	780z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Barr100  P	(Trap)
+							1	 32/256	 12.5%	LifeSync R	(Trap)
+							2	 32/256	 12.5%	Navi+20  *
+							3	 32/256	 12.5%	Recov150 Q
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	CusVolt3 M	(Trap)
+							1	 32/256	 12.5%	SpShake2 C	(Trap)
+							2	 32/256	 12.5%	Geddon2  W
+							3	 32/256	 12.5%	AntiWatr Q
+							4	 32/256	 12.5%	520z
+							5	 32/256	 12.5%	750z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F65	Locations:	0	 32/ 64	   50%	( 156, 244,   0)
+							1	 32/ 64	   50%	( 188,-332,   0)
+				Level 1:	0	 32/256	 12.5%	Vulcan2  B
+							1	 32/256	 12.5%	Recov80  K
+							2	 32/256	 12.5%	CusVolt1 A	(Trap)
+							3	 32/256	 12.5%	AirSpin1 E	(Trap)
+							4	 32/256	 12.5%	320z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	780z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Barr100  P
+							1	 32/256	 12.5%	LifeSync R
+							2	 32/256	 12.5%	Navi+20  *	(Trap)
+							3	 32/256	 12.5%	Recov150 Q	(Trap)
+							4	 32/256	 12.5%	420z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	880z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	CusVolt3 M
+							1	 32/256	 12.5%	SpShake2 C
+							2	 32/256	 12.5%	Geddon2  W	(Trap)
+							3	 32/256	 12.5%	AntiWatr Q	(Trap)
+							4	 32/256	 12.5%	520z
+							5	 32/256	 12.5%	750z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 02: SciLab Area 3
+
+Green	 F68	Locations:	0	 32/ 64	   50%	(-219,-101,   0)
+							1	 32/ 64	   50%	( -28, 284,   0)
+				Level 1:	0	 32/256	 12.5%	WavePit  B	(Trap)
+							1	 32/256	 12.5%	Recov50  *	(Trap)
+							2	 32/256	 12.5%	GunDelS1 S
+							3	 32/256	 12.5%	Tornado  D
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	WindRack B	(Trap)
+							1	 32/256	 12.5%	Recov200 I	(Trap)
+							2	 32/256	 12.5%	CusVolt2 C
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	750z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AqWhirl2 A	(Trap)
+							1	 32/256	 12.5%	GrasSeed A	(Trap)
+							2	 32/256	 12.5%	WindRack *
+							3	 32/256	 12.5%	Boomer   A
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F69	Locations:	0	 32/ 64	   50%	( 453, -37,   0)
+							1	 32/ 64	   50%	( 229, 283,   0)
+				Level 1:	0	 32/256	 12.5%	WavePit  B
+							1	 32/256	 12.5%	Recov50  *
+							2	 32/256	 12.5%	GunDelS1 S	(Trap)
+							3	 32/256	 12.5%	Tornado  D	(Trap)
+							4	 32/256	 12.5%	450z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	WindRack B
+							1	 32/256	 12.5%	Recov200 I
+							2	 32/256	 12.5%	CusVolt2 C	(Trap)
+							3	 32/256	 12.5%	BblWrap  Y	(Trap)
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	750z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AqWhirl2 A
+							1	 32/256	 12.5%	GrasSeed A
+							2	 32/256	 12.5%	WindRack *	(Trap)
+							3	 32/256	 12.5%	Boomer   A	(Trap)
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 03: End Area 2
+
+Green	 F6C	Locations:	0	 32/ 64	   50%	(-172, 172,   0)
+							1	 32/ 64	   50%	( 212, 236,   0)
+				Level 1:	0	 32/256	 12.5%	GrabBnsh L	(Trap)
+							1	 32/256	 12.5%	Recov120 K	(Trap)
+							2	 32/256	 12.5%	YoYo     E
+							3	 32/256	 12.5%	AqWhirl1 F
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Quake2   L	(Trap)
+							1	 32/256	 12.5%	CannBall *	(Trap)
+							2	 32/256	 12.5%	SeaSeed  M
+							3	 32/256	 12.5%	CusVolt2 E
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	860z
+							6	 32/256	 12.5%	1180z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Slasher  I	(Trap)
+							1	 32/256	 12.5%	WideSht2 G	(Trap)
+							2	 32/256	 12.5%	SeaSeed  *
+							3	 32/256	 12.5%	WideBlde V
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1060z
+							6	 32/256	 12.5%	1380z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F6D	Locations:	0	 32/ 64	   50%	(  21,-373,   0)
+							1	 32/ 64	   50%	( 245,-117,   0)
+				Level 1:	0	 32/256	 12.5%	GrabBnsh L
+							1	 32/256	 12.5%	Recov120 K
+							2	 32/256	 12.5%	YoYo     E	(Trap)
+							3	 32/256	 12.5%	AqWhirl1 F	(Trap)
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	660z
+							6	 32/256	 12.5%	980z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Quake2   L
+							1	 32/256	 12.5%	CannBall *
+							2	 32/256	 12.5%	SeaSeed  M	(Trap)
+							3	 32/256	 12.5%	CusVolt2 E	(Trap)
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	860z
+							6	 32/256	 12.5%	1180z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Slasher  I
+							1	 32/256	 12.5%	WideSht2 G
+							2	 32/256	 12.5%	SeaSeed  *	(Trap)
+							3	 32/256	 12.5%	WideBlde V	(Trap)
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1060z
+							6	 32/256	 12.5%	1380z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 04: End Area 5
+
+Green	 F70	Locations:	0	 32/ 64	   50%	(-116,-140,   0)
+							1	 32/ 64	   50%	(-148, 308,   0)
+				Level 1:	0	 32/256	 12.5%	TankCan1 E	(Trap)
+							1	 32/256	 12.5%	GunDelS1 *	(Trap)
+							2	 32/256	 12.5%	WindRack J
+							3	 32/256	 12.5%	YoYo     F
+							4	 32/256	 12.5%	650z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1050z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Guard2   *	(Trap)
+							1	 32/256	 12.5%	MetaGel  F	(Trap)
+							2	 32/256	 12.5%	SloGauge Q
+							3	 32/256	 12.5%	AntiFire E
+							4	 32/256	 12.5%	850z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiWood M	(Trap)
+							1	 32/256	 12.5%	AntiDmg  F	(Trap)
+							2	 32/256	 12.5%	AirSpin3 G
+							3	 32/256	 12.5%	Astroid3 P
+							4	 32/256	 12.5%	1050z
+							5	 32/256	 12.5%	1250z
+							6	 32/256	 12.5%	1450z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F71	Locations:	0	 32/ 64	   50%	( 108,-268,   0)
+							1	 32/ 64	   50%	( 364, -12,   0)
+				Level 1:	0	 32/256	 12.5%	TankCan1 E
+							1	 32/256	 12.5%	GunDelS1 *
+							2	 32/256	 12.5%	WindRack J	(Trap)
+							3	 32/256	 12.5%	YoYo     F	(Trap)
+							4	 32/256	 12.5%	650z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1050z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Guard2   *
+							1	 32/256	 12.5%	MetaGel  F
+							2	 32/256	 12.5%	SloGauge Q	(Trap)
+							3	 32/256	 12.5%	AntiFire E	(Trap)
+							4	 32/256	 12.5%	850z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiWood M
+							1	 32/256	 12.5%	AntiDmg  F
+							2	 32/256	 12.5%	AirSpin3 G	(Trap)
+							3	 32/256	 12.5%	Astroid3 P	(Trap)
+							4	 32/256	 12.5%	1050z
+							5	 32/256	 12.5%	1250z
+							6	 32/256	 12.5%	1450z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 05: Undernet 4
+
+Green	 F74	Locations:	0	 32/ 64	   50%	( 173, 291,   0)
+							1	 32/ 64	   50%	( 333,-253,   0)
+				Level 1:	0	 32/256	 12.5%	Mine     H	(Trap)
+							1	 32/256	 12.5%	Geddon1  Z	(Trap)
+							2	 32/256	 12.5%	BoyBomb1 S
+							3	 32/256	 12.5%	Fanfare  *
+							4	 32/256	 12.5%	850z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	TankCan2 T	(Trap)
+							1	 32/256	 12.5%	ParaBom  N	(Trap)
+							2	 32/256	 12.5%	Recov200 I
+							3	 32/256	 12.5%	Discord  J
+							4	 32/256	 12.5%	1050z
+							5	 32/256	 12.5%	1250z
+							6	 32/256	 12.5%	1450z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	MetaGel  N	(Trap)
+							1	 32/256	 12.5%	MudWave  W	(Trap)
+							2	 32/256	 12.5%	AntiSwrd O
+							3	 32/256	 12.5%	CrsShld3 Z
+							4	 32/256	 12.5%	1250z
+							5	 32/256	 12.5%	1450z
+							6	 32/256	 12.5%	1650z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F75	Locations:	0	 32/ 64	   50%	(  76,  36,   0)
+							1	 32/ 64	   50%	(-115, 163,   0)
+				Level 1:	0	 32/256	 12.5%	Mine     H
+							1	 32/256	 12.5%	Geddon1  Z
+							2	 32/256	 12.5%	BoyBomb1 S	(Trap)
+							3	 32/256	 12.5%	Fanfare  *	(Trap)
+							4	 32/256	 12.5%	850z
+							5	 32/256	 12.5%	1050z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	TankCan2 T
+							1	 32/256	 12.5%	ParaBom  N
+							2	 32/256	 12.5%	Recov200 I	(Trap)
+							3	 32/256	 12.5%	Discord  J	(Trap)
+							4	 32/256	 12.5%	1050z
+							5	 32/256	 12.5%	1250z
+							6	 32/256	 12.5%	1450z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	MetaGel  N
+							1	 32/256	 12.5%	MudWave  W
+							2	 32/256	 12.5%	AntiSwrd O	(Trap)
+							3	 32/256	 12.5%	CrsShld3 Z	(Trap)
+							4	 32/256	 12.5%	1250z
+							5	 32/256	 12.5%	1450z
+							6	 32/256	 12.5%	1650z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 06: Nebula Area 1
+
+Green	 F78	Locations:	0	 32/ 64	   50%	(-212, -13,   0)
+							1	 32/ 64	   50%	(  13, 244,   0)
+				Level 1:	0	 32/256	 12.5%	LavaSeed H
+							1	 32/256	 12.5%	Magnum   E
+							2	 32/256	 12.5%	Barr200  W
+							3	 32/256	 12.5%	LongBlde L
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1100z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	LavaSeed H
+							1	 32/256	 12.5%	Magnum   E
+							2	 32/256	 12.5%	Barr200  W
+							3	 32/256	 12.5%	LongBlde L
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1100z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	LavaSeed H
+							1	 32/256	 12.5%	Magnum   E
+							2	 32/256	 12.5%	Barr200  W
+							3	 32/256	 12.5%	LongBlde L
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1100z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F79	Locations:	0	 32/ 64	   50%	( 172, 244,   0)
+							1	 32/ 64	   50%	(-243,-173,   0)
+				Level 1:	0	 32/256	 12.5%	LavaSeed H
+							1	 32/256	 12.5%	Magnum   E
+							2	 32/256	 12.5%	Barr200  W
+							3	 32/256	 12.5%	LongBlde L
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1100z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	LavaSeed H
+							1	 32/256	 12.5%	Magnum   E
+							2	 32/256	 12.5%	Barr200  W
+							3	 32/256	 12.5%	LongBlde L
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1100z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	LavaSeed H
+							1	 32/256	 12.5%	Magnum   E
+							2	 32/256	 12.5%	Barr200  W
+							3	 32/256	 12.5%	LongBlde L
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1100z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 07: Nebula Area 3
+
+Green	 F7C	Locations:	0	 32/ 64	   50%	( -84, 196,   0)
+							1	 32/ 64	   50%	(-276, 260,   0)
+				Level 1:	0	 32/256	 12.5%	AntiFire K
+							1	 32/256	 12.5%	AntiWatr G
+							2	 32/256	 12.5%	AntiElec N
+							3	 32/256	 12.5%	AntiWood Z
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1480z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	AntiFire K
+							1	 32/256	 12.5%	AntiWatr G
+							2	 32/256	 12.5%	AntiElec N
+							3	 32/256	 12.5%	AntiWood Z
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1480z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiFire K
+							1	 32/256	 12.5%	AntiWatr G
+							2	 32/256	 12.5%	AntiElec N
+							3	 32/256	 12.5%	AntiWood Z
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1480z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F7D	Locations:	0	 32/ 64	   50%	( 140, 164,   0)
+							1	 32/ 64	   50%	( 332,   4,   0)
+				Level 1:	0	 32/256	 12.5%	AntiFire K
+							1	 32/256	 12.5%	AntiWatr G
+							2	 32/256	 12.5%	AntiElec N
+							3	 32/256	 12.5%	AntiWood Z
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1480z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	AntiFire K
+							1	 32/256	 12.5%	AntiWatr G
+							2	 32/256	 12.5%	AntiElec N
+							3	 32/256	 12.5%	AntiWood Z
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1480z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiFire K
+							1	 32/256	 12.5%	AntiWatr G
+							2	 32/256	 12.5%	AntiElec N
+							3	 32/256	 12.5%	AntiWood Z
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1480z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 86 08: Nebula Area 5
+
+Green	 F80	Locations:	0	 32/ 64	   50%	( 196, 140,   0)
+							1	 32/ 64	   50%	(-188, 140,   0)
+				Level 1:	0	 32/256	 12.5%	VDoll    O
+							1	 32/256	 12.5%	AntiRecv J
+							2	 32/256	 12.5%	ElemRage E
+							3	 32/256	 12.5%	Snake    Z
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	VDoll    O
+							1	 32/256	 12.5%	AntiRecv J
+							2	 32/256	 12.5%	ElemRage E
+							3	 32/256	 12.5%	Snake    Z
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	VDoll    O
+							1	 32/256	 12.5%	AntiRecv J
+							2	 32/256	 12.5%	ElemRage E
+							3	 32/256	 12.5%	Snake    Z
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 F81	Locations:	0	 32/ 64	   50%	(-317,-181,   0)
+							1	 32/ 64	   50%	( 324,-181,   0)
+				Level 1:	0	 32/256	 12.5%	VDoll    O
+							1	 32/256	 12.5%	AntiRecv J
+							2	 32/256	 12.5%	ElemRage E
+							3	 32/256	 12.5%	Snake    Z
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	VDoll    O
+							1	 32/256	 12.5%	AntiRecv J
+							2	 32/256	 12.5%	ElemRage E
+							3	 32/256	 12.5%	Snake    Z
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	VDoll    O
+							1	 32/256	 12.5%	AntiRecv J
+							2	 32/256	 12.5%	ElemRage E
+							3	 32/256	 12.5%	Snake    Z
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 88 01: Mayl's HP
+
+Blue	 FA4	Locations:	0	  0/  0	  100%	( 121,-106,   0)
+				Level 1+:	0	  0/  0	  100%	MiniEnrg
+Blue	 FA5	Locations:	0	  0/  0	  100%	(-124,  76,   0)
+				Level 1+:	0	  0/  0	  100%	EnergBom P
+----------------------------------------------------------------
+Area 88 02: Dex's HP
+
+Blue	 FA8	Locations:	0	  0/  0	  100%	(-127,-103,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Blue	 FA9	Locations:	0	  0/  0	  100%	( 117,  77,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 88 03: Yai's HP
+
+Blue	 FAC	Locations:	0	  0/  0	  100%	(-128,-104,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Purple	 FAD	Locations:	0	  0/  0	  100%	( 122,  82,   0)
+				Level 1+:	0	  0/  0	  100%	CannBall C
+----------------------------------------------------------------
+Area 8C 00: Doghouse Comp
+
+Blue	 FC0	Locations:	0	  0/  0	  100%	( 244, 220,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8C 01: Old Terminal Comp
+
+Blue	 FC2	Locations:	0	  0/  0	  100%	(  77, -13,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8C 02: Kitchen Comp
+
+Blue	 FC4	Locations:	0	  0/  0	  100%	( 242,-242,   0)
+				Level 1+:	0	  0/  0	  100%	Thunder  P
+----------------------------------------------------------------
+Area 8C 04: Radar Comp
+
+Blue	 FC8	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	SpinWhit
+----------------------------------------------------------------
+Area 8C 05: Air Conditioning Comp
+
+Blue	 FCA	Locations:	0	  0/  0	  100%	(  77,  51,   0)
+				Level 1+:	0	  0/  0	  100%	Battery (yellow)
+----------------------------------------------------------------
+Area 8C 06: Screw Comp
+
+Blue	 FCC	Locations:	0	  0/  0	  100%	( -52, -76,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8C 07: Engine Comp
+
+Blue	 FCE	Locations:	0	  0/  0	  100%	( 236, -12,   0)
+				Level 1+:	0	  0/  0	  100%	SubMemry
+----------------------------------------------------------------
+Area 8C 08: View Comp
+
+Blue	 FD0	Locations:	0	  0/  0	  100%	( 237,-237,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8C 09: Chip Maker Comp
+
+Blue	 FD2	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	DarkCirc R
+----------------------------------------------------------------
+Area 8C 0A: Air Filter Comp
+
+Blue	 FD4	Locations:	0	  0/  0	  100%	( 237,-237,   0)
+				Level 1+:	0	  0/  0	  100%	Tornado  R
+----------------------------------------------------------------
+Area 8C 0B: Armor Comp
+
+Blue	 FD6	Locations:	0	  0/  0	  100%	(-212,-236,   0)
+				Level 1+:	0	  0/  0	  100%	HP+100 (yellow)
+----------------------------------------------------------------
+Area 8C 0C: Helmet Comp
+
+Blue	 FD8	Locations:	0	  0/  0	  100%	( 236, 212,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Blue	 FD9	Locations:	0	  0/  0	  100%	(-212,-238,   0)
+				Level 1+:	0	  0/  0	  100%	MegEnBom C
+----------------------------------------------------------------
+Area 8C 0D: Katana Comp
+
+Blue	 FDA	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8C 0E: Server Comp
+
+Blue	 FDC	Locations:	0	  0/  0	  100%	(  76, -12,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8C 0F: Furnace Comp
+
+Blue	 FDE	Locations:	0	  0/  0	  100%	( 236, 212,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Blue	 FDF	Locations:	0	  0/  0	  100%	( 212,-236,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8D 00: Elevator Comp
+
+Blue	 FE0	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	HolyPanl *
+Blue	 FE1	Locations:	0	  0/  0	  100%	(-212, 212,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8D 01: Crane Comp
+
+Blue	 FE2	Locations:	0	  0/  0	  100%	( 236,  20,   0)
+				Level 1+:	0	  0/  0	  100%	YoYo     F
+Blue	 FE3	Locations:	0	  0/  0	  100%	(-212, 212,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8D 02: Tree Comp
+
+Blue	 FE4	Locations:	0	  0/  0	  100%	( 236, 212,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8D 03: Old Comp
+
+Blue	 FE6	Locations:	0	  0/  0	  100%	( 236, 212,   0)
+				Level 1+:	0	  0/  0	  100%	SpinPink
+Blue	 FE7	Locations:	0	  0/  0	  100%	(-212,-236,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8D 04: Dad's Comp
+
+Blue	 FE8	Locations:	0	  0/  0	  100%	( 236, 212,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Purple	 FE9	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	BugFix   H
+----------------------------------------------------------------
+Area 8D 05: Sculpture Comp
+
+Blue	 FEA	Locations:	0	  0/  0	  100%	(  12, -12,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8D 06: Terminal Comp
+
+Blue	 FEC	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	BugFrag x1
+Blue	 FED	Locations:	0	  0/  0	  100%	(-212, 212,   0)
+				Level 1+:	0	  0/  0	  100%	SeaSeed  *
+----------------------------------------------------------------
+Area 8D 07: NetBattle Comp
+
+Blue	 FEE	Locations:	0	  0/  0	  100%	(-212, 212,   0)
+				Level 1+:	0	  0/  0	  100%	HP+50 (pink)
+----------------------------------------------------------------
+Area 8D 08: Wine Case Comp
+
+Blue	 FF0	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Purple	 FF1	Locations:	0	  0/  0	  100%	( 236, 212,   0)
+				Level 1+:	0	  0/  0	  100%	Lance    C
+----------------------------------------------------------------
+Area 8D 09: Dumpling Comp
+
+Blue	 FF2	Locations:	0	  0/  0	  100%	( 236, -12,   0)
+				Level 1+:	0	  0/  0	  100%	MetaGel  T
+----------------------------------------------------------------
+Area 8D 0A: Experiment Server Comp
+
+Purple	 FF4	Locations:	0	  0/  0	  100%	( 236,-236,   0)
+				Level 1+:	0	  0/  0	  100%	MudWave  D
+----------------------------------------------------------------
+Area 8D 0B: Wind God Comp
+
+Blue	 FF6	Locations:	0	  0/  0	  100%	( 236, 212,   0)
+				Level 1+:	0	  0/  0	  100%	AirSpin2 B
+----------------------------------------------------------------
+Area 8D 0C: Pipe Comp
+
+Blue	 FF8	Locations:	0	  0/  0	  100%	(-212,-236,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8D 0D: Message Comp
+
+Blue	 FFA	Locations:	0	  0/  0	  100%	( -52, -76,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8E 02: Squirrel Comp 3
+
+Blue	1004	Locations:	0	  0/  0	  100%	(  12, -12,   0)
+				Level 1+:	0	  0/  0	  100%	100z
+----------------------------------------------------------------
+Area 8E 03: Squirrel Comp 4
+
+Blue	1006	Locations:	0	  0/  0	  100%	(  12, -12,   0)
+				Level 1+:	0	  0/  0	  100%	200z
+----------------------------------------------------------------
+Area 8E 04: Squirrel Comp 5
+
+Blue	1008	Locations:	0	  0/  0	  100%	( 237, -12,   0)
+				Level 1+:	0	  0/  0	  100%	Charge+1 (white)
+----------------------------------------------------------------
+Area 8E 05: Squirrel Comp 6
+
+Blue	100A	Locations:	0	  0/  0	  100%	( 237, -12,   0)
+				Level 1+:	0	  0/  0	  100%	GunDelS1 A
+----------------------------------------------------------------
+Area 8E 07: Squirrel Comp 8
+
+Blue	100E	Locations:	0	  0/  0	  100%	( 237, -12,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+----------------------------------------------------------------
+Area 8E 09: Squirrel Comp 10
+
+Blue	1012	Locations:	0	  0/  0	  100%	(  12, -12,   0)
+				Level 1+:	0	  0/  0	  100%	300z
+----------------------------------------------------------------
+Area 8E 0A: Squirrel Comp 11
+
+Blue	1014	Locations:	0	  0/  0	  100%	(  12, -12,   0)
+				Level 1+:	0	  0/  0	  100%	400z
+----------------------------------------------------------------
+Area 8E 0C: Squirrel Comp 13
+
+Blue	1018	Locations:	0	  0/  0	  100%	( 237, -12,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+----------------------------------------------------------------
+Area 8E 0E: Squirrel Comp 15
+
+Blue	101C	Locations:	0	  0/  0	  100%	( 237, -12,   0)
+				Level 1+:	0	  0/  0	  100%	FstBarr (blue)
+----------------------------------------------------------------
+Area 90 00: ACDC Area 1
+
+Blue	 E00	Locations:	0	  0/  0	  100%	(-234, -55,   0)
+				Level 1+:	0	 32/ 32	  100%	MiniEnrg
+Blue	 E01	Locations:	0	  0/  0	  100%	( 311,-148,   0)
+				Level 1+:	0	  0/  0	  100%	800z
+Green	 E02	Locations:	0	 32/ 64	   50%	(  24, -21,   0)
+							1	 32/ 64	   50%	( 115,  46,   0)
+				Level 1:	0	 32/256	 12.5%	Guard1   A
+							1	 32/256	 12.5%	DublCrak *
+							2	 32/256	 12.5%	WideSwrd K
+							3	 32/256	 12.5%	MiniBomb *
+							4	 32/256	 12.5%	100z
+							5	 32/256	 12.5%	200z
+							6	 32/256	 12.5%	400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Recov30  H
+							1	 32/256	 12.5%	Barrier  L
+							2	 32/256	 12.5%	Fanfare  P
+							3	 32/256	 12.5%	Voltz1   K
+							4	 32/256	 12.5%	200z
+							5	 32/256	 12.5%	300z
+							6	 32/256	 12.5%	500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Pulsar2  G
+							1	 32/256	 12.5%	CactBal2 R
+							2	 32/256	 12.5%	YoYo     E
+							3	 32/256	 12.5%	Wind     *
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	400z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E03	Locations:	0	 32/ 64	   50%	( 212, 238,   0)
+							1	 32/ 64	   50%	(-205,-277,   0)
+				Level 1:	0	 32/256	 12.5%	Guard1   A
+							1	 32/256	 12.5%	DublCrak *
+							2	 32/256	 12.5%	WideSwrd K
+							3	 32/256	 12.5%	MiniBomb *
+							4	 32/256	 12.5%	100z
+							5	 32/256	 12.5%	200z
+							6	 32/256	 12.5%	400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Recov30  H
+							1	 32/256	 12.5%	Barrier  L
+							2	 32/256	 12.5%	Fanfare  P
+							3	 32/256	 12.5%	Voltz1   K
+							4	 32/256	 12.5%	200z
+							5	 32/256	 12.5%	300z
+							6	 32/256	 12.5%	500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Pulsar2  G
+							1	 32/256	 12.5%	CactBal2 R
+							2	 32/256	 12.5%	YoYo     E
+							3	 32/256	 12.5%	Wind     *
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	400z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Blue	 E04	Locations:	0	  0/  0	  100%	(-203,-180,   0)
+				Level 1+:	0	  0/  0	  100%	HP+200 (yellow)
+----------------------------------------------------------------
+Area 90 01: ACDC Area 2
+
+Purple	 E08	Locations:	0	  0/  0	  100%	( -38, -74,   0)
+				Level 1+:	0	  0/  0	  100%	BlkBomb  R
+Blue	 E09	Locations:	0	  0/  0	  100%	(-292, 180,   0)
+				Level 1+:	0	  0/  0	  100%	CopyDmg  *
+Green	 E0A	Locations:	0	 32/ 64	   50%	( -37, 242,   0)
+							1	 32/ 64	   50%	(-164, 242,   0)
+				Level 1:	0	 32/256	 12.5%	Barrier  S
+							1	 32/256	 12.5%	Spreader D
+							2	 32/256	 12.5%	Recov10  *
+							3	 32/256	 12.5%	Thunder  B
+							4	 32/256	 12.5%	200z
+							5	 32/256	 12.5%	350z
+							6	 32/256	 12.5%	550z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Tornado  L	(Trap)
+							1	 32/256	 12.5%	Spreader E	(Trap)
+							2	 32/256	 12.5%	Thunder  P
+							3	 32/256	 12.5%	MiniBomb G
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	450z
+							6	 32/256	 12.5%	650z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Fan      *	(Trap)
+							1	 32/256	 12.5%	BugBomb  R	(Trap)
+							2	 32/256	 12.5%	Timpani  A
+							3	 32/256	 12.5%	CrsShld2 C
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	750z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E0B	Locations:	0	 32/ 64	   50%	(-289, -75,   0)
+							1	 32/ 64	   50%	( 221,  85,   0)
+				Level 1:	0	 32/256	 12.5%	Barrier  S
+							1	 32/256	 12.5%	Spreader D
+							2	 32/256	 12.5%	Recov10  *
+							3	 32/256	 12.5%	Thunder  B
+							4	 32/256	 12.5%	200z
+							5	 32/256	 12.5%	350z
+							6	 32/256	 12.5%	550z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Tornado  L
+							1	 32/256	 12.5%	Spreader E
+							2	 32/256	 12.5%	Thunder  P	(Trap)
+							3	 32/256	 12.5%	MiniBomb G	(Trap)
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	450z
+							6	 32/256	 12.5%	650z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Fan      *
+							1	 32/256	 12.5%	BugBomb  R
+							2	 32/256	 12.5%	Timpani  A	(Trap)
+							3	 32/256	 12.5%	CrsShld2 C	(Trap)
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	750z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 91 00: Oran Area 1
+
+Purple	 E20	Locations:	0	  0/  0	  100%	(-218, -20,   0)
+				Level 1+:	0	 32/ 32	  100%	Snake    M
+Blue	 E21	Locations:	0	  0/  0	  100%	( 164, -20,   0)
+				Level 1+:	0	  0/  0	  100%	Quake1   A
+Green	 E22	Locations:	0	 32/ 64	   50%	(-254,-276,   0)
+							1	 32/ 64	   50%	(-381,-181,   0)
+				Level 1:	0	 32/256	 12.5%	Spreader C
+							1	 32/256	 12.5%	TripCrak *
+							2	 32/256	 12.5%	CrakBom  R
+							3	 32/256	 12.5%	MrkCan1  S
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	450z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	SloGauge H
+							1	 32/256	 12.5%	BusterUp *
+							2	 32/256	 12.5%	GrasSeed M
+							3	 32/256	 12.5%	GunDelS1 A
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	RedFrut2 T
+							1	 32/256	 12.5%	HotBody2 R
+							2	 32/256	 12.5%	Recov120 K
+							3	 32/256	 12.5%	AreaGrab S
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E23	Locations:	0	 32/ 64	   50%	(-316, 230,   0)
+							1	 32/ 64	   50%	(-190, 106, 128)
+				Level 1:	0	 32/256	 12.5%	Spreader C
+							1	 32/256	 12.5%	TripCrak *
+							2	 32/256	 12.5%	CrakBom  R
+							3	 32/256	 12.5%	MrkCan1  S
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	450z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	SloGauge H
+							1	 32/256	 12.5%	BusterUp *
+							2	 32/256	 12.5%	GrasSeed M
+							3	 32/256	 12.5%	GunDelS1 A
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	RedFrut2 T
+							1	 32/256	 12.5%	HotBody2 R
+							2	 32/256	 12.5%	Recov120 K
+							3	 32/256	 12.5%	AreaGrab S
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 91 01: Oran Area 2
+
+Blue	 E28	Locations:	0	  0/  0	  100%	( -60, -20,   0)
+				Level 1+:	0	  0/  0	  100%	Vulcan2  C
+Blue	 E29	Locations:	0	  0/  0	  100%	( 325,-276,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Green	 E2A	Locations:	0	 32/ 64	   50%	( -60, 105,   0)
+							1	 32/ 64	   50%	(-251,-149,   0)
+				Level 1:	0	 32/256	 12.5%	EnergBom P
+							1	 32/256	 12.5%	Barrier  *
+							2	 32/256	 12.5%	Boomer   V
+							3	 32/256	 12.5%	LongSwrd M
+							4	 32/256	 12.5%	200z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	CannBall Z	(Trap)
+							1	 32/256	 12.5%	Slasher  B	(Trap)
+							2	 32/256	 12.5%	RedFrut1 K
+							3	 32/256	 12.5%	Geddon2  H
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	600z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	LavaSeed K	(Trap)
+							1	 32/256	 12.5%	RedWave  A	(Trap)
+							2	 32/256	 12.5%	FstGauge W
+							3	 32/256	 12.5%	Barr100  P
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E2B	Locations:	0	 32/ 64	   50%	( 484, -84,   0)
+							1	 32/ 64	   50%	( 426,-212,   0)
+				Level 1:	0	 32/256	 12.5%	EnergBom P
+							1	 32/256	 12.5%	Barrier  *
+							2	 32/256	 12.5%	Boomer   V
+							3	 32/256	 12.5%	LongSwrd M
+							4	 32/256	 12.5%	200z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	CannBall Z
+							1	 32/256	 12.5%	Slasher  B
+							2	 32/256	 12.5%	RedFrut1 K	(Trap)
+							3	 32/256	 12.5%	Geddon2  H	(Trap)
+							4	 32/256	 12.5%	300z
+							5	 32/256	 12.5%	600z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	LavaSeed K
+							1	 32/256	 12.5%	RedWave  A
+							2	 32/256	 12.5%	FstGauge W	(Trap)
+							3	 32/256	 12.5%	Barr100  P	(Trap)
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	800z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 92 00: SciLab Area 1
+
+Blue	 E40	Locations:	0	  0/  0	  100%	( 123, 326,   0)
+				Level 1+:	0	  0/  0	  100%	Custom1 (blue)
+Purple	 E41	Locations:	0	  0/  0	  100%	( -68,-311,   0)
+				Level 1+:	0	  0/  0	  100%	Geyser   M
+Green	 E42	Locations:	0	 32/ 64	   50%	(-261, 259,   0)
+							1	 32/ 64	   50%	( 125, -61,   0)
+				Level 1:	0	 32/256	 12.5%	HiCannon D
+							1	 32/256	 12.5%	Boomer   L
+							2	 32/256	 12.5%	Recov30  *
+							3	 32/256	 12.5%	Vulcan2  A
+							4	 32/256	 12.5%	350z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	CrsShld1 V
+							1	 32/256	 12.5%	GrabBnsh R
+							2	 32/256	 12.5%	NrthWind Q
+							3	 32/256	 12.5%	VarSwrd  C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	750z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	RedWave  H
+							1	 32/256	 12.5%	Recov150 Q
+							2	 32/256	 12.5%	WoodNos2 Z
+							3	 32/256	 12.5%	AirHoc   Q
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	800z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E43	Locations:	0	 32/ 64	   50%	(  -5,-189,   0)
+							1	 32/ 64	   50%	( 189, -27,   0)
+				Level 1:	0	 32/256	 12.5%	HiCannon D
+							1	 32/256	 12.5%	Boomer   L
+							2	 32/256	 12.5%	Recov30  *
+							3	 32/256	 12.5%	Vulcan2  A
+							4	 32/256	 12.5%	350z
+							5	 32/256	 12.5%	500z
+							6	 32/256	 12.5%	600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	CrsShld1 V
+							1	 32/256	 12.5%	GrabBnsh R
+							2	 32/256	 12.5%	NrthWind Q
+							3	 32/256	 12.5%	VarSwrd  C
+							4	 32/256	 12.5%	500z
+							5	 32/256	 12.5%	650z
+							6	 32/256	 12.5%	750z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	RedWave  H
+							1	 32/256	 12.5%	Recov150 Q
+							2	 32/256	 12.5%	WoodNos2 Z
+							3	 32/256	 12.5%	AirHoc   Q
+							4	 32/256	 12.5%	750z
+							5	 32/256	 12.5%	800z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 92 01: SciLab Area 2
+
+Blue	 E48	Locations:	0	  0/  0	  100%	(-350, 187,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Blue	 E49	Locations:	0	  0/  0	  100%	(-416, -69,   0)
+				Level 1+:	0	  0/  0	  100%	Shield (green)
+Green	 E4A	Locations:	0	 32/ 64	   50%	( 198, 186,   0)
+							1	 32/ 64	   50%	(-412, 123,   0)
+				Level 1:	0	 32/256	 12.5%	Thunder  *	(Trap)
+							1	 32/256	 12.5%	AirHoc   Q	(Trap)
+							2	 32/256	 12.5%	PnlRetrn *
+							3	 32/256	 12.5%	AreaGrab A
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	IceSeed  K	(Trap)
+							1	 32/256	 12.5%	M-Cannon F	(Trap)
+							2	 32/256	 12.5%	AirSpin2 W
+							3	 32/256	 12.5%	MegEnBom K
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	850z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiNavi T	(Trap)
+							1	 32/256	 12.5%	Voltz2   U	(Trap)
+							2	 32/256	 12.5%	AirSpin2 B
+							3	 32/256	 12.5%	Skully2  H
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E4B	Locations:	0	 32/ 64	   50%	(-349,-133,   0)
+							1	 32/ 64	   50%	( 100,-326,   0)
+				Level 1:	0	 32/256	 12.5%	Thunder  *
+							1	 32/256	 12.5%	AirHoc   Q
+							2	 32/256	 12.5%	PnlRetrn *	(Trap)
+							3	 32/256	 12.5%	AreaGrab A	(Trap)
+							4	 32/256	 12.5%	400z
+							5	 32/256	 12.5%	550z
+							6	 32/256	 12.5%	700z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	IceSeed  K
+							1	 32/256	 12.5%	M-Cannon F
+							2	 32/256	 12.5%	AirSpin2 W	(Trap)
+							3	 32/256	 12.5%	MegEnBom K	(Trap)
+							4	 32/256	 12.5%	550z
+							5	 32/256	 12.5%	700z
+							6	 32/256	 12.5%	850z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiNavi T
+							1	 32/256	 12.5%	Voltz2   U
+							2	 32/256	 12.5%	AirSpin2 B	(Trap)
+							3	 32/256	 12.5%	Skully2  H	(Trap)
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	850z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 92 02: SciLab Area 4
+
+Blue	 E50	Locations:	0	  0/  0	  100%	( 165, 281,   0)
+				Level 1+:	0	  0/  0	  100%	MegFldr1 (green)
+Blue	 E51	Locations:	0	  0/  0	  100%	( 451,  -3,   0)
+				Level 1+:	0	  0/  0	  100%	Magnum   V
+Green	 E52	Locations:	0	 32/ 64	   50%	(-156,-290,   0)
+							1	 32/ 64	   50%	( 165,-289,   0)
+				Level 1:	0	 32/256	 12.5%	AirHoc   R
+							1	 32/256	 12.5%	TimeBom1 N
+							2	 32/256	 12.5%	Recov120 K
+							3	 32/256	 12.5%	PanlGrab *
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	600z
+							6	 32/256	 12.5%	820z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	HolyPanl *
+							1	 32/256	 12.5%	Barr200  W
+							2	 32/256	 12.5%	Magnum   O
+							3	 32/256	 12.5%	Guard2   B
+							4	 32/256	 12.5%	630z
+							5	 32/256	 12.5%	750z
+							6	 32/256	 12.5%	970z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	BlkBomb  Z
+							1	 32/256	 12.5%	YoYo     D
+							2	 32/256	 12.5%	Timpani  L
+							3	 32/256	 12.5%	AntiElec Y
+							4	 32/256	 12.5%	780z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1120z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E53	Locations:	0	 32/ 64	   50%	( -90, 348,   0)
+							1	 32/ 64	   50%	( 360,-100,   0)
+				Level 1:	0	 32/256	 12.5%	AirHoc   R
+							1	 32/256	 12.5%	TimeBom1 N
+							2	 32/256	 12.5%	Recov120 K
+							3	 32/256	 12.5%	PanlGrab *
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	600z
+							6	 32/256	 12.5%	820z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	HolyPanl *
+							1	 32/256	 12.5%	Barr200  W
+							2	 32/256	 12.5%	Magnum   O
+							3	 32/256	 12.5%	Guard2   B
+							4	 32/256	 12.5%	630z
+							5	 32/256	 12.5%	750z
+							6	 32/256	 12.5%	970z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	BlkBomb  Z
+							1	 32/256	 12.5%	YoYo     D
+							2	 32/256	 12.5%	Timpani  L
+							3	 32/256	 12.5%	AntiElec Y
+							4	 32/256	 12.5%	780z
+							5	 32/256	 12.5%	900z
+							6	 32/256	 12.5%	1120z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 93 00: End Area 1
+
+Blue	 E60	Locations:	0	  0/  0	  100%	( -12,-390,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Purple	 E61	Locations:	0	  0/  0	  100%	( 244, 198,   0)
+				Level 1+:	0	  0/  0	  100%	Collect (yellow)
+Green	 E62	Locations:	0	 32/ 64	   50%	(-139, -36,   0)
+							1	 32/ 64	   50%	(-427, 220,   0)
+				Level 1:	0	 32/256	 12.5%	LifeSync *
+							1	 32/256	 12.5%	Vulcan2  C
+							2	 32/256	 12.5%	SeaSeed  D
+							3	 32/256	 12.5%	LongSwrd S
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	690z
+							6	 32/256	 12.5%	1050z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Geddon2  T
+							1	 32/256	 12.5%	M-Cannon G
+							2	 32/256	 12.5%	MrkCan2  F
+							3	 32/256	 12.5%	MegEnBom C
+							4	 32/256	 12.5%	680z
+							5	 32/256	 12.5%	890z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Blinder  D
+							1	 32/256	 12.5%	MrkCan3  E
+							2	 32/256	 12.5%	Thunder  *
+							3	 32/256	 12.5%	BugBomb  T
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1090z
+							6	 32/256	 12.5%	1450z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E63	Locations:	0	 32/ 64	   50%	( 373,-260,   0)
+							1	 32/ 64	   50%	( 373,  28,   0)
+				Level 1:	0	 32/256	 12.5%	LifeSync *
+							1	 32/256	 12.5%	Vulcan2  C
+							2	 32/256	 12.5%	SeaSeed  D
+							3	 32/256	 12.5%	LongSwrd S
+							4	 32/256	 12.5%	480z
+							5	 32/256	 12.5%	690z
+							6	 32/256	 12.5%	1050z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Geddon2  T
+							1	 32/256	 12.5%	M-Cannon G
+							2	 32/256	 12.5%	MrkCan2  F
+							3	 32/256	 12.5%	MegEnBom C
+							4	 32/256	 12.5%	680z
+							5	 32/256	 12.5%	890z
+							6	 32/256	 12.5%	1250z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Blinder  D
+							1	 32/256	 12.5%	MrkCan3  E
+							2	 32/256	 12.5%	Thunder  *
+							3	 32/256	 12.5%	BugBomb  T
+							4	 32/256	 12.5%	880z
+							5	 32/256	 12.5%	1090z
+							6	 32/256	 12.5%	1450z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 93 01: End Area 3
+
+Blue	 E68	Locations:	0	  0/  0	  100%	( 124, 292,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Purple	 E69	Locations:	0	  0/  0	  100%	( 507, -59,   0)
+				Level 1+:	0	  0/  0	  100%	RainyDay G
+Green	 E6A	Locations:	0	 32/ 64	   50%	( 159, 421,   0)
+							1	 32/ 64	   50%	( 285,-444,   0)
+				Level 1:	0	 32/256	 12.5%	Geddon1  M	(Trap)
+							1	 32/256	 12.5%	CusVolt1 V	(Trap)
+							2	 32/256	 12.5%	Fanfare  Z
+							3	 32/256	 12.5%	Boomer   A
+							4	 32/256	 12.5%	440z
+							5	 32/256	 12.5%	740z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	RedWave  F	(Trap)
+							1	 32/256	 12.5%	FireHit2 I	(Trap)
+							2	 32/256	 12.5%	LongBlde P
+							3	 32/256	 12.5%	Recov200 I
+							4	 32/256	 12.5%	640z
+							5	 32/256	 12.5%	940z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Geyser   S	(Trap)
+							1	 32/256	 12.5%	Recov200 I	(Trap)
+							2	 32/256	 12.5%	DrilArm3 P
+							3	 32/256	 12.5%	Boomer   L
+							4	 32/256	 12.5%	840z
+							5	 32/256	 12.5%	1140z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E6B	Locations:	0	 32/ 64	   50%	(-259, -28,   0)
+							1	 32/ 64	   50%	(-131,-156,   0)
+				Level 1:	0	 32/256	 12.5%	Geddon1  M
+							1	 32/256	 12.5%	CusVolt1 V
+							2	 32/256	 12.5%	Fanfare  Z	(Trap)
+							3	 32/256	 12.5%	Boomer   A	(Trap)
+							4	 32/256	 12.5%	440z
+							5	 32/256	 12.5%	740z
+							6	 32/256	 12.5%	1000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	RedWave  F
+							1	 32/256	 12.5%	FireHit2 I
+							2	 32/256	 12.5%	LongBlde P	(Trap)
+							3	 32/256	 12.5%	Recov200 I	(Trap)
+							4	 32/256	 12.5%	640z
+							5	 32/256	 12.5%	940z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Geyser   S
+							1	 32/256	 12.5%	Recov200 I
+							2	 32/256	 12.5%	DrilArm3 P	(Trap)
+							3	 32/256	 12.5%	Boomer   L	(Trap)
+							4	 32/256	 12.5%	840z
+							5	 32/256	 12.5%	1140z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 93 02: End Area 4
+
+Blue	 E70	Locations:	0	  0/  0	  100%	( 564,-164,   0)
+				Level 1+:	0	  0/  0	  100%	SpinYllw
+Purple	 E71	Locations:	0	  0/  0	  100%	(-331, -93,   0)
+				Level 1+:	0	  0/  0	  100%	VarSwrd  V
+Green	 E72	Locations:	0	 32/ 64	   50%	( -76, 122,   0)
+							1	 32/ 64	   50%	(-105, 379,   0)
+				Level 1:	0	 32/256	 12.5%	Vulcan3  M
+							1	 32/256	 12.5%	Recov120 K
+							2	 32/256	 12.5%	Blinder  H
+							3	 32/256	 12.5%	HiCannon E
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	750z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	GrasSeed *
+							1	 32/256	 12.5%	DrilArm2 L
+							2	 32/256	 12.5%	TimeBom2 H
+							3	 32/256	 12.5%	Discord  Q
+							4	 32/256	 12.5%	800z
+							5	 32/256	 12.5%	950z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	MudWave  N
+							1	 32/256	 12.5%	Katana2  R
+							2	 32/256	 12.5%	Guard3   C
+							3	 32/256	 12.5%	FstGauge H
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1150z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E73	Locations:	0	 32/ 64	   50%	(  84,-549,   0)
+							1	 32/ 64	   50%	( 405,-360,   0)
+				Level 1:	0	 32/256	 12.5%	Vulcan3  M
+							1	 32/256	 12.5%	Recov120 K
+							2	 32/256	 12.5%	Blinder  H
+							3	 32/256	 12.5%	HiCannon E
+							4	 32/256	 12.5%	600z
+							5	 32/256	 12.5%	750z
+							6	 32/256	 12.5%	900z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	GrasSeed *
+							1	 32/256	 12.5%	DrilArm2 L
+							2	 32/256	 12.5%	TimeBom2 H
+							3	 32/256	 12.5%	Discord  Q
+							4	 32/256	 12.5%	800z
+							5	 32/256	 12.5%	950z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	MudWave  N
+							1	 32/256	 12.5%	Katana2  R
+							2	 32/256	 12.5%	Guard3   C
+							3	 32/256	 12.5%	FstGauge H
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1150z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Blue	 E74	Locations:	0	  0/  0	  100%	( 213,-134,   0)
+				Level 1+:	0	  0/  0	  100%	AirShoes (yellow)
+----------------------------------------------------------------
+Area 94 00: Undernet 1
+
+Blue	 E80	Locations:	0	  0/  0	  100%	( 125,-207,  64)
+				Level 1+:	0	  0/  0	  100%	DarkPlus *
+Blue	 E81	Locations:	0	  0/  0	  100%	(  95,-111,  64)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Green	 E82	Locations:	0	 32/ 64	   50%	(-289,-304, -64)
+							1	 32/ 64	   50%	(   0,-111,   0)
+				Level 1:	0	 32/256	 12.5%	MoonBld1 E
+							1	 32/256	 12.5%	AirSpin1 C
+							2	 32/256	 12.5%	AntiElec A
+							3	 32/256	 12.5%	Katana1  H
+							4	 32/256	 12.5%	650z
+							5	 32/256	 12.5%	880z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	LifeSync S
+							1	 32/256	 12.5%	Lance    R
+							2	 32/256	 12.5%	CustSwrd R
+							3	 32/256	 12.5%	SideBub2 W
+							4	 32/256	 12.5%	850z
+							5	 32/256	 12.5%	1080z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	YoYo     F
+							1	 32/256	 12.5%	CactBal3 N
+							2	 32/256	 12.5%	BugBomb  A
+							3	 32/256	 12.5%	Static   V
+							4	 32/256	 12.5%	1050z
+							5	 32/256	 12.5%	1280z
+							6	 32/256	 12.5%	1500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E83	Locations:	0	 32/ 64	   50%	( 191, 400, -64)
+							1	 32/ 64	   50%	( 482, 145,   0)
+				Level 1:	0	 32/256	 12.5%	MoonBld1 E
+							1	 32/256	 12.5%	AirSpin1 C
+							2	 32/256	 12.5%	AntiElec A
+							3	 32/256	 12.5%	Katana1  H
+							4	 32/256	 12.5%	650z
+							5	 32/256	 12.5%	880z
+							6	 32/256	 12.5%	1100z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	LifeSync S
+							1	 32/256	 12.5%	Lance    R
+							2	 32/256	 12.5%	CustSwrd R
+							3	 32/256	 12.5%	SideBub2 W
+							4	 32/256	 12.5%	850z
+							5	 32/256	 12.5%	1080z
+							6	 32/256	 12.5%	1300z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	YoYo     F
+							1	 32/256	 12.5%	CactBal3 N
+							2	 32/256	 12.5%	BugBomb  A
+							3	 32/256	 12.5%	Static   V
+							4	 32/256	 12.5%	1050z
+							5	 32/256	 12.5%	1280z
+							6	 32/256	 12.5%	1500z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Blue	 E84	Locations:	0	  0/  0	  100%	(-161, 401, -64)
+				Level 1+:	0	  0/  0	  100%	SoulT+1 (white)
+----------------------------------------------------------------
+Area 94 01: Undernet 2
+
+Blue	 E88	Locations:	0	  0/  0	  100%	(-473,-100,   0)
+				Level 1+:	0	  0/  0	  100%	RegUP
+Purple	 E89	Locations:	0	  0/  0	  100%	(   5,-539,   0)
+				Level 1+:	0	  0/  0	  100%	NeoVari  V
+Green	 E8A	Locations:	0	 32/ 64	   50%	( 134,-165,   0)
+							1	 32/ 64	   50%	( 135,  58,   0)
+				Level 1:	0	 32/256	 12.5%	CustSwrd R	(Trap)
+							1	 32/256	 12.5%	SpShake1 H	(Trap)
+							2	 32/256	 12.5%	Recov120 K
+							3	 32/256	 12.5%	BblWrap  Y
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	950z
+							6	 32/256	 12.5%	1150z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	CusVolt2 G	(Trap)
+							1	 32/256	 12.5%	Astroid2 M	(Trap)
+							2	 32/256	 12.5%	BoyBomb2 H
+							3	 32/256	 12.5%	Geddon1  *
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1150z
+							6	 32/256	 12.5%	1350z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	GunDelS3 M	(Trap)
+							1	 32/256	 12.5%	Geddon1  *	(Trap)
+							2	 32/256	 12.5%	AirSpin3 J
+							3	 32/256	 12.5%	WideSht3 U
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1550z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E8B	Locations:	0	 32/ 64	   50%	( 296, 312,   0)
+							1	 32/ 64	   50%	(-216,-230,   0)
+				Level 1:	0	 32/256	 12.5%	CustSwrd R
+							1	 32/256	 12.5%	SpShake1 H
+							2	 32/256	 12.5%	Recov120 K	(Trap)
+							3	 32/256	 12.5%	BblWrap  Y	(Trap)
+							4	 32/256	 12.5%	700z
+							5	 32/256	 12.5%	950z
+							6	 32/256	 12.5%	1150z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	CusVolt2 G
+							1	 32/256	 12.5%	Astroid2 M
+							2	 32/256	 12.5%	BoyBomb2 H	(Trap)
+							3	 32/256	 12.5%	Geddon1  *	(Trap)
+							4	 32/256	 12.5%	900z
+							5	 32/256	 12.5%	1150z
+							6	 32/256	 12.5%	1350z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	GunDelS3 M
+							1	 32/256	 12.5%	Geddon1  *
+							2	 32/256	 12.5%	AirSpin3 J	(Trap)
+							3	 32/256	 12.5%	WideSht3 U	(Trap)
+							4	 32/256	 12.5%	1100z
+							5	 32/256	 12.5%	1350z
+							6	 32/256	 12.5%	1550z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 94 02: Undernet 3
+
+Blue	 E90	Locations:	0	  0/  0	  100%	( -34,-480,   0)
+				Level 1+:	0	  0/  0	  100%	Attck+1 (yellow)
+Purple	 E91	Locations:	0	  0/  0	  100%	(-419, 195,   0)
+				Level 1+:	0	  0/  0	  100%	ExpMemry
+Green	 E92	Locations:	0	 32/ 64	   50%	(-162,-415,   0)
+							1	 32/ 64	   50%	( 222,-253,   0)
+				Level 1:	0	 32/256	 12.5%	YoYo     D	(Trap)
+							1	 32/256	 12.5%	WavePit  E	(Trap)
+							2	 32/256	 12.5%	AntiWood S
+							3	 32/256	 12.5%	Invisibl *
+							4	 32/256	 12.5%	800z
+							5	 32/256	 12.5%	1000z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	ElcReel2 Q	(Trap)
+							1	 32/256	 12.5%	SloGauge W	(Trap)
+							2	 32/256	 12.5%	Barr200  W
+							3	 32/256	 12.5%	AntiRecv B
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1200z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	RainyDay L	(Trap)
+							1	 32/256	 12.5%	Quake3   H	(Trap)
+							2	 32/256	 12.5%	Tornado  R
+							3	 32/256	 12.5%	ElemRage W
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1400z
+							6	 32/256	 12.5%	1600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E93	Locations:	0	 32/ 64	   50%	( 348, 195,   0)
+							1	 32/ 64	   50%	(-163, 418,   0)
+				Level 1:	0	 32/256	 12.5%	YoYo     D
+							1	 32/256	 12.5%	WavePit  E
+							2	 32/256	 12.5%	AntiWood S	(Trap)
+							3	 32/256	 12.5%	Invisibl *	(Trap)
+							4	 32/256	 12.5%	800z
+							5	 32/256	 12.5%	1000z
+							6	 32/256	 12.5%	1200z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	ElcReel2 Q
+							1	 32/256	 12.5%	SloGauge W
+							2	 32/256	 12.5%	Barr200  W	(Trap)
+							3	 32/256	 12.5%	AntiRecv B	(Trap)
+							4	 32/256	 12.5%	1000z
+							5	 32/256	 12.5%	1200z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	RainyDay L
+							1	 32/256	 12.5%	Quake3   H
+							2	 32/256	 12.5%	Tornado  R	(Trap)
+							3	 32/256	 12.5%	ElemRage W	(Trap)
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1400z
+							6	 32/256	 12.5%	1600z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 94 03: Nebula Area 2
+
+Blue	 E98	Locations:	0	  0/  0	  100%	( 120,-376,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Blue	 E99	Locations:	0	  0/  0	  100%	(-489, 170,   0)
+				Level 1+:	0	  0/  0	  100%	Recov300 Y
+Purple	 E9A	Locations:	0	  0/  0	  100%	( -31, 266,   0)
+				Level 1+:	0	  0/  0	  100%	Geddon3  A
+Green	 E9B	Locations:	0	 32/ 64	   50%	( 151, 107,   0)
+							1	 32/ 64	   50%	( 342,  12,   0)
+				Level 1:	0	 32/256	 12.5%	Mine     T
+							1	 32/256	 12.5%	AntiNavi M
+							2	 32/256	 12.5%	RainyDay B
+							3	 32/256	 12.5%	VarSwrd  B
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1300z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Mine     T
+							1	 32/256	 12.5%	AntiNavi M
+							2	 32/256	 12.5%	RainyDay B
+							3	 32/256	 12.5%	VarSwrd  B
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1300z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Mine     T
+							1	 32/256	 12.5%	AntiNavi M
+							2	 32/256	 12.5%	RainyDay B
+							3	 32/256	 12.5%	VarSwrd  B
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1300z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 E9C	Locations:	0	 32/ 64	   50%	( 342,-216,   0)
+							1	 32/ 64	   50%	( -12,-373,   0)
+				Level 1:	0	 32/256	 12.5%	Mine     T
+							1	 32/256	 12.5%	AntiNavi M
+							2	 32/256	 12.5%	RainyDay B
+							3	 32/256	 12.5%	VarSwrd  B
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1300z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	Mine     T
+							1	 32/256	 12.5%	AntiNavi M
+							2	 32/256	 12.5%	RainyDay B
+							3	 32/256	 12.5%	VarSwrd  B
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1300z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	Mine     T
+							1	 32/256	 12.5%	AntiNavi M
+							2	 32/256	 12.5%	RainyDay B
+							3	 32/256	 12.5%	VarSwrd  B
+							4	 32/256	 12.5%	1200z
+							5	 32/256	 12.5%	1300z
+							6	 32/256	 12.5%	1400z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------
+Area 94 04: Nebula Area 4
+
+Blue	 EA0	Locations:	0	  0/  0	  100%	( 343, 169,   0)
+				Level 1+:	0	  0/  0	  100%	GrabRvng N
+Blue	 EA1	Locations:	0	  0/  0	  100%	( 438,  42,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Blue	 EA2	Locations:	0	  0/  0	  100%	( 405, -53,  64)
+				Level 1+:	0	  0/  0	  100%	DblPoint *
+Blue	 EA3	Locations:	0	  0/  0	  100%	(-106,-214,   0)
+				Level 1+:	0	  0/  0	  100%	Z Saver  Z
+Blue	 EA4	Locations:	0	  0/  0	  100%	( 342,-342,   0)
+				Level 1+:	0	  0/  0	  100%	Django[DS] D
+Purple	 EA5	Locations:	0	  0/  0	  100%	(-170,-278,  64)
+				Level 1+:	0	  0/  0	  100%	HolyDrem H
+Green	 EA6	Locations:	0	 32/ 64	   50%	(-521, -88,   0)
+							1	 32/ 64	   50%	(-395, 327,   0)
+				Level 1:	0	 32/256	 12.5%	BlkBomb  L
+							1	 32/256	 12.5%	Geyser   G
+							2	 32/256	 12.5%	IceSeed  *
+							3	 32/256	 12.5%	Lance    *
+							4	 32/256	 12.5%	1240z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	BlkBomb  L
+							1	 32/256	 12.5%	Geyser   G
+							2	 32/256	 12.5%	IceSeed  *
+							3	 32/256	 12.5%	Lance    *
+							4	 32/256	 12.5%	1240z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	BlkBomb  L
+							1	 32/256	 12.5%	Geyser   G
+							2	 32/256	 12.5%	IceSeed  *
+							3	 32/256	 12.5%	Lance    *
+							4	 32/256	 12.5%	1240z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 EA7	Locations:	0	 32/ 64	   50%	(-233,-378,   0)
+							1	 32/ 64	   50%	( 375,-184,   0)
+				Level 1:	0	 32/256	 12.5%	BlkBomb  L
+							1	 32/256	 12.5%	Geyser   G
+							2	 32/256	 12.5%	IceSeed  *
+							3	 32/256	 12.5%	Lance    *
+							4	 32/256	 12.5%	1240z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	BlkBomb  L
+							1	 32/256	 12.5%	Geyser   G
+							2	 32/256	 12.5%	IceSeed  *
+							3	 32/256	 12.5%	Lance    *
+							4	 32/256	 12.5%	1240z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	BlkBomb  L
+							1	 32/256	 12.5%	Geyser   G
+							2	 32/256	 12.5%	IceSeed  *
+							3	 32/256	 12.5%	Lance    *
+							4	 32/256	 12.5%	1240z
+							5	 32/256	 12.5%	1500z
+							6	 32/256	 12.5%	2000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Purple	 FFE	Locations:	0	  0/  0	  100%	(-170,-278,  64)
+				Level 1+:	0	  0/  0	  100%	OmegaRkt R
+----------------------------------------------------------------
+Area 94 05: Nebula Area 6
+
+Blue	 EA8	Locations:	0	  0/  0	  100%	(-161, 192,   0)
+				Level 1+:	0	  0/  0	  100%	HP Memry
+Purple	 EA9	Locations:	0	  0/  0	  100%	( 220,-188,   0)
+				Level 1+:	0	  0/  0	  100%	LifeAur  D
+Green	 EAA	Locations:	0	 32/ 64	   50%	(-441,  89,  64)
+							1	 32/ 64	   50%	( 328,  26,  64)
+				Level 1:	0	 32/256	 12.5%	AntiDmg  C
+							1	 32/256	 12.5%	AirSpin3 A
+							2	 32/256	 12.5%	CusVolt3 P
+							3	 32/256	 12.5%	MudWave  D
+							4	 32/256	 12.5%	1300z
+							5	 32/256	 12.5%	2200z
+							6	 32/256	 12.5%	3000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	AntiDmg  C
+							1	 32/256	 12.5%	AirSpin3 A
+							2	 32/256	 12.5%	CusVolt3 P
+							3	 32/256	 12.5%	MudWave  D
+							4	 32/256	 12.5%	1300z
+							5	 32/256	 12.5%	2200z
+							6	 32/256	 12.5%	3000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiDmg  C
+							1	 32/256	 12.5%	AirSpin3 A
+							2	 32/256	 12.5%	CusVolt3 P
+							3	 32/256	 12.5%	MudWave  D
+							4	 32/256	 12.5%	1300z
+							5	 32/256	 12.5%	2200z
+							6	 32/256	 12.5%	3000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+Green	 EAB	Locations:	0	 32/ 64	   50%	( 222, 243,   0)
+							1	 32/ 64	   50%	(-212,-190,   0)
+				Level 1:	0	 32/256	 12.5%	AntiDmg  C
+							1	 32/256	 12.5%	AirSpin3 A
+							2	 32/256	 12.5%	CusVolt3 P
+							3	 32/256	 12.5%	MudWave  D
+							4	 32/256	 12.5%	1300z
+							5	 32/256	 12.5%	2200z
+							6	 32/256	 12.5%	3000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 2:	0	 32/256	 12.5%	AntiDmg  C
+							1	 32/256	 12.5%	AirSpin3 A
+							2	 32/256	 12.5%	CusVolt3 P
+							3	 32/256	 12.5%	MudWave  D
+							4	 32/256	 12.5%	1300z
+							5	 32/256	 12.5%	2200z
+							6	 32/256	 12.5%	3000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+				Level 3:	0	 32/256	 12.5%	AntiDmg  C
+							1	 32/256	 12.5%	AirSpin3 A
+							2	 32/256	 12.5%	CusVolt3 P
+							3	 32/256	 12.5%	MudWave  D
+							4	 32/256	 12.5%	1300z
+							5	 32/256	 12.5%	2200z
+							6	 32/256	 12.5%	3000z
+							7	 32/256	 12.5%	BugFrag x1
+							Affected by RNG carry-over glitch!
+----------------------------------------------------------------

@@ -154,3 +154,4 @@ cython_debug/
 *.dump
 *.json
 !bn5_chips.json
+ignore/

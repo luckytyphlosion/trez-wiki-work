@@ -293,7 +293,7 @@ def main():
 
         chips_by_section[section].sort(key=sort_func)
 
-    game_drop_table = enemy_drops.GameDropTable(bn2_hp_percents_to_name, enemy_drops.InputDropTable("bn2_drops.txt", None, None))
+    game_drop_table = enemy_drops.GameDropTable(bn2_hp_percents_to_name, 2, enemy_drops.InputDropTable("bn2_drops.txt", "bn2_ignored_enemies.txt", None))
 
     output = []
     output.append(PAGE_HEADER)

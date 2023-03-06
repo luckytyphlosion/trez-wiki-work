@@ -2,6 +2,7 @@ import json
 import functools
 
 import enemy_drops
+from mystery_data import MysteryDataParser
 
 PAGE_HEADER = """\
 {{nw|TODO: Add info and improve template.}}
@@ -206,7 +207,7 @@ secret_chip_to_navi = {
     "PanlSht3": "JunkMan",
 }
 
-def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None, is_free_battle_chip=False):
+def gen_basic_chiploc_table(chips, game_drop_table=None, mystery_data=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None, is_free_battle_chip=False):
     output = []
 
     for chip in chips:
@@ -228,6 +229,11 @@ def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_b
                 enemy_chip_location = game_drop_table.find_chip(name, original_code)
                 if enemy_chip_location is not None:
                     location_text_parts.append(enemy_chip_location)
+
+            if mystery_data is not None:
+                md_chip_location = mystery_data.find_chip(name, original_code)
+                if md_chip_location is not None:
+                    location_text_parts.append(md_chip_location)
 
             location_text = ", ".join(location_text_parts)
 
@@ -358,6 +364,7 @@ def main():
         json.dump(library_chips, f, indent=2)
 
     chip_traders = ChipTraders(("bn4_higsbys_trader.txt", "colosseum_avenue_trader.txt", "elec_town_2_trader.txt", "bn4_bugfrag_trader.txt"))
+    mystery_data = MysteryDataParser("bn4_mystery_data.txt", 4, library_chips)
 
     #remaining_sections = set(chip.get("section") for chip in library_chips)
     chips_by_section = {}
@@ -400,15 +407,15 @@ def main():
 
     standard = chips_by_section["standard"]
     output.append("==Standard Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(standard, game_drop_table=game_drop_table, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(standard, game_drop_table=game_drop_table, mystery_data=mystery_data, chip_traders=chip_traders))
 
     mega = chips_by_section["mega"]
     output.extend(["==Mega Class Chips==\n"])
-    output.extend(gen_basic_chiploc_table(mega, game_drop_table=game_drop_table, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(mega, game_drop_table=game_drop_table, mystery_data=mystery_data, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
     output.extend(["==Giga Class Chips==\n", "===Red Sun===\n"])
     giga_redsun = chips_by_section["giga_redsun"]
-    output.extend(gen_basic_chiploc_table(giga_redsun))
+    output.extend(gen_basic_chiploc_table(giga_redsun, mystery_data=mystery_data))
 
     giga_bluemoon = chips_by_section["giga_bluemoon"]
     output.append("===Blue Moon===\n")
