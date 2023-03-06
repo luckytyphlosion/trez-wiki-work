@@ -1,0 +1,66 @@
+  0: MegaMan
+  4: MettaurΩ
+  8: CanodumΩ
+ 12: FishyΩ
+ 16: SwordyΩ
+ 20: RattyΩ
+ 24: HardHedΩ
+ 28: JellyΩ
+ 32: ShrimpyΩ
+ 36: SpikeyΩ
+ 40: BunnyΩ
+ 44: WindΩ
+ 48: PuffballΩ
+ 52: MushyΩ
+ 56: DominerdΩ
+ 60: YortΩ
+ 64: ShadowΩ
+ 68: BrushManΩ
+ 74: ScuttleΩ
+ 78: BeetleΩ
+ 82: MetrodΩ
+ 86: SnowBlowΩ
+ 90: KllrEyeΩ
+ 94: MomograΩ
+ 98: BasherΩ
+102: HeavyΩ
+106: PengiΩ
+110: VineyΩ
+114: SlimerΩ
+118: ElebeeΩ
+122: NeedlerΩ
+126: TrumpyΩ
+128: ????
+130: AlphaBugΩ
+134: QuakerΩ
+138: N.O-Ω
+142: EleballΩ
+146: VolcanoΩ
+150: TotemΩ
+154: TwinsΩ
+158: BoomerΩ
+159: Number1
+160: Number2
+161: Number3
+162: Number-M1
+163: Number-M2
+164: Number-M3
+165: Number-G1
+166: Number-G2
+167: Number-G3
+196: Alpha
+197: AlphaΩ
+198: Unused
+199: Unused
+212: Punk
+213: Punkα
+214: Punkβ
+215: PunkΩ
+224: BowlMan
+225: BowlManα
+226: BowlManβ
+236: Serenade
+237: Serenadeα
+238: Serenadeβ
+239: SerenadeΩ
+240: Bass

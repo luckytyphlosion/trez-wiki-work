@@ -1,6 +1,8 @@
 import json
 import functools
 
+import enemy_drops
+
 PAGE_HEADER = """\
 {{nw|TODO: Add info and improve template.}}
 
@@ -142,7 +144,7 @@ def get_mega_chip_id_name(chip):
 
     return chip_id, chip_name
 
-def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chip_traders=None):
+def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None):
     output = []
 
     for chip in chips:
@@ -150,9 +152,21 @@ def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chi
         cur_output = CHIP_LOCATION_TEMPLATE_PART_1.format(id=id, name=name)
         output.append(cur_output)
         for code in chip["codes"]:
+            original_code = code
             if code == "*":
                 code = "asterisk"
-            output.append(f"|{code}={DUMMY_LOCATION_TEXT}\n")
+
+            location_text_parts = []
+            location_text_parts.append(DUMMY_LOCATION_TEXT)
+
+            if game_drop_table is not None:
+                enemy_chip_location = game_drop_table.find_chip(name, original_code)
+                if enemy_chip_location is not None:
+                    location_text_parts.append(enemy_chip_location)
+
+            location_text = ", ".join(location_text_parts)
+
+            output.append(f"|{code}={location_text}\n")
 
         if chip_traders is not None:
             traders_for_chip, version_text = chip_traders.find_traders_for_chip(chip)
@@ -289,16 +303,21 @@ def main():
 
         bn5_chips_by_section[section].sort(key=sort_func)
 
+    game_drop_table = enemy_drops.GameDropTable(enemy_drops.bn4to6_hp_percents_to_name, 5, 
+        enemy_drops.InputDropTable("bn5p_drops.txt", "bn5p_ignored_enemies.txt", "5TP"),
+        enemy_drops.InputDropTable("bn5c_drops.txt", "bn5c_ignored_enemies.txt", "5TC")
+    )
+
     output = []
     output.append(PAGE_HEADER)
 
     bn5_standard = bn5_chips_by_section["standard"]
     output.append("==Standard Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(bn5_standard, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(bn5_standard, game_drop_table=game_drop_table, chip_traders=chip_traders))
 
     bn5_mega = bn5_chips_by_section["mega"]
     output.append("==Mega Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(bn5_mega, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(bn5_mega, game_drop_table=game_drop_table, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
     output.extend(["==Giga Class Chips==\n", "===Team ProtoMan===\n"])
     bn5_giga_protoman = bn5_chips_by_section["giga_protoman"]

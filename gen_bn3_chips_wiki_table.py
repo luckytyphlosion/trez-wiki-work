@@ -2,6 +2,8 @@ import json
 import functools
 import re
 
+import enemy_drops
+
 PAGE_HEADER = """\
 {{nw|TODO: Add info and improve template.}}
 
@@ -165,7 +167,7 @@ def get_unregistered_secret_chip_id_name(chip):
 
     return chip_id, chip_name
 
-def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chip_traders=None, is_free_battle_chip=False):
+def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None, is_free_battle_chip=False):
     output = []
 
     for chip in chips:
@@ -173,11 +175,21 @@ def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chi
         cur_output = CHIP_LOCATION_TEMPLATE_PART_1.format(id=id, name=name)
         output.append(cur_output)
         for code in chip["codes"]:
+            original_code = code
             if code == "*":
                 code = "asterisk"
 
             location_text = DUMMY_LOCATION_TEXT
 
+            location_text_parts = []
+            location_text_parts.append(DUMMY_LOCATION_TEXT)
+
+            if game_drop_table is not None:
+                enemy_chip_location = game_drop_table.find_chip(name, original_code)
+                if enemy_chip_location is not None:
+                    location_text_parts.append(enemy_chip_location)
+
+            location_text = ", ".join(location_text_parts)
             output.append(f"|{code}={location_text}\n")
             
         if chip_traders is not None:
@@ -295,6 +307,12 @@ class ChipTraders:
         else:
             return None, None
 
+bn3_hp_percents_to_name = {
+    frozenset((">=37.5%",)): "High",
+    frozenset(("<37.5%",)): "Low",
+    frozenset((">=37.5%", "<37.5%")): "",
+}
+
 def main():
     with open("bn3_chips_v2.json", "r") as f:
         chips_v2 = json.load(f)
@@ -324,16 +342,21 @@ def main():
 
         chips_by_section[section].sort(key=sort_func)
 
+    game_drop_table = enemy_drops.GameDropTable(bn3_hp_percents_to_name, 3, 
+        enemy_drops.InputDropTable("bn3w_drops.txt", "bn3w_ignored_enemies.txt", "3W"),
+        enemy_drops.InputDropTable("bn3b_drops.txt", "bn3b_ignored_enemies.txt", "3B")
+    )
+
     output = []
     output.append(PAGE_HEADER)
 
     standard = chips_by_section["standard"]
     output.append("==Standard Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(standard, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(standard, game_drop_table=game_drop_table, chip_traders=chip_traders))
 
     mega = chips_by_section["mega"]
     output.extend(["==Mega Class Chips==\n"])
-    output.extend(gen_basic_chiploc_table(mega, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(mega, game_drop_table=game_drop_table, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
     output.extend(["==Giga Class Chips==\n", "===White===\n"])
     giga_white = chips_by_section["giga_white"]

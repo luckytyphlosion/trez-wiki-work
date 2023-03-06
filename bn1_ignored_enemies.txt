@@ -1,0 +1,24 @@
+  0: MegaMan
+  9: Unused
+ 33: Unused
+ 39: Unused
+ 95: Unused
+138: Unused
+139: Unused
+140: Unused
+145: Unused
+146: Unused
+147: LifeVirus
+148: ColorDollB
+149: ColorDollR
+150: ColorDoll2B
+151: ColorDoll2R
+152: ColorDoll3B
+153: ColorDoll3R
+154: ElecMan
+155: Fin1A
+156: Fin1B
+157: Fin2A
+158: Fin2B
+159: Fin3A
+160: Fin3B

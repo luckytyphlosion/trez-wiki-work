@@ -1,6 +1,8 @@
 import json
 import functools
 
+import enemy_drops
+
 PAGE_HEADER = """\
 {{nw|TODO: Add info and improve template.}}
 
@@ -204,7 +206,7 @@ secret_chip_to_navi = {
     "PanlSht3": "JunkMan",
 }
 
-def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chip_traders=None, is_free_battle_chip=False):
+def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None, is_free_battle_chip=False):
     output = []
 
     for chip in chips:
@@ -212,16 +214,25 @@ def gen_basic_chiploc_table(chips, chip_id_name_func=get_basic_chip_id_name, chi
         cur_output = CHIP_LOCATION_TEMPLATE_PART_1.format(id=id, name=name)
         output.append(cur_output)
         for code in chip["codes"]:
+            original_code = code
             if code == "*":
                 code = "asterisk"
-            if is_free_battle_chip and chip["index"] <= 36:
-                opponent = secret_chip_to_navi[chip["name"]["en"]]
-                location_text = f"Reward from winning Free Tournament with {opponent} as the final opponent."
-            else:
-                location_text = DUMMY_LOCATION_TEXT
+            #if is_free_battle_chip and chip["index"] <= 36:
+            #    opponent = secret_chip_to_navi[chip["name"]["en"]]
+            #    location_text = f"Reward from winning Free Tournament with {opponent} as the final opponent."
+
+            location_text_parts = []
+            location_text_parts.append(DUMMY_LOCATION_TEXT)
+
+            if game_drop_table is not None:
+                enemy_chip_location = game_drop_table.find_chip(name, original_code)
+                if enemy_chip_location is not None:
+                    location_text_parts.append(enemy_chip_location)
+
+            location_text = ", ".join(location_text_parts)
 
             output.append(f"|{code}={location_text}\n")
-            
+
         if chip_traders is not None:
             traders_for_chip, version_text = chip_traders.find_traders_for_chip(chip)
             output.append(f"|traders={traders_for_chip}\n")
@@ -379,16 +390,21 @@ def main():
 
         chips_by_section[section].sort(key=sort_func)
 
+    game_drop_table = enemy_drops.GameDropTable(enemy_drops.bn4to6_hp_percents_to_name, 4, 
+        enemy_drops.InputDropTable("bn4rs_drops.txt", "bn4rs_ignored_enemies.txt", "4RS"),
+        enemy_drops.InputDropTable("bn4bm_drops.txt", "bn4bm_ignored_enemies.txt", "4BM")
+    )
+
     output = []
     output.append(PAGE_HEADER)
 
     standard = chips_by_section["standard"]
     output.append("==Standard Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(standard, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(standard, game_drop_table=game_drop_table, chip_traders=chip_traders))
 
     mega = chips_by_section["mega"]
     output.extend(["==Mega Class Chips==\n"])
-    output.extend(gen_basic_chiploc_table(mega, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(mega, game_drop_table=game_drop_table, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
     output.extend(["==Giga Class Chips==\n", "===Red Sun===\n"])
     giga_redsun = chips_by_section["giga_redsun"]
