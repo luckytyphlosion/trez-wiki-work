@@ -52,19 +52,38 @@ def download_attachments():
             f.write(output)
 
 class Attachment:
-    __slots__ = ("filename", "upload_filename", "suffix", "imgur_link")
+    __slots__ = ("filename", "upload_filename", "suffix", "imgur_link", "discord_attachment_url")
 
     def __init__(self, filename, imgur_link):
         self.filename = filename
-        self.upload_filename = filename.split("&", maxsplit=3)[3]
+        discord_attachment_parts = filename.split("&", maxsplit=3)
+        self.upload_filename = discord_attachment_parts[3]
         self.suffix = pathlib.Path(filename).suffix
         self.imgur_link = imgur_link
+        host_name, numbers_pt1, numbers_pt2, attachment_filename = discord_attachment_parts
+        self.discord_attachment_url = f"https://{host_name}/attachments/{numbers_pt1}/{numbers_pt2}/{attachment_filename}"
 
 def write_attachment_info(attachment_info, attachment_info_filename):
     output = ""
     output += "".join(f"{attachment.filename}: {attachment.imgur_link}\n" for attachment in attachment_info)
     with open(attachment_info_filename, "w+") as f:
         f.write(output)
+
+def read_in_attachment_info(glitch_talk_filestem):
+    attachment_info_filename = f"{glitch_talk_filestem}_attachment_info.dump"
+    with open(attachment_info_filename, "r") as f:
+        lines = f.readlines()
+
+    attachment_info = []
+    for line in lines:
+        line = line.strip()
+        if line == "":
+            continue
+
+        attachment_filename, attachment_imgur_link = line.split(":", maxsplit=1)
+        attachment_info.append(Attachment(attachment_filename, attachment_imgur_link))
+
+    return attachment_info, attachment_info_filename
 
 def upload_images():
     with open("config.yml", "r") as f:
@@ -83,18 +102,7 @@ def upload_images():
         glitch_talk_filestem = pathlib.Path(glitch_talk_filename).stem
         print(f"Uploading files from {glitch_talk_filestem}!")
 
-        attachment_info_filename = f"{glitch_talk_filestem}_attachment_info.dump"
-        with open(attachment_info_filename, "r") as f:
-            lines = f.readlines()
-
-        attachment_info = []
-        for line in lines:
-            line = line.strip()
-            if line == "":
-                continue
-
-            attachment_filename, attachment_imgur_link = line.split(":", maxsplit=1)
-            attachment_info.append(Attachment(attachment_filename, attachment_imgur_link))
+        attachment_info, attachment_info_filename = read_in_attachment_info(glitch_talk_filestem)
 
         for i, attachment in enumerate(attachment_info):
             if attachment.imgur_link != "":
@@ -178,6 +186,27 @@ def upload_images():
             print(f"Successfully uploaded {attachment.upload_filename} to {attachment.imgur_link}! Sleeping for 10 seconds.")
             time.sleep(10)
 
+def replace_links():
+    for glitch_talk_filename in glitch_talk_filenames:
+        output = ""
+        glitch_talk_filestem = pathlib.Path(glitch_talk_filename).stem
+        print(f"Replacing links in {glitch_talk_filestem}!")
+
+        with open(glitch_talk_filename, "r") as f:
+            glitch_talk_contents = f.read()
+
+        attachment_info, attachment_info_filename = read_in_attachment_info(glitch_talk_filestem)
+
+        for attachment in attachment_info:
+            if attachment.imgur_link == "":
+                print(f"Error: attachment {attachment.filename} has no link!")
+                continue
+
+            glitch_talk_contents = re.sub(fr"\b{re.escape(attachment.discord_attachment_url)}\b", attachment.imgur_link, glitch_talk_contents)
+
+        with open(f"{glitch_talk_filestem}_out.dump", "w+") as f:
+            f.write(glitch_talk_contents)
+
 def main():
     MODE = 1
 
@@ -185,6 +214,8 @@ def main():
         download_attachments()
     elif MODE == 1:
         upload_images()
+    elif MODE == 2:
+        replace_links()
     else:
         print("No mode selected!")
 
