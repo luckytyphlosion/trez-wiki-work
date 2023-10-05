@@ -81,6 +81,7 @@ def read_in_attachment_info(glitch_talk_filestem):
             continue
 
         attachment_filename, attachment_imgur_link = line.split(":", maxsplit=1)
+        attachment_imgur_link = attachment_imgur_link.strip()
         attachment_info.append(Attachment(attachment_filename, attachment_imgur_link))
 
     return attachment_info, attachment_info_filename
@@ -208,7 +209,7 @@ def replace_links():
             f.write(glitch_talk_contents)
 
 def main():
-    MODE = 1
+    MODE = 2
 
     if MODE == 0:
         download_attachments()
