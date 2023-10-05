@@ -1,4 +1,3 @@
-----------------------------------------------------------------
 Area 80 00: Main Comp 1
 
 Green	 EC0	Locations:	0	 32/ 32	  100%	(-281, 281,   0)
@@ -1055,7 +1054,6 @@ Green	 F60	Locations:	0	 32/ 64	   50%	( -20,-381,   0)
 							5	 32/256	 12.5%	300z
 							6	 32/256	 12.5%	500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	AirSpin2 H	(Trap)
 							1	 32/256	 12.5%	Lance    L	(Trap)
 							2	 32/256	 12.5%	Discord  B
@@ -1064,7 +1062,6 @@ Green	 F60	Locations:	0	 32/ 64	   50%	( -20,-381,   0)
 							5	 32/256	 12.5%	400z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	MoonBld2 G	(Trap)
 							1	 32/256	 12.5%	AntiFire T	(Trap)
 							2	 32/256	 12.5%	Barr100  P
@@ -1073,7 +1070,6 @@ Green	 F60	Locations:	0	 32/ 64	   50%	( -20,-381,   0)
 							5	 32/256	 12.5%	500z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F61	Locations:	0	 32/ 64	   50%	( 205, -29,   0)
 							1	 32/ 64	   50%	( 397, -29,   0)
 				Level 1:	0	 32/256	 12.5%	Cannon   C
@@ -1084,7 +1080,6 @@ Green	 F61	Locations:	0	 32/ 64	   50%	( 205, -29,   0)
 							5	 32/256	 12.5%	300z
 							6	 32/256	 12.5%	500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	AirSpin2 H
 							1	 32/256	 12.5%	Lance    L
 							2	 32/256	 12.5%	Discord  B	(Trap)
@@ -1093,7 +1088,6 @@ Green	 F61	Locations:	0	 32/ 64	   50%	( 205, -29,   0)
 							5	 32/256	 12.5%	400z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	MoonBld2 G
 							1	 32/256	 12.5%	AntiFire T
 							2	 32/256	 12.5%	Barr100  P	(Trap)
@@ -1102,7 +1096,6 @@ Green	 F61	Locations:	0	 32/ 64	   50%	( 205, -29,   0)
 							5	 32/256	 12.5%	500z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 01: Oran Area 3
 
@@ -1116,7 +1109,6 @@ Green	 F64	Locations:	0	 32/ 64	   50%	(-165,-141,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	780z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Barr100  P	(Trap)
 							1	 32/256	 12.5%	LifeSync R	(Trap)
 							2	 32/256	 12.5%	Navi+20  *
@@ -1125,7 +1117,6 @@ Green	 F64	Locations:	0	 32/ 64	   50%	(-165,-141,   0)
 							5	 32/256	 12.5%	650z
 							6	 32/256	 12.5%	880z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	CusVolt3 M	(Trap)
 							1	 32/256	 12.5%	SpShake2 C	(Trap)
 							2	 32/256	 12.5%	Geddon2  W
@@ -1134,7 +1125,6 @@ Green	 F64	Locations:	0	 32/ 64	   50%	(-165,-141,   0)
 							5	 32/256	 12.5%	750z
 							6	 32/256	 12.5%	980z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F65	Locations:	0	 32/ 64	   50%	( 156, 244,   0)
 							1	 32/ 64	   50%	( 188,-332,   0)
 				Level 1:	0	 32/256	 12.5%	Vulcan2  B
@@ -1145,7 +1135,6 @@ Green	 F65	Locations:	0	 32/ 64	   50%	( 156, 244,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	780z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Barr100  P
 							1	 32/256	 12.5%	LifeSync R
 							2	 32/256	 12.5%	Navi+20  *	(Trap)
@@ -1154,7 +1143,6 @@ Green	 F65	Locations:	0	 32/ 64	   50%	( 156, 244,   0)
 							5	 32/256	 12.5%	650z
 							6	 32/256	 12.5%	880z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	CusVolt3 M
 							1	 32/256	 12.5%	SpShake2 C
 							2	 32/256	 12.5%	Geddon2  W	(Trap)
@@ -1163,7 +1151,6 @@ Green	 F65	Locations:	0	 32/ 64	   50%	( 156, 244,   0)
 							5	 32/256	 12.5%	750z
 							6	 32/256	 12.5%	980z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 02: SciLab Area 3
 
@@ -1177,7 +1164,6 @@ Green	 F68	Locations:	0	 32/ 64	   50%	(-219,-101,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	WindRack B	(Trap)
 							1	 32/256	 12.5%	Recov200 I	(Trap)
 							2	 32/256	 12.5%	CusVolt2 C
@@ -1186,7 +1172,6 @@ Green	 F68	Locations:	0	 32/ 64	   50%	(-219,-101,   0)
 							5	 32/256	 12.5%	700z
 							6	 32/256	 12.5%	750z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AqWhirl2 A	(Trap)
 							1	 32/256	 12.5%	GrasSeed A	(Trap)
 							2	 32/256	 12.5%	WindRack *
@@ -1195,7 +1180,6 @@ Green	 F68	Locations:	0	 32/ 64	   50%	(-219,-101,   0)
 							5	 32/256	 12.5%	850z
 							6	 32/256	 12.5%	900z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F69	Locations:	0	 32/ 64	   50%	( 453, -37,   0)
 							1	 32/ 64	   50%	( 229, 283,   0)
 				Level 1:	0	 32/256	 12.5%	WavePit  B
@@ -1206,7 +1190,6 @@ Green	 F69	Locations:	0	 32/ 64	   50%	( 453, -37,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	WindRack B
 							1	 32/256	 12.5%	Recov200 I
 							2	 32/256	 12.5%	CusVolt2 C	(Trap)
@@ -1215,7 +1198,6 @@ Green	 F69	Locations:	0	 32/ 64	   50%	( 453, -37,   0)
 							5	 32/256	 12.5%	700z
 							6	 32/256	 12.5%	750z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AqWhirl2 A
 							1	 32/256	 12.5%	GrasSeed A
 							2	 32/256	 12.5%	WindRack *	(Trap)
@@ -1224,7 +1206,6 @@ Green	 F69	Locations:	0	 32/ 64	   50%	( 453, -37,   0)
 							5	 32/256	 12.5%	850z
 							6	 32/256	 12.5%	900z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 03: End Area 2
 
@@ -1238,7 +1219,6 @@ Green	 F6C	Locations:	0	 32/ 64	   50%	(-172, 172,   0)
 							5	 32/256	 12.5%	660z
 							6	 32/256	 12.5%	980z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Quake2   L	(Trap)
 							1	 32/256	 12.5%	CannBall *	(Trap)
 							2	 32/256	 12.5%	SeaSeed  M
@@ -1247,7 +1227,6 @@ Green	 F6C	Locations:	0	 32/ 64	   50%	(-172, 172,   0)
 							5	 32/256	 12.5%	860z
 							6	 32/256	 12.5%	1180z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Slasher  I	(Trap)
 							1	 32/256	 12.5%	WideSht2 G	(Trap)
 							2	 32/256	 12.5%	SeaSeed  *
@@ -1256,7 +1235,6 @@ Green	 F6C	Locations:	0	 32/ 64	   50%	(-172, 172,   0)
 							5	 32/256	 12.5%	1060z
 							6	 32/256	 12.5%	1380z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F6D	Locations:	0	 32/ 64	   50%	(  21,-373,   0)
 							1	 32/ 64	   50%	( 245,-117,   0)
 				Level 1:	0	 32/256	 12.5%	GrabBnsh L
@@ -1267,7 +1245,6 @@ Green	 F6D	Locations:	0	 32/ 64	   50%	(  21,-373,   0)
 							5	 32/256	 12.5%	660z
 							6	 32/256	 12.5%	980z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Quake2   L
 							1	 32/256	 12.5%	CannBall *
 							2	 32/256	 12.5%	SeaSeed  M	(Trap)
@@ -1276,7 +1253,6 @@ Green	 F6D	Locations:	0	 32/ 64	   50%	(  21,-373,   0)
 							5	 32/256	 12.5%	860z
 							6	 32/256	 12.5%	1180z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Slasher  I
 							1	 32/256	 12.5%	WideSht2 G
 							2	 32/256	 12.5%	SeaSeed  *	(Trap)
@@ -1285,7 +1261,6 @@ Green	 F6D	Locations:	0	 32/ 64	   50%	(  21,-373,   0)
 							5	 32/256	 12.5%	1060z
 							6	 32/256	 12.5%	1380z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 04: End Area 5
 
@@ -1299,7 +1274,6 @@ Green	 F70	Locations:	0	 32/ 64	   50%	(-116,-140,   0)
 							5	 32/256	 12.5%	850z
 							6	 32/256	 12.5%	1050z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Guard2   *	(Trap)
 							1	 32/256	 12.5%	MetaGel  F	(Trap)
 							2	 32/256	 12.5%	SloGauge Q
@@ -1308,7 +1282,6 @@ Green	 F70	Locations:	0	 32/ 64	   50%	(-116,-140,   0)
 							5	 32/256	 12.5%	1050z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiWood M	(Trap)
 							1	 32/256	 12.5%	AntiDmg  F	(Trap)
 							2	 32/256	 12.5%	AirSpin3 G
@@ -1317,7 +1290,6 @@ Green	 F70	Locations:	0	 32/ 64	   50%	(-116,-140,   0)
 							5	 32/256	 12.5%	1250z
 							6	 32/256	 12.5%	1450z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F71	Locations:	0	 32/ 64	   50%	( 108,-268,   0)
 							1	 32/ 64	   50%	( 364, -12,   0)
 				Level 1:	0	 32/256	 12.5%	TankCan1 E
@@ -1328,7 +1300,6 @@ Green	 F71	Locations:	0	 32/ 64	   50%	( 108,-268,   0)
 							5	 32/256	 12.5%	850z
 							6	 32/256	 12.5%	1050z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Guard2   *
 							1	 32/256	 12.5%	MetaGel  F
 							2	 32/256	 12.5%	SloGauge Q	(Trap)
@@ -1337,7 +1308,6 @@ Green	 F71	Locations:	0	 32/ 64	   50%	( 108,-268,   0)
 							5	 32/256	 12.5%	1050z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiWood M
 							1	 32/256	 12.5%	AntiDmg  F
 							2	 32/256	 12.5%	AirSpin3 G	(Trap)
@@ -1346,7 +1316,6 @@ Green	 F71	Locations:	0	 32/ 64	   50%	( 108,-268,   0)
 							5	 32/256	 12.5%	1250z
 							6	 32/256	 12.5%	1450z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 05: Undernet 4
 
@@ -1360,7 +1329,6 @@ Green	 F74	Locations:	0	 32/ 64	   50%	( 173, 291,   0)
 							5	 32/256	 12.5%	1050z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	TankCan2 T	(Trap)
 							1	 32/256	 12.5%	ParaBom  N	(Trap)
 							2	 32/256	 12.5%	Recov200 I
@@ -1369,7 +1337,6 @@ Green	 F74	Locations:	0	 32/ 64	   50%	( 173, 291,   0)
 							5	 32/256	 12.5%	1250z
 							6	 32/256	 12.5%	1450z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	MetaGel  N	(Trap)
 							1	 32/256	 12.5%	MudWave  W	(Trap)
 							2	 32/256	 12.5%	AntiSwrd O
@@ -1378,7 +1345,6 @@ Green	 F74	Locations:	0	 32/ 64	   50%	( 173, 291,   0)
 							5	 32/256	 12.5%	1450z
 							6	 32/256	 12.5%	1650z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F75	Locations:	0	 32/ 64	   50%	(  76,  36,   0)
 							1	 32/ 64	   50%	(-115, 163,   0)
 				Level 1:	0	 32/256	 12.5%	Mine     H
@@ -1389,7 +1355,6 @@ Green	 F75	Locations:	0	 32/ 64	   50%	(  76,  36,   0)
 							5	 32/256	 12.5%	1050z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	TankCan2 T
 							1	 32/256	 12.5%	ParaBom  N
 							2	 32/256	 12.5%	Recov200 I	(Trap)
@@ -1398,7 +1363,6 @@ Green	 F75	Locations:	0	 32/ 64	   50%	(  76,  36,   0)
 							5	 32/256	 12.5%	1250z
 							6	 32/256	 12.5%	1450z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	MetaGel  N
 							1	 32/256	 12.5%	MudWave  W
 							2	 32/256	 12.5%	AntiSwrd O	(Trap)
@@ -1407,7 +1371,6 @@ Green	 F75	Locations:	0	 32/ 64	   50%	(  76,  36,   0)
 							5	 32/256	 12.5%	1450z
 							6	 32/256	 12.5%	1650z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 06: Nebula Area 1
 
@@ -1421,7 +1384,6 @@ Green	 F78	Locations:	0	 32/ 64	   50%	(-212, -13,   0)
 							5	 32/256	 12.5%	1100z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	LavaSeed H
 							1	 32/256	 12.5%	Magnum   E
 							2	 32/256	 12.5%	Barr200  W
@@ -1430,7 +1392,6 @@ Green	 F78	Locations:	0	 32/ 64	   50%	(-212, -13,   0)
 							5	 32/256	 12.5%	1100z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	LavaSeed H
 							1	 32/256	 12.5%	Magnum   E
 							2	 32/256	 12.5%	Barr200  W
@@ -1439,7 +1400,6 @@ Green	 F78	Locations:	0	 32/ 64	   50%	(-212, -13,   0)
 							5	 32/256	 12.5%	1100z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F79	Locations:	0	 32/ 64	   50%	( 172, 244,   0)
 							1	 32/ 64	   50%	(-243,-173,   0)
 				Level 1:	0	 32/256	 12.5%	LavaSeed H
@@ -1450,7 +1410,6 @@ Green	 F79	Locations:	0	 32/ 64	   50%	( 172, 244,   0)
 							5	 32/256	 12.5%	1100z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	LavaSeed H
 							1	 32/256	 12.5%	Magnum   E
 							2	 32/256	 12.5%	Barr200  W
@@ -1459,7 +1418,6 @@ Green	 F79	Locations:	0	 32/ 64	   50%	( 172, 244,   0)
 							5	 32/256	 12.5%	1100z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	LavaSeed H
 							1	 32/256	 12.5%	Magnum   E
 							2	 32/256	 12.5%	Barr200  W
@@ -1468,7 +1426,6 @@ Green	 F79	Locations:	0	 32/ 64	   50%	( 172, 244,   0)
 							5	 32/256	 12.5%	1100z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 07: Nebula Area 3
 
@@ -1482,7 +1439,6 @@ Green	 F7C	Locations:	0	 32/ 64	   50%	( -84, 196,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1480z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	AntiFire K
 							1	 32/256	 12.5%	AntiWatr G
 							2	 32/256	 12.5%	AntiElec N
@@ -1491,7 +1447,6 @@ Green	 F7C	Locations:	0	 32/ 64	   50%	( -84, 196,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1480z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiFire K
 							1	 32/256	 12.5%	AntiWatr G
 							2	 32/256	 12.5%	AntiElec N
@@ -1500,7 +1455,6 @@ Green	 F7C	Locations:	0	 32/ 64	   50%	( -84, 196,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1480z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F7D	Locations:	0	 32/ 64	   50%	( 140, 164,   0)
 							1	 32/ 64	   50%	( 332,   4,   0)
 				Level 1:	0	 32/256	 12.5%	AntiFire K
@@ -1511,7 +1465,6 @@ Green	 F7D	Locations:	0	 32/ 64	   50%	( 140, 164,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1480z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	AntiFire K
 							1	 32/256	 12.5%	AntiWatr G
 							2	 32/256	 12.5%	AntiElec N
@@ -1520,7 +1473,6 @@ Green	 F7D	Locations:	0	 32/ 64	   50%	( 140, 164,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1480z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiFire K
 							1	 32/256	 12.5%	AntiWatr G
 							2	 32/256	 12.5%	AntiElec N
@@ -1529,7 +1481,6 @@ Green	 F7D	Locations:	0	 32/ 64	   50%	( 140, 164,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1480z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 86 08: Nebula Area 5
 
@@ -1543,7 +1494,6 @@ Green	 F80	Locations:	0	 32/ 64	   50%	( 196, 140,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	VDoll    O
 							1	 32/256	 12.5%	AntiRecv J
 							2	 32/256	 12.5%	ElemRage E
@@ -1552,7 +1502,6 @@ Green	 F80	Locations:	0	 32/ 64	   50%	( 196, 140,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	VDoll    O
 							1	 32/256	 12.5%	AntiRecv J
 							2	 32/256	 12.5%	ElemRage E
@@ -1561,7 +1510,6 @@ Green	 F80	Locations:	0	 32/ 64	   50%	( 196, 140,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 F81	Locations:	0	 32/ 64	   50%	(-317,-181,   0)
 							1	 32/ 64	   50%	( 324,-181,   0)
 				Level 1:	0	 32/256	 12.5%	VDoll    O
@@ -1572,7 +1520,6 @@ Green	 F81	Locations:	0	 32/ 64	   50%	(-317,-181,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	VDoll    O
 							1	 32/256	 12.5%	AntiRecv J
 							2	 32/256	 12.5%	ElemRage E
@@ -1581,7 +1528,6 @@ Green	 F81	Locations:	0	 32/ 64	   50%	(-317,-181,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	VDoll    O
 							1	 32/256	 12.5%	AntiRecv J
 							2	 32/256	 12.5%	ElemRage E
@@ -1590,7 +1536,6 @@ Green	 F81	Locations:	0	 32/ 64	   50%	(-317,-181,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 88 01: Mayl's HP
 
@@ -1833,7 +1778,6 @@ Green	 E02	Locations:	0	 32/ 64	   50%	(  24, -21,   0)
 							5	 32/256	 12.5%	200z
 							6	 32/256	 12.5%	400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Recov30  H
 							1	 32/256	 12.5%	Barrier  L
 							2	 32/256	 12.5%	Fanfare  P
@@ -1842,7 +1786,6 @@ Green	 E02	Locations:	0	 32/ 64	   50%	(  24, -21,   0)
 							5	 32/256	 12.5%	300z
 							6	 32/256	 12.5%	500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Pulsar2  G
 							1	 32/256	 12.5%	CactBal2 R
 							2	 32/256	 12.5%	YoYo     E
@@ -1851,7 +1794,6 @@ Green	 E02	Locations:	0	 32/ 64	   50%	(  24, -21,   0)
 							5	 32/256	 12.5%	400z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E03	Locations:	0	 32/ 64	   50%	( 212, 238,   0)
 							1	 32/ 64	   50%	(-205,-277,   0)
 				Level 1:	0	 32/256	 12.5%	Guard1   A
@@ -1862,7 +1804,6 @@ Green	 E03	Locations:	0	 32/ 64	   50%	( 212, 238,   0)
 							5	 32/256	 12.5%	200z
 							6	 32/256	 12.5%	400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Recov30  H
 							1	 32/256	 12.5%	Barrier  L
 							2	 32/256	 12.5%	Fanfare  P
@@ -1871,7 +1812,6 @@ Green	 E03	Locations:	0	 32/ 64	   50%	( 212, 238,   0)
 							5	 32/256	 12.5%	300z
 							6	 32/256	 12.5%	500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Pulsar2  G
 							1	 32/256	 12.5%	CactBal2 R
 							2	 32/256	 12.5%	YoYo     E
@@ -1880,7 +1820,6 @@ Green	 E03	Locations:	0	 32/ 64	   50%	( 212, 238,   0)
 							5	 32/256	 12.5%	400z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Blue	 E04	Locations:	0	  0/  0	  100%	(-203,-180,   0)
 				Level 1+:	0	  0/  0	  100%	HP+200 (yellow)
 ----------------------------------------------------------------
@@ -1900,7 +1839,6 @@ Green	 E0A	Locations:	0	 32/ 64	   50%	( -37, 242,   0)
 							5	 32/256	 12.5%	350z
 							6	 32/256	 12.5%	550z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Tornado  L	(Trap)
 							1	 32/256	 12.5%	Spreader E	(Trap)
 							2	 32/256	 12.5%	Thunder  P
@@ -1909,7 +1847,6 @@ Green	 E0A	Locations:	0	 32/ 64	   50%	( -37, 242,   0)
 							5	 32/256	 12.5%	450z
 							6	 32/256	 12.5%	650z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Fan      *	(Trap)
 							1	 32/256	 12.5%	BugBomb  R	(Trap)
 							2	 32/256	 12.5%	Timpani  A
@@ -1918,7 +1855,6 @@ Green	 E0A	Locations:	0	 32/ 64	   50%	( -37, 242,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	750z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E0B	Locations:	0	 32/ 64	   50%	(-289, -75,   0)
 							1	 32/ 64	   50%	( 221,  85,   0)
 				Level 1:	0	 32/256	 12.5%	Barrier  S
@@ -1929,7 +1865,6 @@ Green	 E0B	Locations:	0	 32/ 64	   50%	(-289, -75,   0)
 							5	 32/256	 12.5%	350z
 							6	 32/256	 12.5%	550z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Tornado  L
 							1	 32/256	 12.5%	Spreader E
 							2	 32/256	 12.5%	Thunder  P	(Trap)
@@ -1938,7 +1873,6 @@ Green	 E0B	Locations:	0	 32/ 64	   50%	(-289, -75,   0)
 							5	 32/256	 12.5%	450z
 							6	 32/256	 12.5%	650z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Fan      *
 							1	 32/256	 12.5%	BugBomb  R
 							2	 32/256	 12.5%	Timpani  A	(Trap)
@@ -1947,7 +1881,6 @@ Green	 E0B	Locations:	0	 32/ 64	   50%	(-289, -75,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	750z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 91 00: Oran Area 1
 
@@ -1965,7 +1898,6 @@ Green	 E22	Locations:	0	 32/ 64	   50%	(-254,-276,   0)
 							5	 32/256	 12.5%	450z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	SloGauge H
 							1	 32/256	 12.5%	BusterUp *
 							2	 32/256	 12.5%	GrasSeed M
@@ -1974,7 +1906,6 @@ Green	 E22	Locations:	0	 32/ 64	   50%	(-254,-276,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	RedFrut2 T
 							1	 32/256	 12.5%	HotBody2 R
 							2	 32/256	 12.5%	Recov120 K
@@ -1983,7 +1914,6 @@ Green	 E22	Locations:	0	 32/ 64	   50%	(-254,-276,   0)
 							5	 32/256	 12.5%	650z
 							6	 32/256	 12.5%	800z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E23	Locations:	0	 32/ 64	   50%	(-316, 230,   0)
 							1	 32/ 64	   50%	(-190, 106, 128)
 				Level 1:	0	 32/256	 12.5%	Spreader C
@@ -1994,7 +1924,6 @@ Green	 E23	Locations:	0	 32/ 64	   50%	(-316, 230,   0)
 							5	 32/256	 12.5%	450z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	SloGauge H
 							1	 32/256	 12.5%	BusterUp *
 							2	 32/256	 12.5%	GrasSeed M
@@ -2003,7 +1932,6 @@ Green	 E23	Locations:	0	 32/ 64	   50%	(-316, 230,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	RedFrut2 T
 							1	 32/256	 12.5%	HotBody2 R
 							2	 32/256	 12.5%	Recov120 K
@@ -2012,7 +1940,6 @@ Green	 E23	Locations:	0	 32/ 64	   50%	(-316, 230,   0)
 							5	 32/256	 12.5%	650z
 							6	 32/256	 12.5%	800z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 91 01: Oran Area 2
 
@@ -2030,7 +1957,6 @@ Green	 E2A	Locations:	0	 32/ 64	   50%	( -60, 105,   0)
 							5	 32/256	 12.5%	500z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	CannBall Z	(Trap)
 							1	 32/256	 12.5%	Slasher  B	(Trap)
 							2	 32/256	 12.5%	RedFrut1 K
@@ -2039,7 +1965,6 @@ Green	 E2A	Locations:	0	 32/ 64	   50%	( -60, 105,   0)
 							5	 32/256	 12.5%	600z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	LavaSeed K	(Trap)
 							1	 32/256	 12.5%	RedWave  A	(Trap)
 							2	 32/256	 12.5%	FstGauge W
@@ -2048,7 +1973,6 @@ Green	 E2A	Locations:	0	 32/ 64	   50%	( -60, 105,   0)
 							5	 32/256	 12.5%	700z
 							6	 32/256	 12.5%	800z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E2B	Locations:	0	 32/ 64	   50%	( 484, -84,   0)
 							1	 32/ 64	   50%	( 426,-212,   0)
 				Level 1:	0	 32/256	 12.5%	EnergBom P
@@ -2059,7 +1983,6 @@ Green	 E2B	Locations:	0	 32/ 64	   50%	( 484, -84,   0)
 							5	 32/256	 12.5%	500z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	CannBall Z
 							1	 32/256	 12.5%	Slasher  B
 							2	 32/256	 12.5%	RedFrut1 K	(Trap)
@@ -2068,7 +1991,6 @@ Green	 E2B	Locations:	0	 32/ 64	   50%	( 484, -84,   0)
 							5	 32/256	 12.5%	600z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	LavaSeed K
 							1	 32/256	 12.5%	RedWave  A
 							2	 32/256	 12.5%	FstGauge W	(Trap)
@@ -2077,7 +1999,6 @@ Green	 E2B	Locations:	0	 32/ 64	   50%	( 484, -84,   0)
 							5	 32/256	 12.5%	700z
 							6	 32/256	 12.5%	800z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 92 00: SciLab Area 1
 
@@ -2095,7 +2016,6 @@ Green	 E42	Locations:	0	 32/ 64	   50%	(-261, 259,   0)
 							5	 32/256	 12.5%	500z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	CrsShld1 V
 							1	 32/256	 12.5%	GrabBnsh R
 							2	 32/256	 12.5%	NrthWind Q
@@ -2104,7 +2024,6 @@ Green	 E42	Locations:	0	 32/ 64	   50%	(-261, 259,   0)
 							5	 32/256	 12.5%	650z
 							6	 32/256	 12.5%	750z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	RedWave  H
 							1	 32/256	 12.5%	Recov150 Q
 							2	 32/256	 12.5%	WoodNos2 Z
@@ -2113,7 +2032,6 @@ Green	 E42	Locations:	0	 32/ 64	   50%	(-261, 259,   0)
 							5	 32/256	 12.5%	800z
 							6	 32/256	 12.5%	900z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E43	Locations:	0	 32/ 64	   50%	(  -5,-189,   0)
 							1	 32/ 64	   50%	( 189, -27,   0)
 				Level 1:	0	 32/256	 12.5%	HiCannon D
@@ -2124,7 +2042,6 @@ Green	 E43	Locations:	0	 32/ 64	   50%	(  -5,-189,   0)
 							5	 32/256	 12.5%	500z
 							6	 32/256	 12.5%	600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	CrsShld1 V
 							1	 32/256	 12.5%	GrabBnsh R
 							2	 32/256	 12.5%	NrthWind Q
@@ -2133,7 +2050,6 @@ Green	 E43	Locations:	0	 32/ 64	   50%	(  -5,-189,   0)
 							5	 32/256	 12.5%	650z
 							6	 32/256	 12.5%	750z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	RedWave  H
 							1	 32/256	 12.5%	Recov150 Q
 							2	 32/256	 12.5%	WoodNos2 Z
@@ -2142,7 +2058,6 @@ Green	 E43	Locations:	0	 32/ 64	   50%	(  -5,-189,   0)
 							5	 32/256	 12.5%	800z
 							6	 32/256	 12.5%	900z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 92 01: SciLab Area 2
 
@@ -2160,7 +2075,6 @@ Green	 E4A	Locations:	0	 32/ 64	   50%	( 198, 186,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	IceSeed  K	(Trap)
 							1	 32/256	 12.5%	M-Cannon F	(Trap)
 							2	 32/256	 12.5%	AirSpin2 W
@@ -2169,7 +2083,6 @@ Green	 E4A	Locations:	0	 32/ 64	   50%	( 198, 186,   0)
 							5	 32/256	 12.5%	700z
 							6	 32/256	 12.5%	850z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiNavi T	(Trap)
 							1	 32/256	 12.5%	Voltz2   U	(Trap)
 							2	 32/256	 12.5%	AirSpin2 B
@@ -2178,7 +2091,6 @@ Green	 E4A	Locations:	0	 32/ 64	   50%	( 198, 186,   0)
 							5	 32/256	 12.5%	850z
 							6	 32/256	 12.5%	1000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E4B	Locations:	0	 32/ 64	   50%	(-349,-133,   0)
 							1	 32/ 64	   50%	( 100,-326,   0)
 				Level 1:	0	 32/256	 12.5%	Thunder  *
@@ -2189,7 +2101,6 @@ Green	 E4B	Locations:	0	 32/ 64	   50%	(-349,-133,   0)
 							5	 32/256	 12.5%	550z
 							6	 32/256	 12.5%	700z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	IceSeed  K
 							1	 32/256	 12.5%	M-Cannon F
 							2	 32/256	 12.5%	AirSpin2 W	(Trap)
@@ -2198,7 +2109,6 @@ Green	 E4B	Locations:	0	 32/ 64	   50%	(-349,-133,   0)
 							5	 32/256	 12.5%	700z
 							6	 32/256	 12.5%	850z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiNavi T
 							1	 32/256	 12.5%	Voltz2   U
 							2	 32/256	 12.5%	AirSpin2 B	(Trap)
@@ -2207,7 +2117,6 @@ Green	 E4B	Locations:	0	 32/ 64	   50%	(-349,-133,   0)
 							5	 32/256	 12.5%	850z
 							6	 32/256	 12.5%	1000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 92 02: SciLab Area 4
 
@@ -2225,7 +2134,6 @@ Green	 E52	Locations:	0	 32/ 64	   50%	(-156,-290,   0)
 							5	 32/256	 12.5%	600z
 							6	 32/256	 12.5%	820z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	HolyPanl *
 							1	 32/256	 12.5%	Barr200  W
 							2	 32/256	 12.5%	Magnum   O
@@ -2234,7 +2142,6 @@ Green	 E52	Locations:	0	 32/ 64	   50%	(-156,-290,   0)
 							5	 32/256	 12.5%	750z
 							6	 32/256	 12.5%	970z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	BlkBomb  Z
 							1	 32/256	 12.5%	YoYo     D
 							2	 32/256	 12.5%	Timpani  L
@@ -2243,7 +2150,6 @@ Green	 E52	Locations:	0	 32/ 64	   50%	(-156,-290,   0)
 							5	 32/256	 12.5%	900z
 							6	 32/256	 12.5%	1120z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E53	Locations:	0	 32/ 64	   50%	( -90, 348,   0)
 							1	 32/ 64	   50%	( 360,-100,   0)
 				Level 1:	0	 32/256	 12.5%	AirHoc   R
@@ -2254,7 +2160,6 @@ Green	 E53	Locations:	0	 32/ 64	   50%	( -90, 348,   0)
 							5	 32/256	 12.5%	600z
 							6	 32/256	 12.5%	820z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	HolyPanl *
 							1	 32/256	 12.5%	Barr200  W
 							2	 32/256	 12.5%	Magnum   O
@@ -2263,7 +2168,6 @@ Green	 E53	Locations:	0	 32/ 64	   50%	( -90, 348,   0)
 							5	 32/256	 12.5%	750z
 							6	 32/256	 12.5%	970z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	BlkBomb  Z
 							1	 32/256	 12.5%	YoYo     D
 							2	 32/256	 12.5%	Timpani  L
@@ -2272,7 +2176,6 @@ Green	 E53	Locations:	0	 32/ 64	   50%	( -90, 348,   0)
 							5	 32/256	 12.5%	900z
 							6	 32/256	 12.5%	1120z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 93 00: End Area 1
 
@@ -2290,7 +2193,6 @@ Green	 E62	Locations:	0	 32/ 64	   50%	(-139, -36,   0)
 							5	 32/256	 12.5%	690z
 							6	 32/256	 12.5%	1050z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Geddon2  T
 							1	 32/256	 12.5%	M-Cannon G
 							2	 32/256	 12.5%	MrkCan2  F
@@ -2299,7 +2201,6 @@ Green	 E62	Locations:	0	 32/ 64	   50%	(-139, -36,   0)
 							5	 32/256	 12.5%	890z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Blinder  D
 							1	 32/256	 12.5%	MrkCan3  E
 							2	 32/256	 12.5%	Thunder  *
@@ -2308,7 +2209,6 @@ Green	 E62	Locations:	0	 32/ 64	   50%	(-139, -36,   0)
 							5	 32/256	 12.5%	1090z
 							6	 32/256	 12.5%	1450z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E63	Locations:	0	 32/ 64	   50%	( 373,-260,   0)
 							1	 32/ 64	   50%	( 373,  28,   0)
 				Level 1:	0	 32/256	 12.5%	LifeSync *
@@ -2319,7 +2219,6 @@ Green	 E63	Locations:	0	 32/ 64	   50%	( 373,-260,   0)
 							5	 32/256	 12.5%	690z
 							6	 32/256	 12.5%	1050z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Geddon2  T
 							1	 32/256	 12.5%	M-Cannon G
 							2	 32/256	 12.5%	MrkCan2  F
@@ -2328,7 +2227,6 @@ Green	 E63	Locations:	0	 32/ 64	   50%	( 373,-260,   0)
 							5	 32/256	 12.5%	890z
 							6	 32/256	 12.5%	1250z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Blinder  D
 							1	 32/256	 12.5%	MrkCan3  E
 							2	 32/256	 12.5%	Thunder  *
@@ -2337,7 +2235,6 @@ Green	 E63	Locations:	0	 32/ 64	   50%	( 373,-260,   0)
 							5	 32/256	 12.5%	1090z
 							6	 32/256	 12.5%	1450z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 93 01: End Area 3
 
@@ -2355,7 +2252,6 @@ Green	 E6A	Locations:	0	 32/ 64	   50%	( 159, 421,   0)
 							5	 32/256	 12.5%	740z
 							6	 32/256	 12.5%	1000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	RedWave  F	(Trap)
 							1	 32/256	 12.5%	FireHit2 I	(Trap)
 							2	 32/256	 12.5%	LongBlde P
@@ -2364,7 +2260,6 @@ Green	 E6A	Locations:	0	 32/ 64	   50%	( 159, 421,   0)
 							5	 32/256	 12.5%	940z
 							6	 32/256	 12.5%	1200z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Geyser   S	(Trap)
 							1	 32/256	 12.5%	Recov200 I	(Trap)
 							2	 32/256	 12.5%	DrilArm3 P
@@ -2373,7 +2268,6 @@ Green	 E6A	Locations:	0	 32/ 64	   50%	( 159, 421,   0)
 							5	 32/256	 12.5%	1140z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E6B	Locations:	0	 32/ 64	   50%	(-259, -28,   0)
 							1	 32/ 64	   50%	(-131,-156,   0)
 				Level 1:	0	 32/256	 12.5%	Geddon1  M
@@ -2384,7 +2278,6 @@ Green	 E6B	Locations:	0	 32/ 64	   50%	(-259, -28,   0)
 							5	 32/256	 12.5%	740z
 							6	 32/256	 12.5%	1000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	RedWave  F
 							1	 32/256	 12.5%	FireHit2 I
 							2	 32/256	 12.5%	LongBlde P	(Trap)
@@ -2393,7 +2286,6 @@ Green	 E6B	Locations:	0	 32/ 64	   50%	(-259, -28,   0)
 							5	 32/256	 12.5%	940z
 							6	 32/256	 12.5%	1200z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Geyser   S
 							1	 32/256	 12.5%	Recov200 I
 							2	 32/256	 12.5%	DrilArm3 P	(Trap)
@@ -2402,7 +2294,6 @@ Green	 E6B	Locations:	0	 32/ 64	   50%	(-259, -28,   0)
 							5	 32/256	 12.5%	1140z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 93 02: End Area 4
 
@@ -2420,7 +2311,6 @@ Green	 E72	Locations:	0	 32/ 64	   50%	( -76, 122,   0)
 							5	 32/256	 12.5%	750z
 							6	 32/256	 12.5%	900z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	GrasSeed *
 							1	 32/256	 12.5%	DrilArm2 L
 							2	 32/256	 12.5%	TimeBom2 H
@@ -2429,7 +2319,6 @@ Green	 E72	Locations:	0	 32/ 64	   50%	( -76, 122,   0)
 							5	 32/256	 12.5%	950z
 							6	 32/256	 12.5%	1100z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	MudWave  N
 							1	 32/256	 12.5%	Katana2  R
 							2	 32/256	 12.5%	Guard3   C
@@ -2438,7 +2327,6 @@ Green	 E72	Locations:	0	 32/ 64	   50%	( -76, 122,   0)
 							5	 32/256	 12.5%	1150z
 							6	 32/256	 12.5%	1300z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E73	Locations:	0	 32/ 64	   50%	(  84,-549,   0)
 							1	 32/ 64	   50%	( 405,-360,   0)
 				Level 1:	0	 32/256	 12.5%	Vulcan3  M
@@ -2449,7 +2337,6 @@ Green	 E73	Locations:	0	 32/ 64	   50%	(  84,-549,   0)
 							5	 32/256	 12.5%	750z
 							6	 32/256	 12.5%	900z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	GrasSeed *
 							1	 32/256	 12.5%	DrilArm2 L
 							2	 32/256	 12.5%	TimeBom2 H
@@ -2458,7 +2345,6 @@ Green	 E73	Locations:	0	 32/ 64	   50%	(  84,-549,   0)
 							5	 32/256	 12.5%	950z
 							6	 32/256	 12.5%	1100z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	MudWave  N
 							1	 32/256	 12.5%	Katana2  R
 							2	 32/256	 12.5%	Guard3   C
@@ -2467,7 +2353,6 @@ Green	 E73	Locations:	0	 32/ 64	   50%	(  84,-549,   0)
 							5	 32/256	 12.5%	1150z
 							6	 32/256	 12.5%	1300z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Blue	 E74	Locations:	0	  0/  0	  100%	( 213,-134,   0)
 				Level 1+:	0	  0/  0	  100%	AirShoes (yellow)
 ----------------------------------------------------------------
@@ -2487,7 +2372,6 @@ Green	 E82	Locations:	0	 32/ 64	   50%	(-289,-304, -64)
 							5	 32/256	 12.5%	880z
 							6	 32/256	 12.5%	1100z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	LifeSync S
 							1	 32/256	 12.5%	Lance    R
 							2	 32/256	 12.5%	CustSwrd R
@@ -2496,7 +2380,6 @@ Green	 E82	Locations:	0	 32/ 64	   50%	(-289,-304, -64)
 							5	 32/256	 12.5%	1080z
 							6	 32/256	 12.5%	1300z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	YoYo     F
 							1	 32/256	 12.5%	CactBal3 N
 							2	 32/256	 12.5%	BugBomb  A
@@ -2505,7 +2388,6 @@ Green	 E82	Locations:	0	 32/ 64	   50%	(-289,-304, -64)
 							5	 32/256	 12.5%	1280z
 							6	 32/256	 12.5%	1500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E83	Locations:	0	 32/ 64	   50%	( 191, 400, -64)
 							1	 32/ 64	   50%	( 482, 145,   0)
 				Level 1:	0	 32/256	 12.5%	MoonBld1 E
@@ -2516,7 +2398,6 @@ Green	 E83	Locations:	0	 32/ 64	   50%	( 191, 400, -64)
 							5	 32/256	 12.5%	880z
 							6	 32/256	 12.5%	1100z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	LifeSync S
 							1	 32/256	 12.5%	Lance    R
 							2	 32/256	 12.5%	CustSwrd R
@@ -2525,7 +2406,6 @@ Green	 E83	Locations:	0	 32/ 64	   50%	( 191, 400, -64)
 							5	 32/256	 12.5%	1080z
 							6	 32/256	 12.5%	1300z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	YoYo     F
 							1	 32/256	 12.5%	CactBal3 N
 							2	 32/256	 12.5%	BugBomb  A
@@ -2534,7 +2414,6 @@ Green	 E83	Locations:	0	 32/ 64	   50%	( 191, 400, -64)
 							5	 32/256	 12.5%	1280z
 							6	 32/256	 12.5%	1500z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Blue	 E84	Locations:	0	  0/  0	  100%	(-161, 401, -64)
 				Level 1+:	0	  0/  0	  100%	SoulT+1 (white)
 ----------------------------------------------------------------
@@ -2554,7 +2433,6 @@ Green	 E8A	Locations:	0	 32/ 64	   50%	( 134,-165,   0)
 							5	 32/256	 12.5%	950z
 							6	 32/256	 12.5%	1150z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	CusVolt2 G	(Trap)
 							1	 32/256	 12.5%	Astroid2 M	(Trap)
 							2	 32/256	 12.5%	BoyBomb2 H
@@ -2563,7 +2441,6 @@ Green	 E8A	Locations:	0	 32/ 64	   50%	( 134,-165,   0)
 							5	 32/256	 12.5%	1150z
 							6	 32/256	 12.5%	1350z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	GunDelS3 M	(Trap)
 							1	 32/256	 12.5%	Geddon1  *	(Trap)
 							2	 32/256	 12.5%	AirSpin3 J
@@ -2572,7 +2449,6 @@ Green	 E8A	Locations:	0	 32/ 64	   50%	( 134,-165,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1550z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E8B	Locations:	0	 32/ 64	   50%	( 296, 312,   0)
 							1	 32/ 64	   50%	(-216,-230,   0)
 				Level 1:	0	 32/256	 12.5%	CustSwrd R
@@ -2583,7 +2459,6 @@ Green	 E8B	Locations:	0	 32/ 64	   50%	( 296, 312,   0)
 							5	 32/256	 12.5%	950z
 							6	 32/256	 12.5%	1150z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	CusVolt2 G
 							1	 32/256	 12.5%	Astroid2 M
 							2	 32/256	 12.5%	BoyBomb2 H	(Trap)
@@ -2592,7 +2467,6 @@ Green	 E8B	Locations:	0	 32/ 64	   50%	( 296, 312,   0)
 							5	 32/256	 12.5%	1150z
 							6	 32/256	 12.5%	1350z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	GunDelS3 M
 							1	 32/256	 12.5%	Geddon1  *
 							2	 32/256	 12.5%	AirSpin3 J	(Trap)
@@ -2601,7 +2475,6 @@ Green	 E8B	Locations:	0	 32/ 64	   50%	( 296, 312,   0)
 							5	 32/256	 12.5%	1350z
 							6	 32/256	 12.5%	1550z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 94 02: Undernet 3
 
@@ -2619,7 +2492,6 @@ Green	 E92	Locations:	0	 32/ 64	   50%	(-162,-415,   0)
 							5	 32/256	 12.5%	1000z
 							6	 32/256	 12.5%	1200z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	ElcReel2 Q	(Trap)
 							1	 32/256	 12.5%	SloGauge W	(Trap)
 							2	 32/256	 12.5%	Barr200  W
@@ -2628,7 +2500,6 @@ Green	 E92	Locations:	0	 32/ 64	   50%	(-162,-415,   0)
 							5	 32/256	 12.5%	1200z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	RainyDay L	(Trap)
 							1	 32/256	 12.5%	Quake3   H	(Trap)
 							2	 32/256	 12.5%	Tornado  R
@@ -2637,7 +2508,6 @@ Green	 E92	Locations:	0	 32/ 64	   50%	(-162,-415,   0)
 							5	 32/256	 12.5%	1400z
 							6	 32/256	 12.5%	1600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E93	Locations:	0	 32/ 64	   50%	( 348, 195,   0)
 							1	 32/ 64	   50%	(-163, 418,   0)
 				Level 1:	0	 32/256	 12.5%	YoYo     D
@@ -2648,7 +2518,6 @@ Green	 E93	Locations:	0	 32/ 64	   50%	( 348, 195,   0)
 							5	 32/256	 12.5%	1000z
 							6	 32/256	 12.5%	1200z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	ElcReel2 Q
 							1	 32/256	 12.5%	SloGauge W
 							2	 32/256	 12.5%	Barr200  W	(Trap)
@@ -2657,7 +2526,6 @@ Green	 E93	Locations:	0	 32/ 64	   50%	( 348, 195,   0)
 							5	 32/256	 12.5%	1200z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	RainyDay L
 							1	 32/256	 12.5%	Quake3   H
 							2	 32/256	 12.5%	Tornado  R	(Trap)
@@ -2666,7 +2534,6 @@ Green	 E93	Locations:	0	 32/ 64	   50%	( 348, 195,   0)
 							5	 32/256	 12.5%	1400z
 							6	 32/256	 12.5%	1600z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 94 03: Nebula Area 2
 
@@ -2686,7 +2553,6 @@ Green	 E9B	Locations:	0	 32/ 64	   50%	( 151, 107,   0)
 							5	 32/256	 12.5%	1300z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Mine     T
 							1	 32/256	 12.5%	AntiNavi M
 							2	 32/256	 12.5%	RainyDay B
@@ -2695,7 +2561,6 @@ Green	 E9B	Locations:	0	 32/ 64	   50%	( 151, 107,   0)
 							5	 32/256	 12.5%	1300z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Mine     T
 							1	 32/256	 12.5%	AntiNavi M
 							2	 32/256	 12.5%	RainyDay B
@@ -2704,7 +2569,6 @@ Green	 E9B	Locations:	0	 32/ 64	   50%	( 151, 107,   0)
 							5	 32/256	 12.5%	1300z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 E9C	Locations:	0	 32/ 64	   50%	( 342,-216,   0)
 							1	 32/ 64	   50%	( -12,-373,   0)
 				Level 1:	0	 32/256	 12.5%	Mine     T
@@ -2715,7 +2579,6 @@ Green	 E9C	Locations:	0	 32/ 64	   50%	( 342,-216,   0)
 							5	 32/256	 12.5%	1300z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	Mine     T
 							1	 32/256	 12.5%	AntiNavi M
 							2	 32/256	 12.5%	RainyDay B
@@ -2724,7 +2587,6 @@ Green	 E9C	Locations:	0	 32/ 64	   50%	( 342,-216,   0)
 							5	 32/256	 12.5%	1300z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	Mine     T
 							1	 32/256	 12.5%	AntiNavi M
 							2	 32/256	 12.5%	RainyDay B
@@ -2733,7 +2595,6 @@ Green	 E9C	Locations:	0	 32/ 64	   50%	( 342,-216,   0)
 							5	 32/256	 12.5%	1300z
 							6	 32/256	 12.5%	1400z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------
 Area 94 04: Nebula Area 4
 
@@ -2759,7 +2620,6 @@ Green	 EA6	Locations:	0	 32/ 64	   50%	(-521, -88,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	BlkBomb  L
 							1	 32/256	 12.5%	Geyser   G
 							2	 32/256	 12.5%	IceSeed  *
@@ -2768,7 +2628,6 @@ Green	 EA6	Locations:	0	 32/ 64	   50%	(-521, -88,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	BlkBomb  L
 							1	 32/256	 12.5%	Geyser   G
 							2	 32/256	 12.5%	IceSeed  *
@@ -2777,7 +2636,6 @@ Green	 EA6	Locations:	0	 32/ 64	   50%	(-521, -88,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 EA7	Locations:	0	 32/ 64	   50%	(-233,-378,   0)
 							1	 32/ 64	   50%	( 375,-184,   0)
 				Level 1:	0	 32/256	 12.5%	BlkBomb  L
@@ -2788,7 +2646,6 @@ Green	 EA7	Locations:	0	 32/ 64	   50%	(-233,-378,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	BlkBomb  L
 							1	 32/256	 12.5%	Geyser   G
 							2	 32/256	 12.5%	IceSeed  *
@@ -2797,7 +2654,6 @@ Green	 EA7	Locations:	0	 32/ 64	   50%	(-233,-378,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	BlkBomb  L
 							1	 32/256	 12.5%	Geyser   G
 							2	 32/256	 12.5%	IceSeed  *
@@ -2806,7 +2662,6 @@ Green	 EA7	Locations:	0	 32/ 64	   50%	(-233,-378,   0)
 							5	 32/256	 12.5%	1500z
 							6	 32/256	 12.5%	2000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Purple	 FFE	Locations:	0	  0/  0	  100%	(-170,-278,  64)
 				Level 1+:	0	  0/  0	  100%	OmegaRkt R
 ----------------------------------------------------------------
@@ -2826,7 +2681,6 @@ Green	 EAA	Locations:	0	 32/ 64	   50%	(-441,  89,  64)
 							5	 32/256	 12.5%	2200z
 							6	 32/256	 12.5%	3000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	AntiDmg  C
 							1	 32/256	 12.5%	AirSpin3 A
 							2	 32/256	 12.5%	CusVolt3 P
@@ -2835,7 +2689,6 @@ Green	 EAA	Locations:	0	 32/ 64	   50%	(-441,  89,  64)
 							5	 32/256	 12.5%	2200z
 							6	 32/256	 12.5%	3000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiDmg  C
 							1	 32/256	 12.5%	AirSpin3 A
 							2	 32/256	 12.5%	CusVolt3 P
@@ -2844,7 +2697,6 @@ Green	 EAA	Locations:	0	 32/ 64	   50%	(-441,  89,  64)
 							5	 32/256	 12.5%	2200z
 							6	 32/256	 12.5%	3000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 Green	 EAB	Locations:	0	 32/ 64	   50%	( 222, 243,   0)
 							1	 32/ 64	   50%	(-212,-190,   0)
 				Level 1:	0	 32/256	 12.5%	AntiDmg  C
@@ -2855,7 +2707,6 @@ Green	 EAB	Locations:	0	 32/ 64	   50%	( 222, 243,   0)
 							5	 32/256	 12.5%	2200z
 							6	 32/256	 12.5%	3000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 2:	0	 32/256	 12.5%	AntiDmg  C
 							1	 32/256	 12.5%	AirSpin3 A
 							2	 32/256	 12.5%	CusVolt3 P
@@ -2864,7 +2715,6 @@ Green	 EAB	Locations:	0	 32/ 64	   50%	( 222, 243,   0)
 							5	 32/256	 12.5%	2200z
 							6	 32/256	 12.5%	3000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 				Level 3:	0	 32/256	 12.5%	AntiDmg  C
 							1	 32/256	 12.5%	AirSpin3 A
 							2	 32/256	 12.5%	CusVolt3 P
@@ -2873,5 +2723,4 @@ Green	 EAB	Locations:	0	 32/ 64	   50%	( 222, 243,   0)
 							5	 32/256	 12.5%	2200z
 							6	 32/256	 12.5%	3000z
 							7	 32/256	 12.5%	BugFrag x1
-							Affected by RNG carry-over glitch!
 ----------------------------------------------------------------

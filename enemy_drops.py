@@ -218,7 +218,7 @@ class GameDropTable:
         elif output == "":
             return None
 
-        print(f"{chip_full}: {output}")
+        #print(f"{chip_full}: {output}")
         return output
                         #print(f"3,4 weird version output: {output}")
                         #"VolGear (4RS: 
@@ -439,7 +439,7 @@ class EnemyDropTables:
                     #print(f"line: {line}")
                     cur_reward_parts = multitab_regex.split(line)
     
-                print(f"cur_reward_parts: {cur_reward_parts}")
+                #print(f"cur_reward_parts: {cur_reward_parts}")
     
                 if state == ON_CURRENT_REWARD:
                     if len(cur_reward_parts) == 3:

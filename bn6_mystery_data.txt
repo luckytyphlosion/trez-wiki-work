@@ -1,1097 +1,1096 @@
-----------------------------------------------------------------
 Area 80 00: Robot Control Comp 1
 
-Blue    14E0    Locations:  0    32/ 32   100%  ( 386, 138,   0)
-                Contents:   0    32/ 32   100%  Spreadr1 M
-Blue    14E1    Locations:  0    32/ 32   100%  (  36,-436,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Green   14E2    Locations:  0    32/ 32   100%  (  64,  12,   0)
-                Contents:   0    32/256  12.5%  MiniBomb *
-                            1    32/256  12.5%  Cannon   C
-                            2    32/256  12.5%  AreaGrab B
-                            3    32/256  12.5%  Barrier  *
-                            4    32/256  12.5%  100z
-                            5    32/256  12.5%  300z
-                            6    32/256  12.5%  500z
-                            7    32/256  12.5%  BugFrag x1
-Green   14E3    Locations:  0    32/ 32   100%  (  36, 140,   0)
-                Contents:   0    32/256  12.5%  MiniBomb *
-                            1    32/256  12.5%  Cannon   C
-                            2    32/256  12.5%  AreaGrab B
-                            3    32/256  12.5%  Barrier  *
-                            4    32/256  12.5%  100z
-                            5    32/256  12.5%  300z
-                            6    32/256  12.5%  500z
-                            7    32/256  12.5%  BugFrag x1
+Blue    14E0    Locations:  0	32/ 32	100%	( 386, 138,   0)
+                Contents:   0	32/ 32	100%	Spreadr1 M
+Blue    14E1    Locations:  0	32/ 32	100%	(  36,-436,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Green   14E2    Locations:  0	32/ 32	100%	(  64,  12,   0)
+                Contents:   0	32/256	12.5%	MiniBomb *
+                            1	32/256	12.5%	Cannon   C
+                            2	32/256	12.5%	AreaGrab B
+                            3	32/256	12.5%	Barrier  *
+                            4	32/256	12.5%	100z
+                            5	32/256	12.5%	300z
+                            6	32/256	12.5%	500z
+                            7	32/256	12.5%	BugFrag x1
+Green   14E3    Locations:  0	32/ 32	100%	(  36, 140,   0)
+                Contents:   0	32/256	12.5%	MiniBomb *
+                            1	32/256	12.5%	Cannon   C
+                            2	32/256	12.5%	AreaGrab B
+                            3	32/256	12.5%	Barrier  *
+                            4	32/256	12.5%	100z
+                            5	32/256	12.5%	300z
+                            6	32/256	12.5%	500z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 80 01: Robot Control Comp 2
 
-Blue    14E8    Locations:  0    32/ 32   100%  ( 356,-118,   0)
-                Contents:   0    32/ 32   100%  Recov30  *
-Blue    14E9    Locations:  0    32/ 32   100%  (-348, 172,   0)
-                Contents:   0    32/ 32   100%  RegUP2
-Green   14EA    Locations:  0    32/ 32   100%  ( 356, 138,   0)
-                Contents:   0    32/256  12.5%  Cannon   *
-                            1    32/256  12.5%  Vulcan1  *
-                            2    32/256  12.5%  EnergBom C
-                            3    32/256  12.5%  LongSwrd H
-                            4    32/256  12.5%  450z
-                            5    32/256  12.5%  800z
-                            6    32/256  12.5%  1200z
-                            7    32/256  12.5%  BugFrag x1
-Green   14EB    Locations:  0    32/ 32   100%  (-382,  14,   0)
-                Contents:   0    32/256  12.5%  Cannon   *
-                            1    32/256  12.5%  Vulcan1  *
-                            2    32/256  12.5%  EnergBom C
-                            3    32/256  12.5%  LongSwrd H
-                            4    32/256  12.5%  450z
-                            5    32/256  12.5%  800z
-                            6    32/256  12.5%  1200z
-                            7    32/256  12.5%  BugFrag x1
+Blue    14E8    Locations:  0	32/ 32	100%	( 356,-118,   0)
+                Contents:   0	32/ 32	100%	Recov30  *
+Blue    14E9    Locations:  0	32/ 32	100%	(-348, 172,   0)
+                Contents:   0	32/ 32	100%	RegUP2
+Green   14EA    Locations:  0	32/ 32	100%	( 356, 138,   0)
+                Contents:   0	32/256	12.5%	Cannon   *
+                            1	32/256	12.5%	Vulcan1  *
+                            2	32/256	12.5%	EnergBom C
+                            3	32/256	12.5%	LongSwrd H
+                            4	32/256	12.5%	450z
+                            5	32/256	12.5%	800z
+                            6	32/256	12.5%	1200z
+                            7	32/256	12.5%	BugFrag x1
+Green   14EB    Locations:  0	32/ 32	100%	(-382,  14,   0)
+                Contents:   0	32/256	12.5%	Cannon   *
+                            1	32/256	12.5%	Vulcan1  *
+                            2	32/256	12.5%	EnergBom C
+                            3	32/256	12.5%	LongSwrd H
+                            4	32/256	12.5%	450z
+                            5	32/256	12.5%	800z
+                            6	32/256	12.5%	1200z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 81 00: Aquarium Comp 1
 
-Blue    1500    Locations:  0    32/ 32   100%  (-280,-152,   0)
-                Contents:   0    32/ 32   100%  LifeSync *
-Blue    1501    Locations:  0    32/ 32   100%  (-278, 328,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Green   1502    Locations:  0    32/ 32   100%  ( 328,-120,  16)
-                Contents:   0    32/256  12.5%  Thunder  S
-                            1    32/256  12.5%  Sword    *
-                            2    32/256  12.5%  HiCannon L
-                            3    32/256  12.5%  YoYo     M
-                            4    32/256  12.5%  500z
-                            5    32/256  12.5%  700z
-                            6    32/256  12.5%  900z
-                            7    32/256  12.5%  BugFrag x1
-Green   1503    Locations:  0    32/ 32   100%  ( -56,   8,   0)
-                Contents:   0    32/256  12.5%  Thunder  S
-                            1    32/256  12.5%  Sword    *
-                            2    32/256  12.5%  HiCannon L
-                            3    32/256  12.5%  YoYo     M
-                            4    32/256  12.5%  500z
-                            5    32/256  12.5%  700z
-                            6    32/256  12.5%  900z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1500    Locations:  0	32/ 32	100%	(-280,-152,   0)
+                Contents:   0	32/ 32	100%	LifeSync *
+Blue    1501    Locations:  0	32/ 32	100%	(-278, 328,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Green   1502    Locations:  0	32/ 32	100%	( 328,-120,  16)
+                Contents:   0	32/256	12.5%	Thunder  S
+                            1	32/256	12.5%	Sword    *
+                            2	32/256	12.5%	HiCannon L
+                            3	32/256	12.5%	YoYo     M
+                            4	32/256	12.5%	500z
+                            5	32/256	12.5%	700z
+                            6	32/256	12.5%	900z
+                            7	32/256	12.5%	BugFrag x1
+Green   1503    Locations:  0	32/ 32	100%	( -56,   8,   0)
+                Contents:   0	32/256	12.5%	Thunder  S
+                            1	32/256	12.5%	Sword    *
+                            2	32/256	12.5%	HiCannon L
+                            3	32/256	12.5%	YoYo     M
+                            4	32/256	12.5%	500z
+                            5	32/256	12.5%	700z
+                            6	32/256	12.5%	900z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 81 01: Aquarium Comp 2
 
-Blue    1508    Locations:  0    32/ 32   100%  ( 130,  46,  16)
-                Contents:   0    32/ 32   100%  RegUP1
-Blue    1509    Locations:  0    32/ 32   100%  (-334, 318,   0)
-                Contents:   0    32/ 32   100%  FstBarr (blue)
-Green   150A    Locations:  0    32/ 32   100%  ( -62, 558,   0)
-                Contents:   0    32/256  12.5%  Recov50  *
-                            1    32/256  12.5%  Invisibl *
-                            2    32/256  12.5%  Vulcan2  F
-                            3    32/256  12.5%  WideSwrd *
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  800z
-                            6    32/256  12.5%  1000z
-                            7    32/256  12.5%  BugFrag x1
-Green   150B    Locations:  0    32/ 32   100%  ( -64,-432,   0)
-                Contents:   0    32/256  12.5%  Recov50  *
-                            1    32/256  12.5%  Invisibl *
-                            2    32/256  12.5%  Vulcan2  F
-                            3    32/256  12.5%  WideSwrd *
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  800z
-                            6    32/256  12.5%  1000z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1508    Locations:  0	32/ 32	100%	( 130,  46,  16)
+                Contents:   0	32/ 32	100%	RegUP1
+Blue    1509    Locations:  0	32/ 32	100%	(-334, 318,   0)
+                Contents:   0	32/ 32	100%	FstBarr (blue)
+Green   150A    Locations:  0	32/ 32	100%	( -62, 558,   0)
+                Contents:   0	32/256	12.5%	Recov50  *
+                            1	32/256	12.5%	Invisibl *
+                            2	32/256	12.5%	Vulcan2  F
+                            3	32/256	12.5%	WideSwrd *
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	800z
+                            6	32/256	12.5%	1000z
+                            7	32/256	12.5%	BugFrag x1
+Green   150B    Locations:  0	32/ 32	100%	( -64,-432,   0)
+                Contents:   0	32/256	12.5%	Recov50  *
+                            1	32/256	12.5%	Invisibl *
+                            2	32/256	12.5%	Vulcan2  F
+                            3	32/256	12.5%	WideSwrd *
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	800z
+                            6	32/256	12.5%	1000z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 81 02: Aquarium Comp 3
 
-Blue    1510    Locations:  0    32/ 32   100%  (  48,-336,   0)
-                Contents:   0    32/ 32   100%  HP+50 (white)
-Blue    1511    Locations:  0    32/ 32   100%  (-256,  18,   0)
-                Contents:   0    32/ 32   100%  HiCannon M
-Green   1512    Locations:  0    32/ 32   100%  ( -80,  16,   0)
-                Contents:   0    32/256  12.5%  M-Cannon T
-                            1    32/256  12.5%  MegEnBom O
-                            2    32/256  12.5%  Recov80  H
-                            3    32/256  12.5%  Spreadr2 A
-                            4    32/256  12.5%  700z
-                            5    32/256  12.5%  860z
-                            6    32/256  12.5%  1100z
-                            7    32/256  12.5%  BugFrag x1
-Green   1513    Locations:  0    32/ 32   100%  (-238,-272,   0)
-                Contents:   0    32/256  12.5%  M-Cannon T
-                            1    32/256  12.5%  MegEnBom O
-                            2    32/256  12.5%  Recov80  H
-                            3    32/256  12.5%  Spreadr2 A
-                            4    32/256  12.5%  700z
-                            5    32/256  12.5%  860z
-                            6    32/256  12.5%  1100z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1510    Locations:  0	32/ 32	100%	(  48,-336,   0)
+                Contents:   0	32/ 32	100%	HP+50 (white)
+Blue    1511    Locations:  0	32/ 32	100%	(-256,  18,   0)
+                Contents:   0	32/ 32	100%	HiCannon M
+Green   1512    Locations:  0	32/ 32	100%	( -80,  16,   0)
+                Contents:   0	32/256	12.5%	M-Cannon T
+                            1	32/256	12.5%	MegEnBom O
+                            2	32/256	12.5%	Recov80  H
+                            3	32/256	12.5%	Spreadr2 A
+                            4	32/256	12.5%	700z
+                            5	32/256	12.5%	860z
+                            6	32/256	12.5%	1100z
+                            7	32/256	12.5%	BugFrag x1
+Green   1513    Locations:  0	32/ 32	100%	(-238,-272,   0)
+                Contents:   0	32/256	12.5%	M-Cannon T
+                            1	32/256	12.5%	MegEnBom O
+                            2	32/256	12.5%	Recov80  H
+                            3	32/256	12.5%	Spreadr2 A
+                            4	32/256	12.5%	700z
+                            5	32/256	12.5%	860z
+                            6	32/256	12.5%	1100z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 82 00: JudgeTree Comp 1
 
-Blue    1520    Locations:  0    32/ 32   100%  (-184, 200,   0)
-                Contents:   0    32/ 32   100%  ComingRd *
-Blue    1521    Locations:  0    32/ 32   100%  ( 198, -88,   0)
-                Contents:   0    32/ 32   100%  StepSwrd L
-Green   1522    Locations:  0    32/ 32   100%  (   6, 200,   0)
-                Contents:   0    32/256  12.5%  Fanfare  P
-                            1    32/256  12.5%  PnlRetrn *
-                            2    32/256  12.5%  Vulcan2  D
-                            3    32/256  12.5%  HiCannon *
-                            4    32/256  12.5%  750z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  1300z
-                            7    32/256  12.5%  BugFrag x1
-Green   1523    Locations:  0    32/ 32   100%  ( 294, 104,   0)
-                Contents:   0    32/256  12.5%  Fanfare  P
-                            1    32/256  12.5%  PnlRetrn *
-                            2    32/256  12.5%  Vulcan2  D
-                            3    32/256  12.5%  HiCannon *
-                            4    32/256  12.5%  750z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  1300z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1520    Locations:  0	32/ 32	100%	(-184, 200,   0)
+                Contents:   0	32/ 32	100%	ComingRd *
+Blue    1521    Locations:  0	32/ 32	100%	( 198, -88,   0)
+                Contents:   0	32/ 32	100%	StepSwrd L
+Green   1522    Locations:  0	32/ 32	100%	(   6, 200,   0)
+                Contents:   0	32/256	12.5%	Fanfare  P
+                            1	32/256	12.5%	PnlRetrn *
+                            2	32/256	12.5%	Vulcan2  D
+                            3	32/256	12.5%	HiCannon *
+                            4	32/256	12.5%	750z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	1300z
+                            7	32/256	12.5%	BugFrag x1
+Green   1523    Locations:  0	32/ 32	100%	( 294, 104,   0)
+                Contents:   0	32/256	12.5%	Fanfare  P
+                            1	32/256	12.5%	PnlRetrn *
+                            2	32/256	12.5%	Vulcan2  D
+                            3	32/256	12.5%	HiCannon *
+                            4	32/256	12.5%	750z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	1300z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 82 01: JudgeTree Comp 2
 
-Blue    1528    Locations:  0    32/ 32   100%  ( -64, 112,   0)
-                Contents:   0    32/ 32   100%  YoYo     N
-Blue    1529    Locations:  0    32/ 32   100%  ( 352, -48,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Green   152A    Locations:  0    32/ 32   100%  (-256, -48,   0)
-                Contents:   0    32/256  12.5%  MachGun1 *
-                            1    32/256  12.5%  EnergBom *
-                            2    32/256  12.5%  Boomer   T
-                            3    32/256  12.5%  Recov80  *
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  1200z
-                            6    32/256  12.5%  1400z
-                            7    32/256  12.5%  BugFrag x1
-Green   152B    Locations:  0    32/ 32   100%  (  64, -16,   0)
-                Contents:   0    32/256  12.5%  MachGun1 *
-                            1    32/256  12.5%  EnergBom *
-                            2    32/256  12.5%  Boomer   T
-                            3    32/256  12.5%  Recov80  *
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  1200z
-                            6    32/256  12.5%  1400z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1528    Locations:  0	32/ 32	100%	( -64, 112,   0)
+                Contents:   0	32/ 32	100%	YoYo     N
+Blue    1529    Locations:  0	32/ 32	100%	( 352, -48,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Green   152A    Locations:  0	32/ 32	100%	(-256, -48,   0)
+                Contents:   0	32/256	12.5%	MachGun1 *
+                            1	32/256	12.5%	EnergBom *
+                            2	32/256	12.5%	Boomer   T
+                            3	32/256	12.5%	Recov80  *
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	1200z
+                            6	32/256	12.5%	1400z
+                            7	32/256	12.5%	BugFrag x1
+Green   152B    Locations:  0	32/ 32	100%	(  64, -16,   0)
+                Contents:   0	32/256	12.5%	MachGun1 *
+                            1	32/256	12.5%	EnergBom *
+                            2	32/256	12.5%	Boomer   T
+                            3	32/256	12.5%	Recov80  *
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	1200z
+                            6	32/256	12.5%	1400z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 82 02: JudgeTree Comp 3
 
-Blue    1530    Locations:  0    32/ 32   100%  ( -64, 208,   0)
-                Contents:   0    32/ 32   100%  RegUP3
-Blue    1531    Locations:  0    32/ 32   100%  (  96, -16,   0)
-                Contents:   0    32/ 32   100%  ExpMemry
-Green   1532    Locations:  0    32/ 32   100%  (-256,  48,   0)
-                Contents:   0    32/256  12.5%  Barr100  H
-                            1    32/256  12.5%  Spreadr2 *
-                            2    32/256  12.5%  GrasSeed *
-                            3    32/256  12.5%  FireSwrd O
-                            4    32/256  12.5%  1000z
-                            5    32/256  12.5%  1250z
-                            6    32/256  12.5%  1600z
-                            7    32/256  12.5%  BugFrag x1
-Green   1533    Locations:  0    32/ 32   100%  ( 224, 208,   0)
-                Contents:   0    32/256  12.5%  Barr100  H
-                            1    32/256  12.5%  Spreadr2 *
-                            2    32/256  12.5%  GrasSeed *
-                            3    32/256  12.5%  FireSwrd O
-                            4    32/256  12.5%  1000z
-                            5    32/256  12.5%  1250z
-                            6    32/256  12.5%  1600z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1530    Locations:  0	32/ 32	100%	( -64, 208,   0)
+                Contents:   0	32/ 32	100%	RegUP3
+Blue    1531    Locations:  0	32/ 32	100%	(  96, -16,   0)
+                Contents:   0	32/ 32	100%	ExpMemry
+Green   1532    Locations:  0	32/ 32	100%	(-256,  48,   0)
+                Contents:   0	32/256	12.5%	Barr100  H
+                            1	32/256	12.5%	Spreadr2 *
+                            2	32/256	12.5%	GrasSeed *
+                            3	32/256	12.5%	FireSwrd O
+                            4	32/256	12.5%	1000z
+                            5	32/256	12.5%	1250z
+                            6	32/256	12.5%	1600z
+                            7	32/256	12.5%	BugFrag x1
+Green   1533    Locations:  0	32/ 32	100%	( 224, 208,   0)
+                Contents:   0	32/256	12.5%	Barr100  H
+                            1	32/256	12.5%	Spreadr2 *
+                            2	32/256	12.5%	GrasSeed *
+                            3	32/256	12.5%	FireSwrd O
+                            4	32/256	12.5%	1000z
+                            5	32/256	12.5%	1250z
+                            6	32/256	12.5%	1600z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 83 00: Mr. Weather Comp 1
 
-Blue    1540    Locations:  0    32/ 32   100%  (-280,  56,  64)
-                Contents:   0    32/ 32   100%  Spreadr3 S
-Blue    1541    Locations:  0    32/ 32   100%  ( 154, 260,   0)
-                Contents:   0    32/ 32   100%  RegUP1
-Green   1542    Locations:  0    32/ 32   100%  (  26, 268,  64)
-                Contents:   0    32/256  12.5%  Vulcan3  R
-                            1    32/256  12.5%  ColorPt  *
-                            2    32/256  12.5%  AquaNdl1 C
-                            3    32/256  12.5%  Invisibl *
-                            4    32/256  12.5%  700z
-                            5    32/256  12.5%  1100z
-                            6    32/256  12.5%  1300z
-                            7    32/256  12.5%  BugFrag x1
-Green   1543    Locations:  0    32/ 32   100%  (-274, -74,   0)
-                Contents:   0    32/256  12.5%  Vulcan3  R
-                            1    32/256  12.5%  ColorPt  *
-                            2    32/256  12.5%  AquaNdl1 C
-                            3    32/256  12.5%  Invisibl *
-                            4    32/256  12.5%  700z
-                            5    32/256  12.5%  1100z
-                            6    32/256  12.5%  1300z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1540    Locations:  0	32/ 32	100%	(-280,  56,  64)
+                Contents:   0	32/ 32	100%	Spreadr3 S
+Blue    1541    Locations:  0	32/ 32	100%	( 154, 260,   0)
+                Contents:   0	32/ 32	100%	RegUP1
+Green   1542    Locations:  0	32/ 32	100%	(  26, 268,  64)
+                Contents:   0	32/256	12.5%	Vulcan3  R
+                            1	32/256	12.5%	ColorPt  *
+                            2	32/256	12.5%	AquaNdl1 C
+                            3	32/256	12.5%	Invisibl *
+                            4	32/256	12.5%	700z
+                            5	32/256	12.5%	1100z
+                            6	32/256	12.5%	1300z
+                            7	32/256	12.5%	BugFrag x1
+Green   1543    Locations:  0	32/ 32	100%	(-274, -74,   0)
+                Contents:   0	32/256	12.5%	Vulcan3  R
+                            1	32/256	12.5%	ColorPt  *
+                            2	32/256	12.5%	AquaNdl1 C
+                            3	32/256	12.5%	Invisibl *
+                            4	32/256	12.5%	700z
+                            5	32/256	12.5%	1100z
+                            6	32/256	12.5%	1300z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 83 01: Mr. Weather Comp 2
 
-Blue    1548    Locations:  0    32/ 32   100%  (-128, 304,  64)
-                Contents:   0    32/ 32   100%  HP Memry
-Blue    1549    Locations:  0    32/ 32   100%  (-480, 242,  64)
-                Contents:   0    32/ 32   100%  Shield (blue)
-Green   154A    Locations:  0    32/ 32   100%  (-378, 108,   0)
-                Contents:   0    32/256  12.5%  TimeBom1 G
-                            1    32/256  12.5%  Spreadr3 Q
-                            2    32/256  12.5%  RlngLog1 K
-                            3    32/256  12.5%  GrabBnsh M
-                            4    32/256  12.5%  800z
-                            5    32/256  12.5%  1200z
-                            6    32/256  12.5%  1350z
-                            7    32/256  12.5%  BugFrag x1
-Green   154B    Locations:  0    32/ 32   100%  (  32,  72,   0)
-                Contents:   0    32/256  12.5%  TimeBom1 G
-                            1    32/256  12.5%  Spreadr3 Q
-                            2    32/256  12.5%  RlngLog1 K
-                            3    32/256  12.5%  GrabBnsh M
-                            4    32/256  12.5%  800z
-                            5    32/256  12.5%  1200z
-                            6    32/256  12.5%  1350z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1548    Locations:  0	32/ 32	100%	(-128, 304,  64)
+                Contents:   0	32/ 32	100%	HP Memry
+Blue    1549    Locations:  0	32/ 32	100%	(-480, 242,  64)
+                Contents:   0	32/ 32	100%	Shield (blue)
+Green   154A    Locations:  0	32/ 32	100%	(-378, 108,   0)
+                Contents:   0	32/256	12.5%	TimeBom1 G
+                            1	32/256	12.5%	Spreadr3 Q
+                            2	32/256	12.5%	RlngLog1 K
+                            3	32/256	12.5%	GrabBnsh M
+                            4	32/256	12.5%	800z
+                            5	32/256	12.5%	1200z
+                            6	32/256	12.5%	1350z
+                            7	32/256	12.5%	BugFrag x1
+Green   154B    Locations:  0	32/ 32	100%	(  32,  72,   0)
+                Contents:   0	32/256	12.5%	TimeBom1 G
+                            1	32/256	12.5%	Spreadr3 Q
+                            2	32/256	12.5%	RlngLog1 K
+                            3	32/256	12.5%	GrabBnsh M
+                            4	32/256	12.5%	800z
+                            5	32/256	12.5%	1200z
+                            6	32/256	12.5%	1350z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 83 02: Mr. Weather Comp 3
 
-Blue    1550    Locations:  0    32/ 32   100%  (-162,-368,  64)
-                Contents:   0    32/ 32   100%  SpinPink
-Blue    1551    Locations:  0    32/ 32   100%  ( 354, 200,  64)
-                Contents:   0    32/ 32   100%  Recov120 F
-Green   1552    Locations:  0    32/ 32   100%  (-252,-340,  64)
-                Contents:   0    32/256  12.5%  M-Cannon R
-                            1    32/256  12.5%  MegEnBom *
-                            2    32/256  12.5%  RskyHny1 S
-                            3    32/256  12.5%  Barr100  O
-                            4    32/256  12.5%  900z
-                            5    32/256  12.5%  1300z
-                            6    32/256  12.5%  1500z
-                            7    32/256  12.5%  BugFrag x1
-Green   1553    Locations:  0    32/ 32   100%  (  64,-272,   0)
-                Contents:   0    32/256  12.5%  M-Cannon R
-                            1    32/256  12.5%  MegEnBom *
-                            2    32/256  12.5%  RskyHny1 S
-                            3    32/256  12.5%  Barr100  O
-                            4    32/256  12.5%  900z
-                            5    32/256  12.5%  1300z
-                            6    32/256  12.5%  1500z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1550    Locations:  0	32/ 32	100%	(-162,-368,  64)
+                Contents:   0	32/ 32	100%	SpinPink
+Blue    1551    Locations:  0	32/ 32	100%	( 354, 200,  64)
+                Contents:   0	32/ 32	100%	Recov120 F
+Green   1552    Locations:  0	32/ 32	100%	(-252,-340,  64)
+                Contents:   0	32/256	12.5%	M-Cannon R
+                            1	32/256	12.5%	MegEnBom *
+                            2	32/256	12.5%	RskyHny1 S
+                            3	32/256	12.5%	Barr100  O
+                            4	32/256	12.5%	900z
+                            5	32/256	12.5%	1300z
+                            6	32/256	12.5%	1500z
+                            7	32/256	12.5%	BugFrag x1
+Green   1553    Locations:  0	32/ 32	100%	(  64,-272,   0)
+                Contents:   0	32/256	12.5%	M-Cannon R
+                            1	32/256	12.5%	MegEnBom *
+                            2	32/256	12.5%	RskyHny1 S
+                            3	32/256	12.5%	Barr100  O
+                            4	32/256	12.5%	900z
+                            5	32/256	12.5%	1300z
+                            6	32/256	12.5%	1500z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 85 00: Pavilion Comp 1
 
-Blue    1580    Locations:  0    32/ 32   100%  (  54, 394,  16)
-                Contents:   0    32/ 32   100%  Spreadr3 *
-Blue    1581    Locations:  0    32/ 32   100%  (-202,-246,   0)
-                Contents:   0    32/ 32   100%  Recov200 Z
-Green   1582    Locations:  0    32/ 32   100%  (-106,-118,  16)
-                Contents:   0    32/256  12.5%  DrilArm  W
-                            1    32/256  12.5%  BlkBomb  B
-                            2    32/256  12.5%  Recov120 P
-                            3    32/256  12.5%  Barr100  Y
-                            4    32/256  12.5%  1000z
-                            5    32/256  12.5%  1400z
-                            6    32/256  12.5%  1700z
-                            7    32/256  12.5%  BugFrag x1
-Green   1583    Locations:  0    32/ 32   100%  (-396, 234,   0)
-                Contents:   0    32/256  12.5%  DrilArm  W
-                            1    32/256  12.5%  BlkBomb  B
-                            2    32/256  12.5%  Recov120 P
-                            3    32/256  12.5%  Barr100  Y
-                            4    32/256  12.5%  1000z
-                            5    32/256  12.5%  1400z
-                            6    32/256  12.5%  1700z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1580    Locations:  0	32/ 32	100%	(  54, 394,  16)
+                Contents:   0	32/ 32	100%	Spreadr3 *
+Blue    1581    Locations:  0	32/ 32	100%	(-202,-246,   0)
+                Contents:   0	32/ 32	100%	Recov200 Z
+Green   1582    Locations:  0	32/ 32	100%	(-106,-118,  16)
+                Contents:   0	32/256	12.5%	DrilArm  W
+                            1	32/256	12.5%	BlkBomb  B
+                            2	32/256	12.5%	Recov120 P
+                            3	32/256	12.5%	Barr100  Y
+                            4	32/256	12.5%	1000z
+                            5	32/256	12.5%	1400z
+                            6	32/256	12.5%	1700z
+                            7	32/256	12.5%	BugFrag x1
+Green   1583    Locations:  0	32/ 32	100%	(-396, 234,   0)
+                Contents:   0	32/256	12.5%	DrilArm  W
+                            1	32/256	12.5%	BlkBomb  B
+                            2	32/256	12.5%	Recov120 P
+                            3	32/256	12.5%	Barr100  Y
+                            4	32/256	12.5%	1000z
+                            5	32/256	12.5%	1400z
+                            6	32/256	12.5%	1700z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 85 01: Pavilion Comp 2
 
-Blue    1584    Locations:  0    32/ 32   100%  (-140, -70,   0)
-                Contents:   0    32/ 32   100%  GunDelS2 E
-Blue    1585    Locations:  0    32/ 32   100%  (  52,  90,   0)
-                Contents:   0    32/ 32   100%  RegUP2
-Green   1586    Locations:  0    32/ 32   100%  ( -10,-262,   0)
-                Contents:   0    32/256  12.5%  TimeBom2 D
-                            1    32/256  12.5%  HolyPanl S
-                            2    32/256  12.5%  SumnBlk1 E
-                            3    32/256  12.5%  FireHit2 T
-                            4    32/256  12.5%  800z
-                            5    32/256  12.5%  1600z
-                            6    32/256  12.5%  1900z
-                            7    32/256  12.5%  BugFrag x1
-Green   1587    Locations:  0    32/ 32   100%  ( -76, 346,   0)
-                Contents:   0    32/256  12.5%  TimeBom2 D
-                            1    32/256  12.5%  HolyPanl S
-                            2    32/256  12.5%  SumnBlk1 E
-                            3    32/256  12.5%  FireHit2 T
-                            4    32/256  12.5%  800z
-                            5    32/256  12.5%  1600z
-                            6    32/256  12.5%  1900z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1584    Locations:  0	32/ 32	100%	(-140, -70,   0)
+                Contents:   0	32/ 32	100%	GunDelS2 E
+Blue    1585    Locations:  0	32/ 32	100%	(  52,  90,   0)
+                Contents:   0	32/ 32	100%	RegUP2
+Green   1586    Locations:  0	32/ 32	100%	( -10,-262,   0)
+                Contents:   0	32/256	12.5%	TimeBom2 D
+                            1	32/256	12.5%	HolyPanl S
+                            2	32/256	12.5%	SumnBlk1 E
+                            3	32/256	12.5%	FireHit2 T
+                            4	32/256	12.5%	800z
+                            5	32/256	12.5%	1600z
+                            6	32/256	12.5%	1900z
+                            7	32/256	12.5%	BugFrag x1
+Green   1587    Locations:  0	32/ 32	100%	( -76, 346,   0)
+                Contents:   0	32/256	12.5%	TimeBom2 D
+                            1	32/256	12.5%	HolyPanl S
+                            2	32/256	12.5%	SumnBlk1 E
+                            3	32/256	12.5%	FireHit2 T
+                            4	32/256	12.5%	800z
+                            5	32/256	12.5%	1600z
+                            6	32/256	12.5%	1900z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 85 02: Pavilion Comp 3
 
-Blue    1588    Locations:  0    32/ 32   100%  (  44,-226,  64)
-                Contents:   0    32/ 32   100%  HP Memry
-Blue    1589    Locations:  0    32/ 32   100%  (-352,-240,   0)
-                Contents:   0    32/ 32   100%  Attack+1 (blue)
-Green   158A    Locations:  0    32/ 32   100%  ( 190, 306,  64)
-                Contents:   0    32/256  12.5%  DublShot U
-                            1    32/256  12.5%  AirRaid1 G
-                            2    32/256  12.5%  AuraHed1 B
-                            3    32/256  12.5%  Magnum   L
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  2000z
-                            7    32/256  12.5%  BugFrag x1
-Green   158B    Locations:  0    32/ 32   100%  ( 288, 368,   0)
-                Contents:   0    32/256  12.5%  DublShot U
-                            1    32/256  12.5%  AirRaid1 G
-                            2    32/256  12.5%  AuraHed1 B
-                            3    32/256  12.5%  Magnum   L
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  2000z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1588    Locations:  0	32/ 32	100%	(  44,-226,  64)
+                Contents:   0	32/ 32	100%	HP Memry
+Blue    1589    Locations:  0	32/ 32	100%	(-352,-240,   0)
+                Contents:   0	32/ 32	100%	Attack+1 (blue)
+Green   158A    Locations:  0	32/ 32	100%	( 190, 306,  64)
+                Contents:   0	32/256	12.5%	DublShot U
+                            1	32/256	12.5%	AirRaid1 G
+                            2	32/256	12.5%	AuraHed1 B
+                            3	32/256	12.5%	Magnum   L
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	2000z
+                            7	32/256	12.5%	BugFrag x1
+Green   158B    Locations:  0	32/ 32	100%	( 288, 368,   0)
+                Contents:   0	32/256	12.5%	DublShot U
+                            1	32/256	12.5%	AirRaid1 G
+                            2	32/256	12.5%	AuraHed1 B
+                            3	32/256	12.5%	Magnum   L
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	2000z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 85 03: Pavilion Comp 4
 
-Blue    158C    Locations:  0    32/ 32   100%  (-594,  -4,   0)
-                Contents:   0    32/ 32   100%  LongBlde B
-Blue    158D    Locations:  0    32/ 32   100%  ( 368,-192,   0)
-                Contents:   0    32/ 32   100%  6000z
-Green   158E    Locations:  0    32/ 32   100%  (-110, 220,   0)
-                Contents:   0    32/256  12.5%  Vulcan3  A
-                            1    32/256  12.5%  AquaSwrd A
-                            2    32/256  12.5%  AquaNdl2 K
-                            3    32/256  12.5%  BblWrap  Z
-                            4    32/256  12.5%  1200z
-                            5    32/256  12.5%  1500z
-                            6    32/256  12.5%  1800z
-                            7    32/256  12.5%  BugFrag x1
-Green   158F    Locations:  0    32/ 32   100%  ( 306, 220,   0)
-                Contents:   0    32/256  12.5%  Vulcan3  A
-                            1    32/256  12.5%  AquaSwrd A
-                            2    32/256  12.5%  AquaNdl2 K
-                            3    32/256  12.5%  BblWrap  Z
-                            4    32/256  12.5%  1200z
-                            5    32/256  12.5%  1500z
-                            6    32/256  12.5%  1800z
-                            7    32/256  12.5%  BugFrag x1
+Blue    158C    Locations:  0	32/ 32	100%	(-594,  -4,   0)
+                Contents:   0	32/ 32	100%	LongBlde B
+Blue    158D    Locations:  0	32/ 32	100%	( 368,-192,   0)
+                Contents:   0	32/ 32	100%	6000z
+Green   158E    Locations:  0	32/ 32	100%	(-110, 220,   0)
+                Contents:   0	32/256	12.5%	Vulcan3  A
+                            1	32/256	12.5%	AquaSwrd A
+                            2	32/256	12.5%	AquaNdl2 K
+                            3	32/256	12.5%	BblWrap  Z
+                            4	32/256	12.5%	1200z
+                            5	32/256	12.5%	1500z
+                            6	32/256	12.5%	1800z
+                            7	32/256	12.5%	BugFrag x1
+Green   158F    Locations:  0	32/ 32	100%	( 306, 220,   0)
+                Contents:   0	32/256	12.5%	Vulcan3  A
+                            1	32/256	12.5%	AquaSwrd A
+                            2	32/256	12.5%	AquaNdl2 K
+                            3	32/256	12.5%	BblWrap  Z
+                            4	32/256	12.5%	1200z
+                            5	32/256	12.5%	1500z
+                            6	32/256	12.5%	1800z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 88 01: ACDC HP
 
-Blue    15C4    Locations:  0    32/ 32   100%  ( 124, 116,   0)
-                Contents:   0    32/ 32   100%  IceSeed  *
-Purple  15C5    Locations:  0    32/ 32   100%  (  60,-142,   0)
-                Contents:   0    32/ 32   100%  VarSwrd  W
+Blue    15C4    Locations:  0	32/ 32	100%	( 124, 116,   0)
+                Contents:   0	32/ 32	100%	IceSeed  *
+Purple  15C5    Locations:  0	32/ 32	100%	(  60,-142,   0)
+                Contents:   0	32/ 32	100%	VarSwrd  W
 ----------------------------------------------------------------
 Area 88 03: Aquarium HP
 
-Blue    15CC    Locations:  0    32/ 32   100%  ( -40,-136,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Purple  15CD    Locations:  0    32/ 32   100%  ( -66,  82,   0)
-                Contents:   0    32/ 32   100%  Tornado  L
+Blue    15CC    Locations:  0	32/ 32	100%	( -40,-136,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Purple  15CD    Locations:  0	32/ 32	100%	( -66,  82,   0)
+                Contents:   0	32/ 32	100%	Tornado  L
 ----------------------------------------------------------------
 Area 88 05: Green HP
 
-Blue    15D4    Locations:  0    32/ 32   100%  (  30, -14,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Purple  15D5    Locations:  0    32/ 32   100%  (  98,-142,   0)
-                Contents:   0    32/ 32   100%  BlkBomb  F
+Blue    15D4    Locations:  0	32/ 32	100%	(  30, -14,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Purple  15D5    Locations:  0	32/ 32	100%	(  98,-142,   0)
+                Contents:   0	32/ 32	100%	BlkBomb  F
 ----------------------------------------------------------------
 Area 88 06: Sky HP
 
-Blue    15D8    Locations:  0    32/ 32   100%  (  92,-108,   0)
-                Contents:   0    32/ 32   100%  Vulcan3  A
-Purple  15D9    Locations:  0    32/ 32   100%  ( -34, 112,   0)
-                Contents:   0    32/ 32   100%  AutoHeal (pink)
+Blue    15D8    Locations:  0	32/ 32	100%	(  92,-108,   0)
+                Contents:   0	32/ 32	100%	Vulcan3  A
+Purple  15D9    Locations:  0	32/ 32	100%	( -34, 112,   0)
+                Contents:   0	32/ 32	100%	AutoHeal (pink)
 ----------------------------------------------------------------
 Area 8C 00: RoboDog Comp
 
-Blue    1600    Locations:  0    32/ 32   100%  (-212, -12,   0)
-                Contents:   0    32/ 32   100%  600z
+Blue    1600    Locations:  0	32/ 32	100%	(-212, -12,   0)
+                Contents:   0	32/ 32	100%	600z
 ----------------------------------------------------------------
 Area 8C 01: Lab's Comp 1
 
-Blue    1602    Locations:  0    32/ 32   100%  (  92,-140,   0)
-                Contents:   0    32/ 32   100%  FireHit1 F
-Blue    1603    Locations:  0    32/ 32   100%  ( -68, 116,   0)
-                Contents:   0    32/ 32   100%  Fan      *
+Blue    1602    Locations:  0	32/ 32	100%	(  92,-140,   0)
+                Contents:   0	32/ 32	100%	FireHit1 F
+Blue    1603    Locations:  0	32/ 32	100%	( -68, 116,   0)
+                Contents:   0	32/ 32	100%	Fan      *
 ----------------------------------------------------------------
 Area 8C 02: Class 6-1 Comp
 
-Blue    1604    Locations:  0    32/ 32   100%  (  10,-300,   0)
-                Contents:   0    32/ 32   100%  Thunder  *
-Blue    1605    Locations:  0    32/ 32   100%  (  10, 278,   0)
-                Contents:   0    32/ 32   100%  700z
+Blue    1604    Locations:  0	32/ 32	100%	(  10,-300,   0)
+                Contents:   0	32/ 32	100%	Thunder  *
+Blue    1605    Locations:  0	32/ 32	100%	(  10, 278,   0)
+                Contents:   0	32/ 32	100%	700z
 ----------------------------------------------------------------
 Area 8C 03: Class 6-2 Comp
 
-Blue    1606    Locations:  0    32/ 32   100%  ( 236, -12,   0)
-                Contents:   0    32/ 32   100%  RegUP2
-Purple  1607    Locations:  0    32/ 32   100%  (  10,-266,   0)
-                Contents:   0    32/ 32   100%  Snake    H
+Blue    1606    Locations:  0	32/ 32	100%	( 236, -12,   0)
+                Contents:   0	32/ 32	100%	RegUP2
+Purple  1607    Locations:  0	32/ 32	100%	(  10,-266,   0)
+                Contents:   0	32/ 32	100%	Snake    H
 ----------------------------------------------------------------
 Area 8C 04: Class 1-1 Comp
 
-Blue    1608    Locations:  0    32/ 32   100%  (  10, 278,   0)
-                Contents:   0    32/ 32   100%  EnergBom K
-Blue    1609    Locations:  0    32/ 32   100%  ( -84,-172,   0)
-                Contents:   0    32/ 32   100%  FullEnrg
+Blue    1608    Locations:  0	32/ 32	100%	(  10, 278,   0)
+                Contents:   0	32/ 32	100%	EnergBom K
+Blue    1609    Locations:  0	32/ 32	100%	( -84,-172,   0)
+                Contents:   0	32/ 32	100%	FullEnrg
 ----------------------------------------------------------------
 Area 8C 05: Class 1-2 Comp
 
-Blue    160A    Locations:  0    32/ 32   100%  (-212, -12,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Blue    160B    Locations:  0    32/ 32   100%  ( 106, 150,   0)
-                Contents:   0    32/ 32   100%  Speed+1 (white)
+Blue    160A    Locations:  0	32/ 32	100%	(-212, -12,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Blue    160B    Locations:  0	32/ 32	100%	( 106, 150,   0)
+                Contents:   0	32/ 32	100%	Speed+1 (white)
 ----------------------------------------------------------------
 Area 8C 06: Bathroom Comp
 
-Blue    160C    Locations:  0    32/ 32   100%  ( -52, -76,   0)
-                Contents:   0    32/ 32   100%  Unlocker
+Blue    160C    Locations:  0	32/ 32	100%	( -52, -76,   0)
+                Contents:   0	32/ 32	100%	Unlocker
 ----------------------------------------------------------------
 Area 8C 07: Elevator Comp
 
-Blue    160E    Locations:  0    32/ 32   100%  (-216,  -8,   0)
-                Contents:   0    32/ 32   100%  Speed+1 (pink)
+Blue    160E    Locations:  0	32/ 32	100%	(-216,  -8,   0)
+                Contents:   0	32/ 32	100%	Speed+1 (pink)
 ----------------------------------------------------------------
 Area 8C 08: Fish Stick Shop Comp
 
-Blue    1610    Locations:  0    32/ 32   100%  (-214, -10,   0)
-                Contents:   0    32/ 32   100%  Unlocker
-Blue    1611    Locations:  0    32/ 32   100%  ( 234, -12,   0)
-                Contents:   0    32/ 32   100%  WhiCapsl *
+Blue    1610    Locations:  0	32/ 32	100%	(-214, -10,   0)
+                Contents:   0	32/ 32	100%	Unlocker
+Blue    1611    Locations:  0	32/ 32	100%	( 234, -12,   0)
+                Contents:   0	32/ 32	100%	WhiCapsl *
 ----------------------------------------------------------------
 Area 8C 09: Security Camera Comp
 
-Blue    1612    Locations:  0    32/ 32   100%  ( 234, -10,   0)
-                Contents:   0    32/ 32   100%  3000z
-Blue    1613    Locations:  0    32/ 32   100%  ( -86,-172,   0)
-                Contents:   0    32/ 32   100%  Jungle (green)
+Blue    1612    Locations:  0	32/ 32	100%	( 234, -10,   0)
+                Contents:   0	32/ 32	100%	3000z
+Blue    1613    Locations:  0	32/ 32	100%	( -86,-172,   0)
+                Contents:   0	32/ 32	100%	Jungle (green)
 ----------------------------------------------------------------
 Area 8C 0A: Book Comp
 
-Blue    1614    Locations:  0    32/ 32   100%  (-102, 118,   0)
-                Contents:   0    32/ 32   100%  SubMemry
-Blue    1615    Locations:  0    32/ 32   100%  ( 122,-138,   0)
-                Contents:   0    32/ 32   100%  YoYo     *
+Blue    1614    Locations:  0	32/ 32	100%	(-102, 118,   0)
+                Contents:   0	32/ 32	100%	SubMemry
+Blue    1615    Locations:  0	32/ 32	100%	( 122,-138,   0)
+                Contents:   0	32/ 32	100%	YoYo     *
 ----------------------------------------------------------------
 Area 8C 0B: Fan Comp
 
-Blue    1616    Locations:  0    32/ 32   100%  ( 234, -12,   0)
-                Contents:   0    32/ 32   100%  1600z
-Blue    1617    Locations:  0    32/ 32   100%  (-212, -12,   0)
-                Contents:   0    32/ 32   100%  OilBody (red)
+Blue    1616    Locations:  0	32/ 32	100%	( 234, -12,   0)
+                Contents:   0	32/ 32	100%	1600z
+Blue    1617    Locations:  0	32/ 32	100%	(-212, -12,   0)
+                Contents:   0	32/ 32	100%	OilBody (red)
 ----------------------------------------------------------------
 Area 8C 0C: Air Conditioner Comp
 
-Blue    1618    Locations:  0    32/ 32   100%  ( 108, 148,   0)
-                Contents:   0    32/ 32   100%  RegUP1
-Blue    1619    Locations:  0    32/ 32   100%  (-214, -12,   0)
-                Contents:   0    32/ 32   100%  ColorPt  *
+Blue    1618    Locations:  0	32/ 32	100%	( 108, 148,   0)
+                Contents:   0	32/ 32	100%	RegUP1
+Blue    1619    Locations:  0	32/ 32	100%	(-214, -12,   0)
+                Contents:   0	32/ 32	100%	ColorPt  *
 ----------------------------------------------------------------
 Area 8C 0D: Heater Comp
 
-Blue    161A    Locations:  0    32/ 32   100%  ( -84, 148,   0)
-                Contents:   0    32/ 32   100%  Charge+1 (white)
-Blue    161B    Locations:  0    32/ 32   100%  ( 234, -12,   0)
-                Contents:   0    32/ 32   100%  1000z
+Blue    161A    Locations:  0	32/ 32	100%	( -84, 148,   0)
+                Contents:   0	32/ 32	100%	Charge+1 (white)
+Blue    161B    Locations:  0	32/ 32	100%	( 234, -12,   0)
+                Contents:   0	32/ 32	100%	1000z
 ----------------------------------------------------------------
 Area 8C 0E: Shower Comp
 
-Blue    161C    Locations:  0    32/ 32   100%  (  12, 276,   0)
-                Contents:   0    32/ 32   100%  BugFrag x1
-Blue    161D    Locations:  0    32/ 32   100%  ( -86,-172,   0)
-                Contents:   0    32/ 32   100%  RegUP1
+Blue    161C    Locations:  0	32/ 32	100%	(  12, 276,   0)
+                Contents:   0	32/ 32	100%	BugFrag x1
+Blue    161D    Locations:  0	32/ 32	100%	( -86,-172,   0)
+                Contents:   0	32/ 32	100%	RegUP1
 ----------------------------------------------------------------
 Area 8C 0F: Heliport Comp
 
-Blue    161E    Locations:  0    32/ 32   100%  ( -68, 116,   0)
-                Contents:   0    32/ 32   100%  Unlocker
-Blue    161F    Locations:  0    32/ 32   100%  (  90,-140,   0)
-                Contents:   0    32/ 32   100%  HP+50 (blue)
+Blue    161E    Locations:  0	32/ 32	100%	( -68, 116,   0)
+                Contents:   0	32/ 32	100%	Unlocker
+Blue    161F    Locations:  0	32/ 32	100%	(  90,-140,   0)
+                Contents:   0	32/ 32	100%	HP+50 (blue)
 ----------------------------------------------------------------
 Area 8D 00: Lab's Comp 2
 
-Blue    1620    Locations:  0    32/ 32   100%  ( 122, 116,   0)
-                Contents:   0    32/ 32   100%  ExpMemry
-Purple  1621    Locations:  0    32/ 32   100%  (-102,-138,   0)
-                Contents:   0    32/ 32   100%  StepSwrd B
+Blue    1620    Locations:  0	32/ 32	100%	( 122, 116,   0)
+                Contents:   0	32/ 32	100%	ExpMemry
+Purple  1621    Locations:  0	32/ 32	100%	(-102,-138,   0)
+                Contents:   0	32/ 32	100%	StepSwrd B
 ----------------------------------------------------------------
 Area 8D 01: Vending Machine Comp
 
-Blue    1622    Locations:  0    32/ 32   100%  (  60, 116,   0)
-                Contents:   0    32/ 32   100%  Battery (yellow)
-Blue    1623    Locations:  0    32/ 32   100%  (  58,-140,   0)
-                Contents:   0    32/ 32   100%  1200z
+Blue    1622    Locations:  0	32/ 32	100%	(  60, 116,   0)
+                Contents:   0	32/ 32	100%	Battery (yellow)
+Blue    1623    Locations:  0	32/ 32	100%	(  58,-140,   0)
+                Contents:   0	32/ 32	100%	1200z
 ----------------------------------------------------------------
 Area 8D 02: Punish Chair Comp
 
-Blue    1624    Locations:  0    32/ 32   100%  (   8, 280,   0)
-                Contents:   0    32/ 32   100%  FullEnrg
-Purple  1625    Locations:  0    32/ 32   100%  (   8,-298,   0)
-                Contents:   0    32/ 32   100%  Guardian O
+Blue    1624    Locations:  0	32/ 32	100%	(   8, 280,   0)
+                Contents:   0	32/ 32	100%	FullEnrg
+Purple  1625    Locations:  0	32/ 32	100%	(   8,-298,   0)
+                Contents:   0	32/ 32	100%	Guardian O
 ----------------------------------------------------------------
 Area 8D 03: Water Machine Comp
 
-Blue    1626    Locations:  0    32/ 32   100%  ( -90,-168,   0)
-                Contents:   0    32/ 32   100%  Barr100  H
+Blue    1626    Locations:  0	32/ 32	100%	( -90,-168,   0)
+                Contents:   0	32/ 32	100%	Barr100  H
 ----------------------------------------------------------------
 Area 8D 04: Symbol Comp
 
-Blue    1628    Locations:  0    32/ 32   100%  ( 232,  -8,   0)
-                Contents:   0    32/ 32   100%  RegUP2
-Blue    1629    Locations:  0    32/ 32   100%  ( -88,-168,   0)
-                Contents:   0    32/ 32   100%  2400z
+Blue    1628    Locations:  0	32/ 32	100%	( 232,  -8,   0)
+                Contents:   0	32/ 32	100%	RegUP2
+Blue    1629    Locations:  0	32/ 32	100%	( -88,-168,   0)
+                Contents:   0	32/ 32	100%	2400z
 ----------------------------------------------------------------
 Area 8D 05: Monitor Comp
 
-Blue    162A    Locations:  0    32/ 32   100%  (-216,  -8,   0)
-                Contents:   0    32/ 32   100%  LocEnemy
+Blue    162A    Locations:  0	32/ 32	100%	(-216,  -8,   0)
+                Contents:   0	32/ 32	100%	LocEnemy
 ----------------------------------------------------------------
 Area 8D 06: Popcorn Shop Comp
 
-Blue    162C    Locations:  0    32/ 32   100%  (   6,-296,   0)
-                Contents:   0    32/ 32   100%  HP Memry
+Blue    162C    Locations:  0	32/ 32	100%	(   6,-296,   0)
+                Contents:   0	32/ 32	100%	HP Memry
 ----------------------------------------------------------------
 Area 8D 07: Teachers' Room Comp
 
-Blue    162E    Locations:  0    32/ 32   100%  (-216,  -8,   0)
-                Contents:   0    32/ 32   100%  RegUP1
-Blue    162F    Locations:  0    32/ 32   100%  (   8, 280,   0)
-                Contents:   0    32/ 32   100%  Charge+1 (white)
+Blue    162E    Locations:  0	32/ 32	100%	(-216,  -8,   0)
+                Contents:   0	32/ 32	100%	RegUP1
+Blue    162F    Locations:  0	32/ 32	100%	(   8, 280,   0)
+                Contents:   0	32/ 32	100%	Charge+1 (white)
 ----------------------------------------------------------------
 Area 8D 08: Pipe Comp
 
-Blue    1630    Locations:  0    32/ 32   100%  ( 120,-136,   0)
-                Contents:   0    32/ 32   100%  IceSeed  A
+Blue    1630    Locations:  0	32/ 32	100%	( 120,-136,   0)
+                Contents:   0	32/ 32	100%	IceSeed  A
 ----------------------------------------------------------------
 Area 8D 09: Observation Comp
 
-Blue    1632    Locations:  0    32/ 32   100%  ( 232,  -8,   0)
-                Contents:   0    32/ 32   100%  RegUP2
-Blue    1633    Locations:  0    32/ 32   100%  (-216,  -8,   0)
-                Contents:   0    32/ 32   100%  3000z
+Blue    1632    Locations:  0	32/ 32	100%	( 232,  -8,   0)
+                Contents:   0	32/ 32	100%	RegUP2
+Blue    1633    Locations:  0	32/ 32	100%	(-216,  -8,   0)
+                Contents:   0	32/ 32	100%	3000z
 ----------------------------------------------------------------
 Area 8D 0A: Oxygen Tank Comp
 
-Blue    1634    Locations:  0    32/ 32   100%  ( 232,  -8,   0)
-                Contents:   0    32/ 32   100%  BugFrag x3
-Purple  1635    Locations:  0    32/ 32   100%  (   6,-296,   0)
-                Contents:   0    32/ 32   100%  BugFix   P
+Blue    1634    Locations:  0	32/ 32	100%	( 232,  -8,   0)
+                Contents:   0	32/ 32	100%	BugFrag x3
+Purple  1635    Locations:  0	32/ 32	100%	(   6,-296,   0)
+                Contents:   0	32/ 32	100%	BugFix   P
 ----------------------------------------------------------------
 Area 8D 0B: Principal's Office Comp
 
-Blue    1636    Locations:  0    32/ 32   100%  (-216,  -8,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Blue    1637    Locations:  0    32/ 32   100%  ( 232,  -8,   0)
-                Contents:   0    32/ 32   100%  HP+400 (white)
+Blue    1636    Locations:  0	32/ 32	100%	(-216,  -8,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Blue    1637    Locations:  0	32/ 32	100%	( 232,  -8,   0)
+                Contents:   0	32/ 32	100%	HP+400 (white)
 ----------------------------------------------------------------
 Area 8D 0C: Mascot Comp
 
-Blue    1638    Locations:  0    32/ 32   100%  (   6,-296,   0)
-                Contents:   0    32/ 32   100%  RegUP1
-Blue    1639    Locations:  0    32/ 32   100%  ( -88, 152,   0)
-                Contents:   0    32/ 32   100%  M-Cannon *
+Blue    1638    Locations:  0	32/ 32	100%	(   6,-296,   0)
+                Contents:   0	32/ 32	100%	RegUP1
+Blue    1639    Locations:  0	32/ 32	100%	( -88, 152,   0)
+                Contents:   0	32/ 32	100%	M-Cannon *
 ----------------------------------------------------------------
 Area 8D 0D: Stuffed Toy Shop Comp
 
-Blue    163A    Locations:  0    32/ 32   100%  ( -90,-168,   0)
-                Contents:   0    32/ 32   100%  DublShot *
-Blue    163B    Locations:  0    32/ 32   100%  ( 104, 152,   0)
-                Contents:   0    32/ 32   100%  WhiCapsl *
+Blue    163A    Locations:  0	32/ 32	100%	( -90,-168,   0)
+                Contents:   0	32/ 32	100%	DublShot *
+Blue    163B    Locations:  0	32/ 32	100%	( 104, 152,   0)
+                Contents:   0	32/ 32	100%	WhiCapsl *
 ----------------------------------------------------------------
 Area 8D 0E: Dog House Comp
 
-Blue    163C    Locations:  0    32/ 32   100%  (-216,  -8,   0)
-                Contents:   0    32/ 32   100%  GoingRd  *
-Blue    163D    Locations:  0    32/ 32   100%  ( 232,  -8,   0)
-                Contents:   0    32/ 32   100%  HP+300 (white)
+Blue    163C    Locations:  0	32/ 32	100%	(-216,  -8,   0)
+                Contents:   0	32/ 32	100%	GoingRd  *
+Blue    163D    Locations:  0	32/ 32	100%	( 232,  -8,   0)
+                Contents:   0	32/ 32	100%	HP+300 (white)
 ----------------------------------------------------------------
 Area 8D 0F: Guide Panel Comp
 
-Blue    163E    Locations:  0    32/ 32   100%  (   8,-296,   0)
-                Contents:   0    32/ 32   100%  TrplShot *
+Blue    163E    Locations:  0	32/ 32	100%	(   8,-296,   0)
+                Contents:   0	32/ 32	100%	TrplShot *
 ----------------------------------------------------------------
 Area 90 00: Central Area 1
 
-Blue    1400    Locations:  0    32/ 32   100%  ( -16,-148,   0)
-                Contents:   0    32/ 32   100%  MiniEnrg
-Blue    1401    Locations:  0    32/ 32   100%  (  78, 146,   0)
-                Contents:   0    32/ 32   100%  5000z
-Green   1402    Locations:  0    32/ 64    50%  (-366,  78,   0)
-                            1    32/ 64    50%  (-366, 208,   0)
-                Contents:   0    32/256  12.5%  Vulcan1  B
-                            1    32/256  12.5%  Recov10  *
-                            2    32/256  12.5%  Sword    L
-                            3    32/256  12.5%  Barrier  A
-                            4    32/256  12.5%  150z
-                            5    32/256  12.5%  200z
-                            6    32/256  12.5%  300z
-                            7    32/256  12.5%  BugFrag x1
-Green   1403    Locations:  0    32/ 64    50%  ( -18, -14,   0)
-                            1    32/ 64    50%  ( 174,-142,   0)
-                Contents:   0    32/256  12.5%  Vulcan1  B
-                            1    32/256  12.5%  Recov10  *
-                            2    32/256  12.5%  Sword    L
-                            3    32/256  12.5%  Barrier  A
-                            4    32/256  12.5%  150z
-                            5    32/256  12.5%  200z
-                            6    32/256  12.5%  300z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1400    Locations:  0	32/ 32	100%	( -16,-148,   0)
+                Contents:   0	32/ 32	100%	MiniEnrg
+Blue    1401    Locations:  0	32/ 32	100%	(  78, 146,   0)
+                Contents:   0	32/ 32	100%	5000z
+Green   1402    Locations:  0	32/ 64    50%  (-366,  78,   0)
+                            1	32/ 64    50%  (-366, 208,   0)
+                Contents:   0	32/256	12.5%	Vulcan1  B
+                            1	32/256	12.5%	Recov10  *
+                            2	32/256	12.5%	Sword    L
+                            3	32/256	12.5%	Barrier  A
+                            4	32/256	12.5%	150z
+                            5	32/256	12.5%	200z
+                            6	32/256	12.5%	300z
+                            7	32/256	12.5%	BugFrag x1
+Green   1403    Locations:  0	32/ 64    50%  ( -18, -14,   0)
+                            1	32/ 64    50%  ( 174,-142,   0)
+                Contents:   0	32/256	12.5%	Vulcan1  B
+                            1	32/256	12.5%	Recov10  *
+                            2	32/256	12.5%	Sword    L
+                            3	32/256	12.5%	Barrier  A
+                            4	32/256	12.5%	150z
+                            5	32/256	12.5%	200z
+                            6	32/256	12.5%	300z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 90 01: Central Area 2
 
-Blue    1408    Locations:  0    32/ 32   100%  ( -86,-168,   0)
-                Contents:   0    32/ 32   100%  RegUP2
-Blue    1409    Locations:  0    32/ 32   100%  (   6, 122,   0)
-                Contents:   0    32/ 32   100%  CopyDmg  *
-Green   140A    Locations:  0    32/ 64    50%  (-246,  86,   0)
-                            1    32/ 64    50%  ( 168,-136,   0)
-                Contents:   0    32/256  12.5%  Thunder  B
-                            1    32/256  12.5%  MiniBomb R
-                            2    32/256  12.5%  WideSwrd S
-                            3    32/256  12.5%  Atk+10   *
-                            4    32/256  12.5%  200z
-                            5    32/256  12.5%  400z
-                            6    32/256  12.5%  600z
-                            7    32/256  12.5%  BugFrag x1
-Green   140B    Locations:  0    32/ 64    50%  (-122,-262,   0)
-                            1    32/ 64    50%  ( 262, 154,   0)
-                Contents:   0    32/256  12.5%  Thunder  B
-                            1    32/256  12.5%  MiniBomb R
-                            2    32/256  12.5%  WideSwrd S
-                            3    32/256  12.5%  Atk+10   *
-                            4    32/256  12.5%  200z
-                            5    32/256  12.5%  400z
-                            6    32/256  12.5%  600z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1408    Locations:  0	32/ 32	100%	( -86,-168,   0)
+                Contents:   0	32/ 32	100%	RegUP2
+Blue    1409    Locations:  0	32/ 32	100%	(   6, 122,   0)
+                Contents:   0	32/ 32	100%	CopyDmg  *
+Green   140A    Locations:  0	32/ 64    50%  (-246,  86,   0)
+                            1	32/ 64    50%  ( 168,-136,   0)
+                Contents:   0	32/256	12.5%	Thunder  B
+                            1	32/256	12.5%	MiniBomb R
+                            2	32/256	12.5%	WideSwrd S
+                            3	32/256	12.5%	Atk+10   *
+                            4	32/256	12.5%	200z
+                            5	32/256	12.5%	400z
+                            6	32/256	12.5%	600z
+                            7	32/256	12.5%	BugFrag x1
+Green   140B    Locations:  0	32/ 64    50%  (-122,-262,   0)
+                            1	32/ 64    50%  ( 262, 154,   0)
+                Contents:   0	32/256	12.5%	Thunder  B
+                            1	32/256	12.5%	MiniBomb R
+                            2	32/256	12.5%	WideSwrd S
+                            3	32/256	12.5%	Atk+10   *
+                            4	32/256	12.5%	200z
+                            5	32/256	12.5%	400z
+                            6	32/256	12.5%	600z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 90 02: Central Area 3
 
-Blue    1410    Locations:  0    32/ 32   100%  (-296,-152, 144)
-                Contents:   0    32/ 32   100%  HiCannon L
-Purple  1411    Locations:  0    32/ 32   100%  ( -74,-118,   0)
-                Contents:   0    32/ 32   100%  ElecSwrd E
-Green   1412    Locations:  0    32/ 64    50%  ( 214, 234,   0)
-                            1    32/ 64    50%  (-234, 234,   0)
-                Contents:   0    32/256  12.5%  Spreadr1 N
-                            1    32/256  12.5%  LongSwrd H
-                            2    32/256  12.5%  Recov30  Q
-                            3    32/256  12.5%  Vulcan1  D
-                            4    32/256  12.5%  300z
-                            5    32/256  12.5%  400z
-                            6    32/256  12.5%  700z
-                            7    32/256  12.5%  BugFrag x1
-Green   1413    Locations:  0    32/ 64    50%  (-234,-214,   0)
-                            1    32/ 64    50%  ( 214,-214,   0)
-                Contents:   0    32/256  12.5%  Spreadr1 N
-                            1    32/256  12.5%  LongSwrd H
-                            2    32/256  12.5%  Recov30  Q
-                            3    32/256  12.5%  Vulcan1  D
-                            4    32/256  12.5%  300z
-                            5    32/256  12.5%  400z
-                            6    32/256  12.5%  700z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1410    Locations:  0	32/ 32	100%	(-296,-152, 144)
+                Contents:   0	32/ 32	100%	HiCannon L
+Purple  1411    Locations:  0	32/ 32	100%	( -74,-118,   0)
+                Contents:   0	32/ 32	100%	ElecSwrd E
+Green   1412    Locations:  0	32/ 64    50%  ( 214, 234,   0)
+                            1	32/ 64    50%  (-234, 234,   0)
+                Contents:   0	32/256	12.5%	Spreadr1 N
+                            1	32/256	12.5%	LongSwrd H
+                            2	32/256	12.5%	Recov30  Q
+                            3	32/256	12.5%	Vulcan1  D
+                            4	32/256	12.5%	300z
+                            5	32/256	12.5%	400z
+                            6	32/256	12.5%	700z
+                            7	32/256	12.5%	BugFrag x1
+Green   1413    Locations:  0	32/ 64    50%  (-234,-214,   0)
+                            1	32/ 64    50%  ( 214,-214,   0)
+                Contents:   0	32/256	12.5%	Spreadr1 N
+                            1	32/256	12.5%	LongSwrd H
+                            2	32/256	12.5%	Recov30  Q
+                            3	32/256	12.5%	Vulcan1  D
+                            4	32/256	12.5%	300z
+                            5	32/256	12.5%	400z
+                            6	32/256	12.5%	700z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 91 00: Seaside Area 1
 
-Blue    1420    Locations:  0    32/ 32   100%  ( 390,-280,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Blue    1421    Locations:  0    32/ 32   100%  ( 358,   8,   0)
-                Contents:   0    32/ 32   100%  HP+200 (blue)
-Green   1422    Locations:  0    32/ 64    50%  (-152,-216,  64)
-                            1    32/ 64    50%  (-344,   8,  64)
-                Contents:   0    32/256  12.5%  Spreadr1 *
-                            1    32/256  12.5%  HiCannon N
-                            2    32/256  12.5%  Recov50  C
-                            3    32/256  12.5%  Rflectr1 A
-                            4    32/256  12.5%  350z
-                            5    32/256  12.5%  500z
-                            6    32/256  12.5%  800z
-                            7    32/256  12.5%  BugFrag x1
-Green   1423    Locations:  0    32/ 64    50%  (-284, 204,   0)
-                            1    32/ 64    50%  ( 230,-150,   0)
-                Contents:   0    32/256  12.5%  Spreadr1 *
-                            1    32/256  12.5%  HiCannon N
-                            2    32/256  12.5%  Recov50  C
-                            3    32/256  12.5%  Rflectr1 A
-                            4    32/256  12.5%  350z
-                            5    32/256  12.5%  500z
-                            6    32/256  12.5%  800z
-                            7    32/256  12.5%  BugFrag x1
-Blue    1424    Locations:  0    32/ 32   100%  ( 358,-118,   0)
-                Contents:   0    32/ 32   100%  SubMemry
+Blue    1420    Locations:  0	32/ 32	100%	( 390,-280,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Blue    1421    Locations:  0	32/ 32	100%	( 358,   8,   0)
+                Contents:   0	32/ 32	100%	HP+200 (blue)
+Green   1422    Locations:  0	32/ 64    50%  (-152,-216,  64)
+                            1	32/ 64    50%  (-344,   8,  64)
+                Contents:   0	32/256	12.5%	Spreadr1 *
+                            1	32/256	12.5%	HiCannon N
+                            2	32/256	12.5%	Recov50  C
+                            3	32/256	12.5%	Rflectr1 A
+                            4	32/256	12.5%	350z
+                            5	32/256	12.5%	500z
+                            6	32/256	12.5%	800z
+                            7	32/256	12.5%	BugFrag x1
+Green   1423    Locations:  0	32/ 64    50%  (-284, 204,   0)
+                            1	32/ 64    50%  ( 230,-150,   0)
+                Contents:   0	32/256	12.5%	Spreadr1 *
+                            1	32/256	12.5%	HiCannon N
+                            2	32/256	12.5%	Recov50  C
+                            3	32/256	12.5%	Rflectr1 A
+                            4	32/256	12.5%	350z
+                            5	32/256	12.5%	500z
+                            6	32/256	12.5%	800z
+                            7	32/256	12.5%	BugFrag x1
+Blue    1424    Locations:  0	32/ 32	100%	( 358,-118,   0)
+                Contents:   0	32/ 32	100%	SubMemry
 ----------------------------------------------------------------
 Area 91 01: Seaside Area 2
 
-Blue    1428    Locations:  0    32/ 32   100%  ( 360,   8,   0)
-                Contents:   0    32/ 32   100%  PnlRetrn *
-Blue    1429    Locations:  0    32/ 32   100%  (  38, -86,   0)
-                Contents:   0    32/ 32   100%  Vulcan2  D
-Green   142A    Locations:  0    32/ 64    50%  (-188,-214,   0)
-                            1    32/ 64    50%  (-346, 138,   0)
-                Contents:   0    32/256  12.5%  BusterUp *
-                            1    32/256  12.5%  Invisibl *
-                            2    32/256  12.5%  FireHit1 F
-                            3    32/256  12.5%  EnergBom V
-                            4    32/256  12.5%  500z
-                            5    32/256  12.5%  600z
-                            6    32/256  12.5%  1000z
-                            7    32/256  12.5%  BugFrag x1
-Green   142B    Locations:  0    32/ 64    50%  ( 422,-246,   0)
-                            1    32/ 64    50%  ( 100, 300,   0)
-                Contents:   0    32/256  12.5%  BusterUp *
-                            1    32/256  12.5%  Invisibl *
-                            2    32/256  12.5%  FireHit1 F
-                            3    32/256  12.5%  EnergBom V
-                            4    32/256  12.5%  500z
-                            5    32/256  12.5%  600z
-                            6    32/256  12.5%  1000z
-                            7    32/256  12.5%  BugFrag x1
-Blue    142C    Locations:  0    32/ 32   100%  (   6, 330,   0)
-                Contents:   0    32/ 32   100%  Attack+1 (red)
+Blue    1428    Locations:  0	32/ 32	100%	( 360,   8,   0)
+                Contents:   0	32/ 32	100%	PnlRetrn *
+Blue    1429    Locations:  0	32/ 32	100%	(  38, -86,   0)
+                Contents:   0	32/ 32	100%	Vulcan2  D
+Green   142A    Locations:  0	32/ 64    50%  (-188,-214,   0)
+                            1	32/ 64    50%  (-346, 138,   0)
+                Contents:   0	32/256	12.5%	BusterUp *
+                            1	32/256	12.5%	Invisibl *
+                            2	32/256	12.5%	FireHit1 F
+                            3	32/256	12.5%	EnergBom V
+                            4	32/256	12.5%	500z
+                            5	32/256	12.5%	600z
+                            6	32/256	12.5%	1000z
+                            7	32/256	12.5%	BugFrag x1
+Green   142B    Locations:  0	32/ 64    50%  ( 422,-246,   0)
+                            1	32/ 64    50%  ( 100, 300,   0)
+                Contents:   0	32/256	12.5%	BusterUp *
+                            1	32/256	12.5%	Invisibl *
+                            2	32/256	12.5%	FireHit1 F
+                            3	32/256	12.5%	EnergBom V
+                            4	32/256	12.5%	500z
+                            5	32/256	12.5%	600z
+                            6	32/256	12.5%	1000z
+                            7	32/256	12.5%	BugFrag x1
+Blue    142C    Locations:  0	32/ 32	100%	(   6, 330,   0)
+                Contents:   0	32/ 32	100%	Attack+1 (red)
 ----------------------------------------------------------------
 Area 91 02: Seaside Area 3
 
-Blue    1430    Locations:  0    32/ 32   100%  ( -66, 210,   0)
-                Contents:   0    32/ 32   100%  RegUP2
-Purple  1431    Locations:  0    32/ 32   100%  ( 190,-526,   0)
-                Contents:   0    32/ 32   100%  WideBlde B
-Green   1432    Locations:  0    32/ 64    50%  (  -2,-430,   0)
-                            1    32/ 64    50%  ( 284,-236,   0)
-                Contents:   0    32/256  12.5%  FireBrn1 H
-                            1    32/256  12.5%  MachGun1 T
-                            2    32/256  12.5%  TrplShot L
-                            3    32/256  12.5%  PanlGrab *
-                            4    32/256  12.5%  450z
-                            5    32/256  12.5%  800z
-                            6    32/256  12.5%  1200z
-                            7    32/256  12.5%  BugFrag x1
-Green   1433    Locations:  0    32/ 64    50%  (-130,-238,   0)
-                            1    32/ 64    50%  ( 188,-206,   0)
-                Contents:   0    32/256  12.5%  FireBrn1 H
-                            1    32/256  12.5%  MachGun1 T
-                            2    32/256  12.5%  TrplShot L
-                            3    32/256  12.5%  PanlGrab *
-                            4    32/256  12.5%  450z
-                            5    32/256  12.5%  800z
-                            6    32/256  12.5%  1200z
-                            7    32/256  12.5%  BugFrag x1
+Blue    1430    Locations:  0	32/ 32	100%	( -66, 210,   0)
+                Contents:   0	32/ 32	100%	RegUP2
+Purple  1431    Locations:  0	32/ 32	100%	( 190,-526,   0)
+                Contents:   0	32/ 32	100%	WideBlde B
+Green   1432    Locations:  0	32/ 64    50%  (  -2,-430,   0)
+                            1	32/ 64    50%  ( 284,-236,   0)
+                Contents:   0	32/256	12.5%	FireBrn1 H
+                            1	32/256	12.5%	MachGun1 T
+                            2	32/256	12.5%	TrplShot L
+                            3	32/256	12.5%	PanlGrab *
+                            4	32/256	12.5%	450z
+                            5	32/256	12.5%	800z
+                            6	32/256	12.5%	1200z
+                            7	32/256	12.5%	BugFrag x1
+Green   1433    Locations:  0	32/ 64    50%  (-130,-238,   0)
+                            1	32/ 64    50%  ( 188,-206,   0)
+                Contents:   0	32/256	12.5%	FireBrn1 H
+                            1	32/256	12.5%	MachGun1 T
+                            2	32/256	12.5%	TrplShot L
+                            3	32/256	12.5%	PanlGrab *
+                            4	32/256	12.5%	450z
+                            5	32/256	12.5%	800z
+                            6	32/256	12.5%	1200z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 92 00: Green Area 1
 
-Blue    1440    Locations:  0    32/ 32   100%  (-306, -48,   0)
-                Contents:   0    32/ 32   100%  Spreadr2 C
-Purple  1441    Locations:  0    32/ 32   100%  (  80, 462,   0)
-                Contents:   0    32/ 32   100%  Lance    W
-Green   1442    Locations:  0    32/ 64    50%  (-176, 368,   0)
-                            1    32/ 64    50%  (-112, 368,   0)
-                Contents:   0    32/256  12.5%  HiCannon M
-                            1    32/256  12.5%  Vulcan2  L
-                            2    32/256  12.5%  GrasSeed S
-                            3    32/256  12.5%  Recov80  V
-                            4    32/256  12.5%  500z
-                            5    32/256  12.5%  920z
-                            6    32/256  12.5%  1300z
-                            7    32/256  12.5%  BugFrag x1
-Green   1443    Locations:  0    32/ 64    50%  ( 368, -48,   0)
-                            1    32/ 64    50%  ( 366, 210,   0)
-                Contents:   0    32/256  12.5%  HiCannon M
-                            1    32/256  12.5%  Vulcan2  L
-                            2    32/256  12.5%  GrasSeed S
-                            3    32/256  12.5%  Recov80  V
-                            4    32/256  12.5%  500z
-                            5    32/256  12.5%  920z
-                            6    32/256  12.5%  1300z
-                            7    32/256  12.5%  BugFrag x1
-Blue    1444    Locations:  0    32/ 32   100%  ( 430,-174,  32)
-                Contents:   0    32/ 32   100%  HP+100 (pink)
+Blue    1440    Locations:  0	32/ 32	100%	(-306, -48,   0)
+                Contents:   0	32/ 32	100%	Spreadr2 C
+Purple  1441    Locations:  0	32/ 32	100%	(  80, 462,   0)
+                Contents:   0	32/ 32	100%	Lance    W
+Green   1442    Locations:  0	32/ 64    50%  (-176, 368,   0)
+                            1	32/ 64    50%  (-112, 368,   0)
+                Contents:   0	32/256	12.5%	HiCannon M
+                            1	32/256	12.5%	Vulcan2  L
+                            2	32/256	12.5%	GrasSeed S
+                            3	32/256	12.5%	Recov80  V
+                            4	32/256	12.5%	500z
+                            5	32/256	12.5%	920z
+                            6	32/256	12.5%	1300z
+                            7	32/256	12.5%	BugFrag x1
+Green   1443    Locations:  0	32/ 64    50%  ( 368, -48,   0)
+                            1	32/ 64    50%  ( 366, 210,   0)
+                Contents:   0	32/256	12.5%	HiCannon M
+                            1	32/256	12.5%	Vulcan2  L
+                            2	32/256	12.5%	GrasSeed S
+                            3	32/256	12.5%	Recov80  V
+                            4	32/256	12.5%	500z
+                            5	32/256	12.5%	920z
+                            6	32/256	12.5%	1300z
+                            7	32/256	12.5%	BugFrag x1
+Blue    1444    Locations:  0	32/ 32	100%	( 430,-174,  32)
+                Contents:   0	32/ 32	100%	HP+100 (pink)
 ----------------------------------------------------------------
 Area 92 01: Green Area 2
 
-Blue    1448    Locations:  0    32/ 32   100%  ( 392, -72,  32)
-                Contents:   0    32/ 32   100%  Speed+1 (green)
-Blue    1449    Locations:  0    32/ 32   100%  (-442, 346,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Green   144A    Locations:  0    32/ 64    50%  (-314, 250,   0)
-                            1    32/ 64    50%  (-120,-424,   0)
-                Contents:   0    32/256  12.5%  Spreadr2 B  (Trap)
-                            1    32/256  12.5%  WideSwrd *  (Trap)
-                            2    32/256  12.5%  MegEnBom O
-                            3    32/256  12.5%  RockCube *
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  1380z
-                            7    32/256  12.5%  BugFrag x1
-Green   144B    Locations:  0    32/ 64    50%  (-250, 538,   0)
-                            1    32/ 64    50%  (  38, 506,   0)
-                Contents:   0    32/256  12.5%  Spreadr2 B  (Trap)
-                            1    32/256  12.5%  WideSwrd *  (Trap)
-                            2    32/256  12.5%  MegEnBom O
-                            3    32/256  12.5%  RockCube *
-                            4    32/256  12.5%  600z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  1380z
-                            7    32/256  12.5%  BugFrag x1
-Blue    144C    Locations:  0    32/ 32   100%  ( 392,-200,  32)
-                Contents:   0    32/ 32   100%  HolyPanl A
+Blue    1448    Locations:  0	32/ 32	100%	( 392, -72,  32)
+                Contents:   0	32/ 32	100%	Speed+1 (green)
+Blue    1449    Locations:  0	32/ 32	100%	(-442, 346,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Green   144A    Locations:  0	32/ 64    50%  (-314, 250,   0)
+                            1	32/ 64    50%  (-120,-424,   0)
+                Contents:   0	32/256	12.5%	Spreadr2 B	(Trap)
+                            1	32/256	12.5%	WideSwrd *	(Trap)
+                            2	32/256	12.5%	MegEnBom O
+                            3	32/256	12.5%	RockCube *
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	1380z
+                            7	32/256	12.5%	BugFrag x1
+Green   144B    Locations:  0	32/ 64    50%  (-250, 538,   0)
+                            1	32/ 64    50%  (  38, 506,   0)
+                Contents:   0	32/256	12.5%	Spreadr2 B	(Trap)
+                            1	32/256	12.5%	WideSwrd *	(Trap)
+                            2	32/256	12.5%	MegEnBom O
+                            3	32/256	12.5%	RockCube *
+                            4	32/256	12.5%	600z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	1380z
+                            7	32/256	12.5%	BugFrag x1
+Blue    144C    Locations:  0	32/ 32	100%	( 392,-200,  32)
+                Contents:   0	32/ 32	100%	HolyPanl A
 ----------------------------------------------------------------
 Area 93 00: Underground 1
 
-Purple  1460    Locations:  0    32/ 32   100%  (   2,-436,  64)
-                Contents:   0    32/ 32   100%  CircGun  P
-Purple  1461    Locations:  0    32/ 32   100%  (-222,-276,   0)
-                Contents:   0    32/ 32   100%  AirShoes (white)
-Green   1462    Locations:  0    32/ 64    50%  ( 162, 398,   0)
-                            1    32/ 64    50%  ( 484,  44,   0)
-                Contents:   0    32/256  12.5%  GunDelS1 T
-                            1    32/256  12.5%  WideSht  Q
-                            2    32/256  12.5%  WaveArm1 F
-                            3    32/256  12.5%  BblStar1 E
-                            4    32/256  12.5%  480z
-                            5    32/256  12.5%  1100z
-                            6    32/256  12.5%  1450z
-                            7    32/256  12.5%  BugFrag x1
-Green   1463    Locations:  0    32/ 64    50%  ( 386,-338,   0)
-                            1    32/ 64    50%  (-320, -16,   0)
-                Contents:   0    32/256  12.5%  GunDelS1 T
-                            1    32/256  12.5%  WideSht  Q
-                            2    32/256  12.5%  WaveArm1 F
-                            3    32/256  12.5%  BblStar1 E
-                            4    32/256  12.5%  480z
-                            5    32/256  12.5%  1100z
-                            6    32/256  12.5%  1450z
-                            7    32/256  12.5%  BugFrag x1
+Purple  1460    Locations:  0	32/ 32	100%	(   2,-436,  64)
+                Contents:   0	32/ 32	100%	CircGun  P
+Purple  1461    Locations:  0	32/ 32	100%	(-222,-276,   0)
+                Contents:   0	32/ 32	100%	AirShoes (white)
+Green   1462    Locations:  0	32/ 64    50%  ( 162, 398,   0)
+                            1	32/ 64    50%  ( 484,  44,   0)
+                Contents:   0	32/256	12.5%	GunDelS1 T
+                            1	32/256	12.5%	WideSht  Q
+                            2	32/256	12.5%	WaveArm1 F
+                            3	32/256	12.5%	BblStar1 E
+                            4	32/256	12.5%	480z
+                            5	32/256	12.5%	1100z
+                            6	32/256	12.5%	1450z
+                            7	32/256	12.5%	BugFrag x1
+Green   1463    Locations:  0	32/ 64    50%  ( 386,-338,   0)
+                            1	32/ 64    50%  (-320, -16,   0)
+                Contents:   0	32/256	12.5%	GunDelS1 T
+                            1	32/256	12.5%	WideSht  Q
+                            2	32/256	12.5%	WaveArm1 F
+                            3	32/256	12.5%	BblStar1 E
+                            4	32/256	12.5%	480z
+                            5	32/256	12.5%	1100z
+                            6	32/256	12.5%	1450z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 93 01: Underground 2
 
-Blue    1468    Locations:  0    32/ 32   100%  ( 458,  86,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Green   146A    Locations:  0    32/ 64    50%  ( 458, -74,   0)
-                            1    32/ 64    50%  ( 106,-170,   0)
-                Contents:   0    32/256  12.5%  WideSht  R  (Trap)
-                            1    32/256  12.5%  CornSht1 L  (Trap)
-                            2    32/256  12.5%  Boomer   J
-                            3    32/256  12.5%  LongSwrd *
-                            4    32/256  12.5%  520z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  2000z
-                            7    32/256  12.5%  BugFrag x1
-Green   146B    Locations:  0    32/ 64    50%  (-276, -44,   0)
-                            1    32/ 64    50%  (-340, 340,   0)
-                Contents:   0    32/256  12.5%  WideSht  R  (Trap)
-                            1    32/256  12.5%  CornSht1 L  (Trap)
-                            2    32/256  12.5%  Boomer   J
-                            3    32/256  12.5%  LongSwrd *
-                            4    32/256  12.5%  520z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  2000z
-                            7    32/256  12.5%  BugFrag x1
-Blue    146C    Locations:  0    32/ 32   100%  (-342, 150,   0)
-                Contents:   0    32/ 32   100%  SubMemry
+Blue    1468    Locations:  0	32/ 32	100%	( 458,  86,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Green   146A    Locations:  0	32/ 64    50%  ( 458, -74,   0)
+                            1	32/ 64    50%  ( 106,-170,   0)
+                Contents:   0	32/256	12.5%	WideSht  R	(Trap)
+                            1	32/256	12.5%	CornSht1 L	(Trap)
+                            2	32/256	12.5%	Boomer   J
+                            3	32/256	12.5%	LongSwrd *
+                            4	32/256	12.5%	520z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	2000z
+                            7	32/256	12.5%	BugFrag x1
+Green   146B    Locations:  0	32/ 64    50%  (-276, -44,   0)
+                            1	32/ 64    50%  (-340, 340,   0)
+                Contents:   0	32/256	12.5%	WideSht  R	(Trap)
+                            1	32/256	12.5%	CornSht1 L	(Trap)
+                            2	32/256	12.5%	Boomer   J
+                            3	32/256	12.5%	LongSwrd *
+                            4	32/256	12.5%	520z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	2000z
+                            7	32/256	12.5%	BugFrag x1
+Blue    146C    Locations:  0	32/ 32	100%	(-342, 150,   0)
+                Contents:   0	32/ 32	100%	SubMemry
 ----------------------------------------------------------------
 Area 94 00: Sky Area 1
 
-Blue    1480    Locations:  0    32/ 32   100%  (  62,-158, 128)
-                Contents:   0    32/ 32   100%  HP+100 (blue)
-Purple  1481    Locations:  0    32/ 32   100%  ( 254,  98,   0)
-                Contents:   0    32/ 32   100%  SpinBlue
-Green   1482    Locations:  0    32/ 64    50%  ( 254,-190, 128)
-                            1    32/ 64    50%  (-386, 322,  32)
-                Contents:   0    32/256  12.5%  MegEnBom G
-                            1    32/256  12.5%  TrnArrw1 A
-                            2    32/256  12.5%  DublShot R
-                            3    32/256  12.5%  AreaGrab F
-                            4    32/256  12.5%  300z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  1420z
-                            7    32/256  12.5%  BugFrag x1
-Green   1483    Locations:  0    32/ 64    50%  (  28, 292,   0)
-                            1    32/ 64    50%  (-290, -94,  32)
-                Contents:   0    32/256  12.5%  MegEnBom G
-                            1    32/256  12.5%  TrnArrw1 A
-                            2    32/256  12.5%  DublShot R
-                            3    32/256  12.5%  AreaGrab F
-                            4    32/256  12.5%  300z
-                            5    32/256  12.5%  1000z
-                            6    32/256  12.5%  1420z
-                            7    32/256  12.5%  BugFrag x1
-Blue    1484    Locations:  0    32/ 32   100%  (-514, 194,  32)
-                Contents:   0    32/ 32   100%  ColArmy  B
+Blue    1480    Locations:  0	32/ 32	100%	(  62,-158, 128)
+                Contents:   0	32/ 32	100%	HP+100 (blue)
+Purple  1481    Locations:  0	32/ 32	100%	( 254,  98,   0)
+                Contents:   0	32/ 32	100%	SpinBlue
+Green   1482    Locations:  0	32/ 64    50%  ( 254,-190, 128)
+                            1	32/ 64    50%  (-386, 322,  32)
+                Contents:   0	32/256	12.5%	MegEnBom G
+                            1	32/256	12.5%	TrnArrw1 A
+                            2	32/256	12.5%	DublShot R
+                            3	32/256	12.5%	AreaGrab F
+                            4	32/256	12.5%	300z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	1420z
+                            7	32/256	12.5%	BugFrag x1
+Green   1483    Locations:  0	32/ 64    50%  (  28, 292,   0)
+                            1	32/ 64    50%  (-290, -94,  32)
+                Contents:   0	32/256	12.5%	MegEnBom G
+                            1	32/256	12.5%	TrnArrw1 A
+                            2	32/256	12.5%	DublShot R
+                            3	32/256	12.5%	AreaGrab F
+                            4	32/256	12.5%	300z
+                            5	32/256	12.5%	1000z
+                            6	32/256	12.5%	1420z
+                            7	32/256	12.5%	BugFrag x1
+Blue    1484    Locations:  0	32/ 32	100%	(-514, 194,  32)
+                Contents:   0	32/ 32	100%	ColArmy  B
 ----------------------------------------------------------------
 Area 94 01: Sky Area 2
 
-Blue    1488    Locations:  0    32/ 32   100%  (-508, -36,  32)
-                Contents:   0    32/ 32   100%  M-Cannon S
-Blue    1489    Locations:  0    32/ 32   100%  (  38,  -8,  64)
-                Contents:   0    32/ 32   100%  RegUP3
-Green   148A    Locations:  0    32/ 64    50%  ( -58,  58,   0)
-                            1    32/ 64    50%  (-186,  90,  32)
-                Contents:   0    32/256  12.5%  Vulcan3  G  (Trap)
-                            1    32/256  12.5%  DolThdr1 E  (Trap)
-                            2    32/256  12.5%  AirHocky L
-                            3    32/256  12.5%  Recov80  *
-                            4    32/256  12.5%  560z
-                            5    32/256  12.5%  970z
-                            6    32/256  12.5%  1440z
-                            7    32/256  12.5%  BugFrag x1
-Green   148B    Locations:  0    32/ 64    50%  ( 132,-164,  64)
-                            1    32/ 64    50%  (-314,-198,  32)
-                Contents:   0    32/256  12.5%  Vulcan3  G  (Trap)
-                            1    32/256  12.5%  DolThdr1 E  (Trap)
-                            2    32/256  12.5%  AirHocky L
-                            3    32/256  12.5%  Recov80  *
-                            4    32/256  12.5%  560z
-                            5    32/256  12.5%  970z
-                            6    32/256  12.5%  1440z
-                            7    32/256  12.5%  BugFrag x1
-Blue    148C    Locations:  0    32/ 32   100%  (-186, 282,   0)
-                Contents:   0    32/ 32   100%  DblPoint *
+Blue    1488    Locations:  0	32/ 32	100%	(-508, -36,  32)
+                Contents:   0	32/ 32	100%	M-Cannon S
+Blue    1489    Locations:  0	32/ 32	100%	(  38,  -8,  64)
+                Contents:   0	32/ 32	100%	RegUP3
+Green   148A    Locations:  0	32/ 64    50%  ( -58,  58,   0)
+                            1	32/ 64    50%  (-186,  90,  32)
+                Contents:   0	32/256	12.5%	Vulcan3  G	(Trap)
+                            1	32/256	12.5%	DolThdr1 E	(Trap)
+                            2	32/256	12.5%	AirHocky L
+                            3	32/256	12.5%	Recov80  *
+                            4	32/256	12.5%	560z
+                            5	32/256	12.5%	970z
+                            6	32/256	12.5%	1440z
+                            7	32/256	12.5%	BugFrag x1
+Green   148B    Locations:  0	32/ 64    50%  ( 132,-164,  64)
+                            1	32/ 64    50%  (-314,-198,  32)
+                Contents:   0	32/256	12.5%	Vulcan3  G	(Trap)
+                            1	32/256	12.5%	DolThdr1 E	(Trap)
+                            2	32/256	12.5%	AirHocky L
+                            3	32/256	12.5%	Recov80  *
+                            4	32/256	12.5%	560z
+                            5	32/256	12.5%	970z
+                            6	32/256	12.5%	1440z
+                            7	32/256	12.5%	BugFrag x1
+Blue    148C    Locations:  0	32/ 32	100%	(-186, 282,   0)
+                Contents:   0	32/ 32	100%	DblPoint *
 ----------------------------------------------------------------
 Area 94 02: ACDC Area
 
-Blue    1490    Locations:  0    32/ 32   100%  ( 512,-288,   0)
-                Contents:   0    32/ 32   100%  SpinWhit
-Purple  1491    Locations:  0    32/ 32   100%  (-418,-160,   0)
-                Contents:   0    32/ 32   100%  Atk+30   *
-Green   1492    Locations:  0    32/ 64    50%  (-270,-288,   0)
-                            1    32/ 64    50%  (-384, 384,   0)
-                Contents:   0    32/256  12.5%  IronShl1 K  (Trap)
-                            1    32/256  12.5%  GolmHit1 K  (Trap)
-                            2    32/256  12.5%  TimeBom1 F
-                            3    32/256  12.5%  MagCoil  *
-                            4    32/256  12.5%  650z
-                            5    32/256  12.5%  1180z
-                            6    32/256  12.5%  1650z
-                            7    32/256  12.5%  BugFrag x1
-Green   1493    Locations:  0    32/ 64    50%  (   0,-288,   0)
-                            1    32/ 64    50%  ( 222, 322,   0)
-                Contents:   0    32/256  12.5%  IronShl1 K  (Trap)
-                            1    32/256  12.5%  GolmHit1 K  (Trap)
-                            2    32/256  12.5%  TimeBom1 F
-                            3    32/256  12.5%  MagCoil  *
-                            4    32/256  12.5%  650z
-                            5    32/256  12.5%  1180z
-                            6    32/256  12.5%  1650z
-                            7    32/256  12.5%  BugFrag x1
-Blue    1494    Locations:  0    32/ 32   100%  (  30, 384,   0)
-                Contents:   0    32/ 32   100%  HP+300 (green)
+Blue    1490    Locations:  0	32/ 32	100%	( 512,-288,   0)
+                Contents:   0	32/ 32	100%	SpinWhit
+Purple  1491    Locations:  0	32/ 32	100%	(-418,-160,   0)
+                Contents:   0	32/ 32	100%	Atk+30   *
+Green   1492    Locations:  0	32/ 64    50%  (-270,-288,   0)
+                            1	32/ 64    50%  (-384, 384,   0)
+                Contents:   0	32/256	12.5%	IronShl1 K	(Trap)
+                            1	32/256	12.5%	GolmHit1 K	(Trap)
+                            2	32/256	12.5%	TimeBom1 F
+                            3	32/256	12.5%	MagCoil  *
+                            4	32/256	12.5%	650z
+                            5	32/256	12.5%	1180z
+                            6	32/256	12.5%	1650z
+                            7	32/256	12.5%	BugFrag x1
+Green   1493    Locations:  0	32/ 64    50%  (   0,-288,   0)
+                            1	32/ 64    50%  ( 222, 322,   0)
+                Contents:   0	32/256	12.5%	IronShl1 K	(Trap)
+                            1	32/256	12.5%	GolmHit1 K	(Trap)
+                            2	32/256	12.5%	TimeBom1 F
+                            3	32/256	12.5%	MagCoil  *
+                            4	32/256	12.5%	650z
+                            5	32/256	12.5%	1180z
+                            6	32/256	12.5%	1650z
+                            7	32/256	12.5%	BugFrag x1
+Blue    1494    Locations:  0	32/ 32	100%	(  30, 384,   0)
+                Contents:   0	32/ 32	100%	HP+300 (green)
 ----------------------------------------------------------------
 Area 95 00: Undernet 1
 
-Blue    14A0    Locations:  0    32/ 32   100%  ( 424, 120,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Purple  14A1    Locations:  0    32/ 32   100%  (-374,-198,   0)
-                Contents:   0    32/ 32   100%  Muramasa M
-Green   14A2    Locations:  0    32/ 64    50%  (   9, 280,   0)
-                            1    32/ 64    50%  (-504, 248,   0)
-                Contents:   0    32/256  12.5%  PnlRetrn *
-                            1    32/256  12.5%  Recov120 S
-                            2    32/256  12.5%  StepSwrd P
-                            3    32/256  12.5%  GoingRd  *
-                            4    32/256  12.5%  900z
-                            5    32/256  12.5%  1200z
-                            6    32/256  12.5%  1500z
-                            7    32/256  12.5%  BugFrag x1
-Green   14A3    Locations:  0    32/ 64    50%  (  40, -72,   0)
-                            1    32/ 64    50%  ( 200, 376,   0)
-                Contents:   0    32/256  12.5%  PnlRetrn *
-                            1    32/256  12.5%  Recov120 S
-                            2    32/256  12.5%  StepSwrd P
-                            3    32/256  12.5%  GoingRd  *
-                            4    32/256  12.5%  900z
-                            5    32/256  12.5%  1200z
-                            6    32/256  12.5%  1500z
-                            7    32/256  12.5%  BugFrag x1
+Blue    14A0    Locations:  0	32/ 32	100%	( 424, 120,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Purple  14A1    Locations:  0	32/ 32	100%	(-374,-198,   0)
+                Contents:   0	32/ 32	100%	Muramasa M
+Green   14A2    Locations:  0	32/ 64    50%  (   9, 280,   0)
+                            1	32/ 64    50%  (-504, 248,   0)
+                Contents:   0	32/256	12.5%	PnlRetrn *
+                            1	32/256	12.5%	Recov120 S
+                            2	32/256	12.5%	StepSwrd P
+                            3	32/256	12.5%	GoingRd  *
+                            4	32/256	12.5%	900z
+                            5	32/256	12.5%	1200z
+                            6	32/256	12.5%	1500z
+                            7	32/256	12.5%	BugFrag x1
+Green   14A3    Locations:  0	32/ 64    50%  (  40, -72,   0)
+                            1	32/ 64    50%  ( 200, 376,   0)
+                Contents:   0	32/256	12.5%	PnlRetrn *
+                            1	32/256	12.5%	Recov120 S
+                            2	32/256	12.5%	StepSwrd P
+                            3	32/256	12.5%	GoingRd  *
+                            4	32/256	12.5%	900z
+                            5	32/256	12.5%	1200z
+                            6	32/256	12.5%	1500z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 95 01: Undernet Zero
 
-Blue    14A8    Locations:  0    32/ 32   100%  (-512, 192,   0)
-                Contents:   0    32/ 32   100%  VDoll    F
-Blue    14A9    Locations:  0    32/ 32   100%  (-512, -64,   0)
-                Contents:   0    32/ 32   100%  Recov150 M
-Blue    14AA    Locations:  0    32/ 32   100%  (  96, 512,   0)
-                Contents:   0    32/ 32   100%  RegUP3
-Green   14AB    Locations:  0    32/ 64    50%  ( 288,-512,   0)
-                            1    32/ 64    50%  (-288,-384,   0)
-                Contents:   0    32/256  12.5%  GunDelS1 M  (Trap)
-                            1    32/256  12.5%  AirSpin1 G  (Trap)
-                            2    32/256  12.5%  GrasSeed *
-                            3    32/256  12.5%  ComingRd *
-                            4    32/256  12.5%  700z
-                            5    32/256  12.5%  1300z
-                            6    32/256  12.5%  1600z
-                            7    32/256  12.5%  BugFrag x1
-Green   14AC    Locations:  0    32/ 64    50%  ( 320, 352,   0)
-                            1    32/ 64    50%  (-352,  96,   0)
-                Contents:   0    32/256  12.5%  GunDelS1 M
-                            1    32/256  12.5%  AirSpin1 G
-                            2    32/256  12.5%  GrasSeed *  (Trap)
-                            3    32/256  12.5%  ComingRd *  (Trap)
-                            4    32/256  12.5%  700z
-                            5    32/256  12.5%  1300z
-                            6    32/256  12.5%  1600z
-                            7    32/256  12.5%  BugFrag x1
+Blue    14A8    Locations:  0	32/ 32	100%	(-512, 192,   0)
+                Contents:   0	32/ 32	100%	VDoll    F
+Blue    14A9    Locations:  0	32/ 32	100%	(-512, -64,   0)
+                Contents:   0	32/ 32	100%	Recov150 M
+Blue    14AA    Locations:  0	32/ 32	100%	(  96, 512,   0)
+                Contents:   0	32/ 32	100%	RegUP3
+Green   14AB    Locations:  0	32/ 64    50%  ( 288,-512,   0)
+                            1	32/ 64    50%  (-288,-384,   0)
+                Contents:   0	32/256	12.5%	GunDelS1 M	(Trap)
+                            1	32/256	12.5%	AirSpin1 G	(Trap)
+                            2	32/256	12.5%	GrasSeed *
+                            3	32/256	12.5%	ComingRd *
+                            4	32/256	12.5%	700z
+                            5	32/256	12.5%	1300z
+                            6	32/256	12.5%	1600z
+                            7	32/256	12.5%	BugFrag x1
+Green   14AC    Locations:  0	32/ 64    50%  ( 320, 352,   0)
+                            1	32/ 64    50%  (-352,  96,   0)
+                Contents:   0	32/256	12.5%	GunDelS1 M
+                            1	32/256	12.5%	AirSpin1 G
+                            2	32/256	12.5%	GrasSeed *	(Trap)
+                            3	32/256	12.5%	ComingRd *	(Trap)
+                            4	32/256	12.5%	700z
+                            5	32/256	12.5%	1300z
+                            6	32/256	12.5%	1600z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 95 02: Undernet 2
 
-Blue    14B0    Locations:  0    32/ 32   100%  (-478, 318,   0)
-                Contents:   0    32/ 32   100%  HP Memry
-Purple  14B1    Locations:  0    32/ 32   100%  ( -64,-318, 128)
-                Contents:   0    32/ 32   100%  AntiDmg (green)
-Green   14B2    Locations:  0    32/ 64    50%  ( 382,  64,   0)
-                            1    32/ 64    50%  ( 384,-350,   0)
-                Contents:   0    32/256  12.5%  WideBlde W  (Trap)
-                            1    32/256  12.5%  TrplShot V  (Trap)
-                            2    32/256  12.5%  BurnSqr1 H
-                            3    32/256  12.5%  AirSpin2 A
-                            4    32/256  12.5%  1120z
-                            5    32/256  12.5%  1360z
-                            6    32/256  12.5%  1700z
-                            7    32/256  12.5%  BugFrag x1
-Green   14B3    Locations:  0    32/ 64    50%  (-576,   2,   0)
-                            1    32/ 64    50%  (-320,   0,   0)
-                Contents:   0    32/256  12.5%  WideBlde W
-                            1    32/256  12.5%  TrplShot V
-                            2    32/256  12.5%  BurnSqr1 H  (Trap)
-                            3    32/256  12.5%  AirSpin2 A  (Trap)
-                            4    32/256  12.5%  1120z
-                            5    32/256  12.5%  1360z
-                            6    32/256  12.5%  1700z
-                            7    32/256  12.5%  BugFrag x1
+Blue    14B0    Locations:  0	32/ 32	100%	(-478, 318,   0)
+                Contents:   0	32/ 32	100%	HP Memry
+Purple  14B1    Locations:  0	32/ 32	100%	( -64,-318, 128)
+                Contents:   0	32/ 32	100%	AntiDmg (green)
+Green   14B2    Locations:  0	32/ 64    50%  ( 382,  64,   0)
+                            1	32/ 64    50%  ( 384,-350,   0)
+                Contents:   0	32/256	12.5%	WideBlde W	(Trap)
+                            1	32/256	12.5%	TrplShot V	(Trap)
+                            2	32/256	12.5%	BurnSqr1 H
+                            3	32/256	12.5%	AirSpin2 A
+                            4	32/256	12.5%	1120z
+                            5	32/256	12.5%	1360z
+                            6	32/256	12.5%	1700z
+                            7	32/256	12.5%	BugFrag x1
+Green   14B3    Locations:  0	32/ 64    50%  (-576,   2,   0)
+                            1	32/ 64    50%  (-320,   0,   0)
+                Contents:   0	32/256	12.5%	WideBlde W
+                            1	32/256	12.5%	TrplShot V
+                            2	32/256	12.5%	BurnSqr1 H	(Trap)
+                            3	32/256	12.5%	AirSpin2 A	(Trap)
+                            4	32/256	12.5%	1120z
+                            5	32/256	12.5%	1360z
+                            6	32/256	12.5%	1700z
+                            7	32/256	12.5%	BugFrag x1
 ----------------------------------------------------------------
 Area 96 01: Graveyard 2 (JP) / Graveyard (EN)
 
-Blue    14C8    Locations:  0    32/ 32   100%  (  30,-158,  64)
-                Contents:   0    32/ 32   100%  HP Memry
-Blue    14C9    Locations:  0    32/ 32   100%  ( -64,-352,  64)
-                Contents:   0    32/ 32   100%  RegUP2
-Purple  14CA    Locations:  0    32/ 32   100%  (-194,-350,  64)
-                Contents:   0    32/ 32   100%  Anubis   P
-Blue    14CB    Locations:  0    32/ 32   100%  (-320, 448,   0)
-                Contents:   0    32/ 32   100%  Charge+1 (pink)
-Blue    14CC    Locations:  0    32/ 32   100%  (  62,-350,  64)
-                Contents:   0    32/ 32   100%  8000z
-Purple  14CD    Locations:  0    32/ 32   100%  (-194, -94,   0)
-                Contents:   0    32/ 32   100%  HP+500 (pink)
-Green   14CE    Locations:  0    32/ 64    50%  ( -62, 254,   0)
-                            1    32/ 64    50%  ( 158, -96,  64)
-                Contents:   0    32/256  12.5%  WindRack R  (Trap)
-                            1    32/256  12.5%  GunDelS2 R  (Trap)
-                            2    32/256  12.5%  GolmHit2 P
-                            3    32/256  12.5%  MoonBld  A
-                            4    32/256  12.5%  1900z
-                            5    32/256  12.5%  2600z
-                            6    32/256  12.5%  3800z
-                            7    32/256  12.5%  BugFrag x1
-Green   14CF    Locations:  0    32/ 64    50%  ( 190, 416,   0)
-                            1    32/ 64    50%  ( 190, 128,   0)
-                Contents:   0    32/256  12.5%  WindRack R
-                            1    32/256  12.5%  GunDelS2 R
-                            2    32/256  12.5%  GolmHit2 P  (Trap)
-                            3    32/256  12.5%  MoonBld  A  (Trap)
-                            4    32/256  12.5%  1900z
-                            5    32/256  12.5%  2600z
-                            6    32/256  12.5%  3800z
-                            7    32/256  12.5%  BugFrag x1
-Blue    14DF    Locations:  0    32/ 32   100%  (-380, 380,   0)
-                Contents:   0    32/ 32   100%  AttckMAX (red)
+Blue    14C8    Locations:  0	32/ 32	100%	(  30,-158,  64)
+                Contents:   0	32/ 32	100%	HP Memry
+Blue    14C9    Locations:  0	32/ 32	100%	( -64,-352,  64)
+                Contents:   0	32/ 32	100%	RegUP2
+Purple  14CA    Locations:  0	32/ 32	100%	(-194,-350,  64)
+                Contents:   0	32/ 32	100%	Anubis   P
+Blue    14CB    Locations:  0	32/ 32	100%	(-320, 448,   0)
+                Contents:   0	32/ 32	100%	Charge+1 (pink)
+Blue    14CC    Locations:  0	32/ 32	100%	(  62,-350,  64)
+                Contents:   0	32/ 32	100%	8000z
+Purple  14CD    Locations:  0	32/ 32	100%	(-194, -94,   0)
+                Contents:   0	32/ 32	100%	HP+500 (pink)
+Green   14CE    Locations:  0	32/ 64    50%  ( -62, 254,   0)
+                            1	32/ 64    50%  ( 158, -96,  64)
+                Contents:   0	32/256	12.5%	WindRack R	(Trap)
+                            1	32/256	12.5%	GunDelS2 R	(Trap)
+                            2	32/256	12.5%	GolmHit2 P
+                            3	32/256	12.5%	MoonBld  A
+                            4	32/256	12.5%	1900z
+                            5	32/256	12.5%	2600z
+                            6	32/256	12.5%	3800z
+                            7	32/256	12.5%	BugFrag x1
+Green   14CF    Locations:  0	32/ 64    50%  ( 190, 416,   0)
+                            1	32/ 64    50%  ( 190, 128,   0)
+                Contents:   0	32/256	12.5%	WindRack R
+                            1	32/256	12.5%	GunDelS2 R
+                            2	32/256	12.5%	GolmHit2 P	(Trap)
+                            3	32/256	12.5%	MoonBld  A	(Trap)
+                            4	32/256	12.5%	1900z
+                            5	32/256	12.5%	2600z
+                            6	32/256	12.5%	3800z
+                            7	32/256	12.5%	BugFrag x1
+Blue    14DF    Locations:  0	32/ 32	100%	(-380, 380,   0)
+                Contents:   0	32/ 32	100%	AttckMAX (red)
 ----------------------------------------------------------------

@@ -2,6 +2,7 @@ import json
 import functools
 
 import enemy_drops
+from mystery_data import MysteryDataParser6
 
 PAGE_HEADER = """\
 {{nw|TODO: Add info and improve template.}}
@@ -175,8 +176,16 @@ def get_unregistered_secret_chip_id_name(chip):
 
     return chip_id, chip_name
 
-def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None):
+jp_en_chip_full_to_location_text = {
+    "ElecSwrd E": "Central Area 3 PMD, {{JP}} Undernet 3 {{JP}} GMD",
+    "Recov150 M": "{{JP}} Undernet 2 BMD / {{EN}} Undernet Zero BMD",
+    "WhiCapsl *": "Fish Stick Shop Comp BMD, {{JP}} Class 1-2 Comp BMD / {{EN}} Stuffed Toy Shop Comp BMD"
+}
+
+def gen_basic_chiploc_table(chips, game_drop_table=None, mystery_data=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None):
     output = []
+    if mystery_data is not None:
+        mystery_data_jp, mystery_data_en = mystery_data
 
     for chip in chips:
         id, name = chip_id_name_func(chip)
@@ -195,6 +204,26 @@ def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_b
                 enemy_chip_location = game_drop_table.find_chip(original_name, original_code)
                 if enemy_chip_location is not None:
                     location_text_parts.append(enemy_chip_location)
+
+            if mystery_data is not None:
+                md_chip_location_jp = mystery_data_jp.find_chip(name, original_code)
+                md_chip_location_en = mystery_data_en.find_chip(name, original_code)
+                if md_chip_location_jp != md_chip_location_en:
+                    if md_chip_location_jp is None:
+                        md_chip_location_en = f"{{{{EN}}}} {md_chip_location_en}"
+                        location_text_parts.append(md_chip_location_en)
+                        #print(f"{name} {original_code}: EN: {md_chip_location_en}")                        
+                    elif md_chip_location_en is None:
+                        md_chip_location_jp = f"{{{{JP}}}} {md_chip_location_jp}"
+                        location_text_parts.append(md_chip_location_jp)
+                        #print(f"{name} {original_code}: JP: {md_chip_location_jp}")
+                    else:
+                        chip_full = f"{name} {original_code}"
+                        location_text = jp_en_chip_full_to_location_text[chip_full]
+                        location_text_parts.append(location_text)
+                        #print(f"{name} {original_code}: JP/EN: {md_chip_location_jp} | {md_chip_location_en}")
+                elif md_chip_location_en is not None:
+                    location_text_parts.append(md_chip_location_en)
 
             location_text = ", ".join(location_text_parts)
             
@@ -323,6 +352,8 @@ def main():
         json.dump(library_chips, f, indent=2)
 
     chip_traders = ChipTraders(("asterland_trader.txt", "acdc_town_trader.txt", "sky_town_trader.txt", "green_town_trader.txt", "bn6_bugfrag_trader.txt"))
+    mystery_data_jp = MysteryDataParser6("exe6_mystery_data.txt", False, library_chips)
+    mystery_data_en = MysteryDataParser6("bn6_mystery_data.txt", True, library_chips)
 
     #remaining_sections = set(chip.get("section") for chip in library_chips)
     chips_by_section = {}
@@ -364,11 +395,11 @@ def main():
 
     standard = chips_by_section["standard"]
     output.append("==Standard Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(standard, game_drop_table=game_drop_table, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(standard, game_drop_table=game_drop_table, mystery_data=(mystery_data_jp, mystery_data_en), chip_traders=chip_traders))
 
     mega = chips_by_section["mega"]
     output.extend(["==Mega Class Chips==\n", "Mega Chips #40 to #45 are Japanese version only.\n"])
-    output.extend(gen_basic_chiploc_table(mega, game_drop_table=game_drop_table, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(mega, game_drop_table=game_drop_table, mystery_data=(mystery_data_jp, mystery_data_en), chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
     output.extend(["==Giga Class Chips==\n", "===Gregar===\n"])
     giga_gregar = chips_by_section["giga_gregar"]

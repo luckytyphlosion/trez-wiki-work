@@ -2,6 +2,8 @@ import json
 import functools
 
 import enemy_drops
+from mystery_data import MysteryDataParser5
+
 
 PAGE_HEADER = """\
 {{nw|TODO: Add info and improve template.}}
@@ -144,9 +146,10 @@ def get_mega_chip_id_name(chip):
 
     return chip_id, chip_name
 
-def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None):
+def gen_basic_chiploc_table(chips, game_drop_table=None, mystery_data=None, chip_id_name_func=get_basic_chip_id_name, chip_traders=None):
     output = []
-
+    if mystery_data is not None:
+        mystery_data_jp, mystery_data_en = mystery_data
     for chip in chips:
         id, name = chip_id_name_func(chip)
         cur_output = CHIP_LOCATION_TEMPLATE_PART_1.format(id=id, name=name)
@@ -164,6 +167,20 @@ def gen_basic_chiploc_table(chips, game_drop_table=None, chip_id_name_func=get_b
                 enemy_chip_location = game_drop_table.find_chip(original_name, original_code)
                 if enemy_chip_location is not None:
                     location_text_parts.append(enemy_chip_location)
+
+            if mystery_data is not None:
+                md_chip_location_jp = mystery_data_jp.find_chip(name, original_code)
+                md_chip_location_en = mystery_data_en.find_chip(name, original_code)
+                if md_chip_location_jp != md_chip_location_en:
+                    if md_chip_location_jp is None:
+                        print(f"{name} {original_code}: EN: {md_chip_location_en}")                        
+                    elif md_chip_location_en is None:
+                        print(f"{name} {original_code}: JP: {md_chip_location_jp}")
+                    else:
+                        print(f"{name} {original_code}: JP/EN: {md_chip_location_jp} | {md_chip_location_en}")
+
+                if md_chip_location_en is not None:
+                    location_text_parts.append(md_chip_location_en)
 
             location_text = ", ".join(location_text_parts)
 
@@ -269,6 +286,8 @@ def main():
         json.dump(bn5_library_chips, f, indent=2)
 
     chip_traders = ChipTraders(("higsbys_trader.txt", "hall_trader.txt", "mine_trader.txt", "bugfrag_trader.txt"))
+    mystery_data_jp = MysteryDataParser5("exe5_mystery_data.txt", False, bn5_library_chips)
+    mystery_data_en = MysteryDataParser5("bn5_mystery_data.txt", True, bn5_library_chips)
 
     #bn5_remaining_sections = set(chip.get("section") for chip in bn5_library_chips)
     bn5_chips_by_section = {}
@@ -314,11 +333,11 @@ def main():
 
     bn5_standard = bn5_chips_by_section["standard"]
     output.append("==Standard Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(bn5_standard, game_drop_table=game_drop_table, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(bn5_standard, game_drop_table=game_drop_table, mystery_data=(mystery_data_jp, mystery_data_en), chip_traders=chip_traders))
 
     bn5_mega = bn5_chips_by_section["mega"]
     output.append("==Mega Class Chips==\n")
-    output.extend(gen_basic_chiploc_table(bn5_mega, game_drop_table=game_drop_table, chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
+    output.extend(gen_basic_chiploc_table(bn5_mega, game_drop_table=game_drop_table, mystery_data=(mystery_data_jp, mystery_data_en), chip_id_name_func=get_mega_chip_id_name, chip_traders=chip_traders))
 
     output.extend(["==Giga Class Chips==\n", "===Team ProtoMan===\n"])
     bn5_giga_protoman = bn5_chips_by_section["giga_protoman"]

@@ -155,3 +155,12 @@ cython_debug/
 *.json
 !bn5_chips.json
 ignore/
+
+*.png
+*.mp4
+*.jpg
+*.mov
+*.webp
+*.srm
+discord-attachments/config.yml
+bn4_mystery_data_wiki_out.txt

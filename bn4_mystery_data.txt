@@ -1917,10 +1917,10 @@ Area 94 06: Black Earth 1
 
 Blue	 E30	Locations:	0	32/32	  100%	(-428,  12,   0)
 		1st:		0	32/32	  100%	HP Memory
-		2nd:		0	32/32	  100%	BugFrag x1
+		Rest:		0	32/32	  100%	BugFrag x1
 Blue	 E31	Locations:	0	32/32	  100%	( -10,-120,   0)
 		1st:		0	32/32	  100%	LifeAura D
-		2nd:		0	32/32	  100%	BugFrag x1
+		Rest:		0	32/32	  100%	BugFrag x1
 Green	 E32	Locations:	0	32/128	   25%	(  56,-410,   0)
 				1	32/128	   25%	(-268,-246,   0)
 				2	32/128	   25%	(-266,-250,   0)

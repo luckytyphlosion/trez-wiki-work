@@ -1,4 +1,5 @@
 import re
+import collections
 
 from line_reader import LineReader
 
@@ -12,14 +13,47 @@ availability_to_abbrev_availability = {
     "Game 2": "G2",
 }
 
-class MysteryDataParser:
-    __slots__ = ("all_chip_locations",)
+"""
+{| class="wikitable"
+|+ {map_name}
+|-
+! !! 1st !! 2nd !! 3rd !! 4th+
+|-
+! scope="row"| Set Data
+|| (PMD) Item A <br/> (BMD) Item B || (PMD) Item C <br/> (BMD) Item D || (PMD) Item E <br/> (BMD) Item F || (PMD) Item G <br/> (BMD) Item N
+|-
+! !! Game 1 !! Game 2 !! Game 3
+|-
+! scope="row"| GMD 1
+|| Item1 (42.0%) <br/> Item2 (16.69%) <br/> Item3 <br/> Item4 <br/> Item5 <br/> Item6 <br/> Item7 <br/> Item8 || Item1 <br/> Item2 <br/> Item3 <br/> Item4 <br/> Item5 <br/> Item6 <br/> Item7 <br/> Item8 || Item1 <br/> Item2 <br/> Item3 <br/> Item4 <br/> Item5 <br/> Item6 <br/> Item7 <br/> Item8
+|-
+! scope="row"| GMD 2
+|| Item1 <br/> Item2 <br/> Item3 <br/> Item4 <br/> Item5 <br/> Item6 <br/> Item7 <br/> Item8 || Item1 <br/> Item2 <br/> Item3 <br/> Item4 <br/> Item5 <br/> Item6 <br/> Item7 <br/> Item8 || Item1 <br/> Item2 <br/> Item3 <br/> Item4 <br/> Item5 <br/> Item6 <br/> Item7 <br/> Item8
+|}
+"""
 
-    def __init__(self, filename, game_number, library_chips):
+class MysteryData:
+    __slots__ = ("md_type_abbrev", "contents", "chance", "is_trapped")
+
+    def __init__(self, md_type_abbrev, contents, chance=None, is_trapped=False):
+        self.md_type_abbrev = md_type_abbrev
+        self.contents = contents
+        self.chance = chance
+        self.is_trapped = is_trapped
+
+class BN4MapMysteryData:
+    __slots__ = ("map_name", "set_data", "gmds")
+
+    def __init__(self, map_name):
+        self.map_name = map_name
+        self.set_data = collections.defaultdict(list)
+        self.gmds = collections.defaultdict(lambda: collections.defaultdict(list))
+
+class MysteryDataParser:
+    __slots__ = ("all_chip_locations", "output")
+
+    def __init__(self, filename):
         all_library_chip_code_combos = set()
-        for chip in library_chips:
-            for chip_code in chip["codes"]:
-                all_library_chip_code_combos.add(f"{chip['name']['en']} {chip_code}")
 
         with open(filename, "r") as f:
             contents = f.read()
@@ -27,19 +61,24 @@ class MysteryDataParser:
             line_reader = LineReader(contents.splitlines(), filename)
 
         self.all_chip_locations = {}
+        output = ""
 
         for line in line_reader:
             map_name = line.split(": ")[1]
+            cur_map_mds = BN4MapMysteryData(map_name)
+
             while True:
                 line = line_reader.next()
                 if line.strip() != "":
                     break
 
+            cur_gmd_index = 0
             while True:
                 mystery_data_type = line.split("\t", maxsplit=1)[0]
                 #if mystery_data_type in {"Blue", "Purple"}:
                 mystery_data_type_abbrev = f"{mystery_data_type[0]}MD"
                 if mystery_data_type == "Green":
+                    cur_gmd_index += 1
                     while True:
                         line = line_reader.next()
                         if not tab_then_digit_regex.match(line):
@@ -49,7 +88,7 @@ class MysteryDataParser:
     
                 while True:
                     md_contents = multitab_regex.split(line.strip())
-                    print(f"md_contents: {md_contents}")
+                    #print(f"md_contents: {md_contents}")
                     if mystery_data_type in {"Blue", "Purple"}:
                         if line.endswith(":"):
                             availability = "Rest"
@@ -62,8 +101,15 @@ class MysteryDataParser:
                         line = line_reader.next()
                         continue
 
+                    is_trapped = None
+
                     if mystery_data_type == "Green":
+                        chance = md_contents[1]
                         reward_padded = md_contents[3]
+                        if len(md_contents) == 5:
+                            is_trapped = True
+                        else:
+                            is_trapped = False
                     else:
                         reward_padded = md_contents[4]
                     reward = multispace_regex.sub(" ", reward_padded)
@@ -73,17 +119,22 @@ class MysteryDataParser:
                         if map_name in {"Undernet 5", "Black Earth 1", "Black Earth 2"}:
                             abbrev_availability = "Always"
                         else:
+                            availability = "Game 3+"
                             abbrev_availability = "G3+"
-                    elif map_name == "Sharo Area" and reward == "BlkBomb Z":
-                        abbrev_availability = "Always"
 
                     #print(line)
-                    if reward not in all_library_chip_code_combos:
-                        pass #print(f"ignored {reward}")
+                    print(f"reward: {reward}, cur_gmd_index: {cur_gmd_index}")
+                    if mystery_data_type in {"Blue", "Purple"}:
+                        cur_map_mds.set_data[availability].append(MysteryData(mystery_data_type_abbrev, reward))
                     else:
-                        location = f"{map_name} {mystery_data_type_abbrev} ({abbrev_availability})"
-                        #print(f"location: {location}")
-                        self.add_location(reward, location)
+                        cur_map_mds.gmds[cur_gmd_index][availability].append(MysteryData(mystery_data_type_abbrev, reward, chance, is_trapped))
+
+                    #if reward not in all_library_chip_code_combos:
+                    #    pass #print(f"ignored {reward}")
+                    #else:
+                    #    location = f"{map_name} {mystery_data_type_abbrev} ({abbrev_availability})"
+                    #    #print(f"location: {location}")
+                    #    self.add_location(reward, location)
     
                     line = line_reader.next()
                     if not line.startswith("\t"):
@@ -91,6 +142,52 @@ class MysteryDataParser:
 
                 if line.startswith("---------------"):
                     break
+
+            output += f'''\
+{{| class="wikitable"
+|+ {cur_map_mds.map_name}
+'''
+
+            if len(cur_map_mds.set_data) != 0:
+                output += '''\
+|-
+! !! '''
+                output += " !! ".join(sorted(cur_map_mds.set_data.keys())) + "\n"
+                output += """\
+|-
+! scope="row"| Set Data
+|| """
+                set_data_grouped = []
+    
+                for set_mystery_data_by_availability in cur_map_mds.set_data.values():
+                    set_mystery_data_for_availability = " <br/> ".join(f"({set_mystery_data.md_type_abbrev}) {set_mystery_data.contents}" for set_mystery_data in set_mystery_data_by_availability)
+                    set_data_grouped.append(set_mystery_data_for_availability)
+    
+                output += " || ".join(set_data_grouped) + "\n"
+
+            if len(cur_map_mds.gmds) != 0:
+                output += """\
+|-
+! !! """
+
+                output += " !! ".join(sorted(cur_map_mds.gmds[1].keys())) + "\n"
+
+                for gmd_index, gmds_for_index in cur_map_mds.gmds.items():
+                    output += f'''\
+|-
+! scope="row" | GMD {gmd_index}
+|| '''
+                    gmds_grouped = []
+    
+                    for gmds_by_availability in gmds_for_index.values():
+                        gmds_for_availability = " <br/> ".join(f"{gmd.contents} ({{{{chance|{gmd.chance}}}}}){' (Trap)' if gmd.is_trapped else ''}" for gmd in gmds_by_availability)
+                        gmds_grouped.append(gmds_for_availability)
+    
+                    output += " || ".join(gmds_grouped) + "\n"
+
+            output += "|}\n"
+
+        self.output = output
 
     def add_location(self, chip_full, location):
         chip_locations = self.all_chip_locations.get(chip_full)
@@ -354,21 +451,9 @@ class MysteryDataParser6:
             return ", ".join(chip_locations.keys())
 
 def main():
-    import json
-    from gen_bn4_chips_wiki_table import convert_v2_format_to_v1, is_library_chip
-
-    with open("bn4_chips_v2.json", "r") as f:
-        chips_v2 = json.load(f)
-
-    chips = convert_v2_format_to_v1(chips_v2)
-    library_chips = list(filter(is_library_chip, chips))
-
-    bn4_mystery_data = MysteryDataParser("bn4_mystery_data.txt", 4, library_chips)
-    output = ""
-    for chip_full, chip_locations in bn4_mystery_data.all_chip_locations.items():
-        output += f"{chip_full}: {', '.join(chip_locations.keys())}\n"
-
-    print(output)
+    bn4_mystery_data = MysteryDataParser("bn4_mystery_data.txt")
+    with open("bn4_mystery_data_wiki_out.txt", "w+") as f:
+        f.write(bn4_mystery_data.output)
 
 if __name__ == "__main__":
     main()
